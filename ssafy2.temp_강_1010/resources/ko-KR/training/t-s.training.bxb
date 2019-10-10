@@ -1,0 +1,5 @@
+train (t-sv2h5vme2k4o2khmoiwfe4j57) {
+  utterance ("[g:Results:continue:SearchDisease] (증상)[v:InputSymptom]이 나와")
+  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOCK7MLSjJz2WQQJbyzCsoLYHJMDEwAjEDkGRkAAEmCAYA)
+  last-modified (1570680221996)
+}

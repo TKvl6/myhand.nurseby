@@ -1,0 +1,11 @@
+action (SearchSymptom) {
+  type(Search)
+  description (아픈 증상으로 찾아주기)
+  collect {
+     input (inputSymptom) {
+      type (InputSymptom)
+      min (Optional) max (Many)
+    }
+  }
+  output (Results)
+}
