@@ -1,0 +1,15 @@
+train (t-u67ri06hlozl9erpwtxqintug) {
+  utterance ("[g:Results] (머리에서 열)[v:InputSymptom] 나")
+  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmWQQJbyzCsoLQmuzC0oyc9lYGJgBGIGIMnIAAJMEAwA)
+  last-modified (1570637801846)
+}
+train (t-uf8thrn2vyoq9aa51xzad3tlw) {
+  utterance ("[g:Results] (핏기)[v:InputSymptom]가 없어")
+  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmWQQJbyzCsoLQmuzC0oyc9lYGJgBGIGIMnIAAJMEAwA)
+  last-modified (1570695369146)
+}
+train (t-uftars7thyylwnp9kjwq9d37n) {
+  utterance ("[g:Results] (집중)[v:InputSymptom]이 안돼")
+  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmWQQJbyzCsoLQmuzC0oyc9lYGJgBGIGIMnIAAJMEAwA)
+  last-modified (1570695061602)
+}
