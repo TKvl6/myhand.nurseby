@@ -1,0 +1,54 @@
+result-view {
+	match: Results(this)
+	
+	message{
+		template ("가장 가능성 있는 질병은 #{value(this[0].name)} 입니다!")
+	}
+	
+	render {
+		if(size(this) == 1){
+			layout-match (this){
+				mode (Details)
+			}
+		}
+		else{
+			layout {
+				section {
+					content {
+						for-each (this){
+							as (item){
+								title-area {
+									halign (Start)
+									slot1 {
+										text {
+											style (Title_S)
+											value ("#{value(item.name)}")
+										}
+									}
+									slot2 {
+										paragraph{
+											style (Title_XS)
+											value ("원인 : #{value(item.cause)} \n증상 : #{value(item.symptom)}\n부위 : #{value(item.part)}")
+										}
+									}
+
+									slot3 {
+										single-line {
+											text {
+												style (Detail_M_Soft)
+												value ("score : #{value(item.score)}")
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	conversation-drivers {
+		conversation-driver ("코에서 피가 나와")
+	}
+}

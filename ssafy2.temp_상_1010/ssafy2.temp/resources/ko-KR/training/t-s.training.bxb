@@ -1,0 +1,10 @@
+train (t-sb40j23hqm3xmfw92ykpacwb1) {
+  utterance ("[g:Results] (잠)[v:InputSymptom]이 안와")
+  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmWQQJbyzCsoLQmuzC0oyc9lYGJgBGIGIMnIAAJMEAwA)
+  last-modified (1570695493835)
+}
+train (t-sv4u234qzpr6ptcfqpokdmhpb) {
+  utterance ("[g:Results] (물집)[v:InputSymptom] 잡혔어")
+  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmWQQJbyzCsoLQmuzC0oyc9lYGJgBGIGIMnIAAJMEAwA)
+  last-modified (1570674297963)
+}
