@@ -16,14 +16,9 @@ result-view{
       }
     }
     else{
-      layout{
-        section{
-          content{
-            for-each (this){
-              as (item){
-                //
-
-                title-card {
+      list-of (this){
+        where-each (item){
+          title-card {
                   title-area {
                     halign (Start)
                     slot1 {
@@ -49,20 +44,31 @@ result-view{
                       }
                     }
                         }
-                    on-click {
-                     intent {
-                       goal: Results
-                     }
-                    }
+                    // on-click {
+                    //  intent {
+                    //    goal: Results
+                    //  }
+                    // }
                   }
+        }
+      }
+      // layout{
+      //   section{
+      //     content{
+            
+      //       for-each (this){
+      //         as (item){
+      //           //
+                
+                
 
-                //
-                divider
-              }
-            }//for-each
-          }
-        }//section
-      }//layout
+      //           //
+      //           divider
+      //         }
+      //       }//for-each
+      //     }
+      //   }//section
+      // }//layout
     }//else
   }
 	

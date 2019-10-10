@@ -1,0 +1,57 @@
+layout {
+  match: Results (results)
+  mode (Details)
+
+  content {
+    section {
+      content {
+        // title-area {
+				// 					halign (Start)
+				// 					slot1 {
+				// 						text {
+				// 							style (Title_S)
+				// 							value ("#{value(results.name)}")
+				// 						}
+				// 					}
+				// 					slot2 {
+				// 						paragraph{
+				// 							style (Title_XS)
+				// 							value ("원인 : #{value(results.cause)} \n증상 : #{value(results.symptom)}\n부위 : #{value(results.part)}")
+				// 						}
+				// 					}
+
+				// 					slot3 {
+				// 						single-line {
+				// 							text {
+				// 								style (Detail_M_Soft)
+				// 								value ("score : #{value(results.score)}")
+				// 							}
+				// 						}
+				// 					}
+				// 				}
+        single-line{
+                  text{
+                    style(Title_L)
+                    value{
+                      template ("#{value(results.name)}")
+                    }
+                  }
+                }
+                single-line{
+                  text{
+                    style (Detail_M_Soft)
+                    value{
+                      template ("score : #{value(results.score)}")
+                    }
+                  }
+                }
+                paragraph{
+                  style (Detail_L_Soft)
+                  value{
+                    template ("원인 : #{value(results.cause)} \n\n증상 : #{value(results.symptom)}\n\n부위 : #{value(results.part)}")
+                  }
+                }
+      }
+    }
+  }
+}
