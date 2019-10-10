@@ -1,0 +1,31 @@
+structure (Results) {
+  description (Results structure..)
+  property (code) {
+    type (Code)
+    min (Optional) max (One)
+  }
+  property (name) {
+    type (Name)
+    min (Optional) max (One)
+  }
+  property (cause) {
+    type (Cause)
+    min (Optional) max (One)
+  }
+  property (symptom) {
+    type (Symptom)
+    min (Optional) max (One)
+  }
+  property (part) {
+    type (Part)
+    min (Optional) max (One)
+  }
+  property (desc) {
+    type (Desc)
+    min (Optional) max (One)
+  }
+  property (score) {
+    type (Score)
+    min (Optional) max (One)
+  }
+}
