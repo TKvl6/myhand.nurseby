@@ -1,5 +1,5 @@
 module.exports.function = function searchPart (inputPart) {
-  const fakeData = require("./data/TempData.js");
+  const fakeData = require("./data/data.js");
   const console = require("console");
   console.log("###searchPart()");
   let results = [];

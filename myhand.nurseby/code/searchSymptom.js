@@ -1,5 +1,5 @@
 module.exports.function = function searchSymptom (inputSymptom) {
-  const fakeData = require("./data/TempData.js");
+  const fakeData = require("./data/data.js");
   const console = require("console");
   console.log("###searchSymptom()");
   let results = [];
