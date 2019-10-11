@@ -28,4 +28,9 @@ structure (Results) {
     type (Score)
     min (Optional) max (One)
   }
+
+  property (core_symptom){
+    type (CoreSymptom)
+    min (Optional) max (One)
+  }
 }

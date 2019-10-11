@@ -1,11 +1,11 @@
 layout {
-  match: Results (results)
-  mode (Details)
-
-  content {
-    section {
-      content {
-        // title-area {
+	match: Results (results)
+	mode (Details)
+	
+	content {
+		section {
+			content {
+				// title-area {
 				// 					halign (Start)
 				// 					slot1 {
 				// 						text {
@@ -19,7 +19,7 @@ layout {
 				// 							value ("원인 : #{value(results.cause)} \n증상 : #{value(results.symptom)}\n부위 : #{value(results.part)}")
 				// 						}
 				// 					}
-
+				
 				// 					slot3 {
 				// 						single-line {
 				// 							text {
@@ -29,29 +29,68 @@ layout {
 				// 						}
 				// 					}
 				// 				}
-        single-line{
-                  text{
-                    style(Title_L)
-                    value{
-                      template ("#{value(results.name)}")
-                    }
-                  }
-                }
-                single-line{
-                  text{
-                    style (Detail_M_Soft)
-                    value{
-                      template ("score : #{value(results.score)}")
-                    }
-                  }
-                }
-                paragraph{
-                  style (Detail_L_Soft)
-                  value{
-                    template ("원인 : #{value(results.cause)} \n\n증상 : #{value(results.symptom)}\n\n부위 : #{value(results.part)}")
-                  }
-                }
-      }
-    }
-  }
+				single-line{
+					text{
+						style(Title_L)
+						value{
+							template ("#{value(results.name)}")
+						}
+					}
+				}
+				single-line{
+					text{
+						style (Detail_M_Soft)
+						value{
+							template ("유사성 : ")
+						}
+					}
+          
+
+          }
+					if (value(results.score) < 20){
+						image {
+							url {
+								template ("./img/rating_star1.png")
+							}
+						}
+					}else if(value(results.score) < 40){
+						image {
+							url {
+								template ("./img/rating_star2.png")
+							}
+							style (Detail_L)
+						}
+					}else if(value(results.score) < 60){
+						image {
+							url {
+								template ("./img/rating_star3.png")
+							}
+							style (Detail_L)
+						}
+					}else if(value(results.score) < 80){
+						image {
+							url {
+								template ("./img/rating_star4.png")
+							}
+							style (Detail_L)
+						}
+					}else{
+						image {
+							url {
+								template ("./img/rating_star5.png")
+							}
+							style (Detail_L)
+						}
+					}
+					
+				}
+				paragraph{
+					style (Detail_L_Soft)
+					value{
+						template ("원인 : #{value(results.cause)} \n\n증상 : #{value(results.symptom)}\n\n부위 : #{value(results.part)}")
+					}
+				}
+			}
+		}
+	}
 }

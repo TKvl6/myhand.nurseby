@@ -6,9 +6,9 @@ module.exports.function = function searchSymptom (inputSymptom) {
   
   console.log("inputSymptom : " + inputSymptom);
   if(inputSymptom != null){
-      for(let i = 0; i<fakeData.length; i++){
+      for(let i = 0; i<4; i++){
       let tempData = fakeData[i];
-      if(fakeData[i].symptom.includes(inputSymptom)){
+      if(fakeData[i].core_symptom.includes(inputSymptom)){
         results.push(fakeData[i]);
       }
     }

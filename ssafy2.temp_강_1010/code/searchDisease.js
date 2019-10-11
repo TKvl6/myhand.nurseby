@@ -54,7 +54,7 @@ module.exports.function = function searchDisease(inputPart, inputSymptom) {
         // ","를 추가해야 '피' 검색했을 때 '피부 질환' 이런게 나옴
         // 현재는 임시로 , 추가해서 해결
         // symtom 배열로 바꿀 필요있음!
-        if (fakeData[i].symptom.includes(inputSymptom)) {
+        if (fakeData[i].core_symptom.includes(inputSymptom)) {
           fakeData[i].score += SCORE.symtom;
           if (results.indexOf(fakeData[i]) == -1)
             results.push(fakeData[i]);

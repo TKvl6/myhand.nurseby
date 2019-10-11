@@ -2,12 +2,12 @@ structure (Input) {
   description (intput structure..)
   property (inputPart) {
     type (InputPart)
-    min (Required) max (One)
+    min (Required) max (Many)
   }
 
   property (inputSymptom) {
     type (InputSymptom)
-    min (Required) max (One)
+    min (Required) max (Many)
   }
 
   // features {
