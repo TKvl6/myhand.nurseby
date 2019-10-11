@@ -1,0 +1,16 @@
+structure (Input) {
+  description (intput structure..)
+  property (inputPart) {
+    type (InputPart)
+    min (Required) max (One)
+  }
+
+  property (inputSymptom) {
+    type (InputSymptom)
+    min (Required) max (One)
+  }
+
+  // features {
+  //   transaction
+  // }
+}

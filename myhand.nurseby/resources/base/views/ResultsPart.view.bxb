@@ -1,0 +1,74 @@
+result-view{
+	match: Results(this){
+    from-output : SearchPart(searchPart)
+  }
+	
+	
+	message{
+		template ("증상과 함께 말해주시겠어요 ?")
+	}
+	
+	// 레이아웃
+	render{
+    if(size(this) == 1){
+      layout-match (this){
+        mode (Details)
+      }
+    }
+    else{
+      layout{
+        section{
+          content{
+            for-each (this){
+              as (item){
+                //
+
+                title-card {
+                  title-area {
+                    halign (Start)
+                    slot1 {
+                      text {
+                        style (Title_S)
+                        value ("#{value(item.name)}") // Best Eastern Hotels and Resorts
+                      }
+                    }
+                    slot2 {
+                      single-line {
+                       text {
+                          style (Detail_L_Soft)
+                          value ("유사성 : #{value(item.score)}") // From $160.00
+                        }
+                      }
+                    }
+                    slot3 {
+                      single-line {
+                       text {
+                          style (Detail_M_Soft)
+                          value ("#{value(item.desc)}") // 4.5stars
+                        }
+                      }
+                    }
+                        }
+                    on-click {
+                     intent {
+                       goal: Results
+                     }
+                    }
+                  }
+
+                //
+                divider
+              }
+            }//for-each
+          }
+        }//section
+      }//layout
+    }//else
+  }
+	
+	conversation-drivers{
+		conversation-driver{
+			template ("머리 아프고 통증이 있어")
+		}
+	}
+}
