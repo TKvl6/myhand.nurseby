@@ -1,0 +1,41 @@
+result-view {
+	match: Disease (this) {
+		from-output: SearchDisease
+	}
+	
+	
+	message {
+		template ("Here are Disease as thumbnail cards:")
+	}
+	
+	render {
+		if (size(this) > 1) {
+			list-of (this) {
+				has-details (true)
+				where-each (item) {
+					layout-macro (result-thumbnail-card) {
+						param (disease) {
+							expression (item)
+						}
+					}
+				}
+			}
+		} else-if (size(this) == 1) {
+			layout-match (this) {
+				mode (Details)
+			}
+		}
+		
+		conversation-drivers {
+			conversation-drivers {
+				template ("Show results as image cards")
+			}
+			conversation-drivers {
+				template ("Show results as thumbnail cards")
+			}
+			conversation-drivers {
+				template ("Show results as compound cards")
+			}
+		}
+	}
+}

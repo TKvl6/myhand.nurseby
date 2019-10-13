@@ -1,0 +1,7 @@
+structure (Tosymptom) {
+  description (intput symptom..)
+  property (Symptom) {
+    type (Symptom)
+    min (Required) max (One)
+  }
+}

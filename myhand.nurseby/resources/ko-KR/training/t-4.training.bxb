@@ -1,5 +1,5 @@
 train (t-4c1spqyx444m2qp6yzjgccxsk) {
-  utterance ("[g:Results] (목)[v:InputPart]이 아프고 (기침)[v:InputSymptom]해")
-  plan (Y2BhEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmUQRZbyzCsoLQlILCphkMAQDq7MLSjJz2VgZmBkYAKSDEAaBCEAxAeLAgA=)
-  last-modified (1570670378985)
+  utterance ("[g:Disease] (목)[v:Part]이 아프고 (기침)[v:Symptom]해")
+  plan (Y2BhkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZVDAIhecmliUnAFTIY5FRUBiUQlWY4MrcwtK8nMZmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570868344079)
 }

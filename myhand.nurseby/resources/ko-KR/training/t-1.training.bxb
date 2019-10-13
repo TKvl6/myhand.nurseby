@@ -1,5 +1,5 @@
 train (t-108g79ko8gnq33hskdt4zoz09) {
-  utterance ("[g:Results] (눌리)[v:InputSymptom]는 느낌이야")
-  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmWQQJbyzCsoLQmuzC0oyc9lYGJgBGIGIMnIAAJMEAwA)
-  last-modified (1570695143937)
+  utterance ("[g:Disease] (눌리)[v:Symptom]는 느낌이야")
+  plan (Y2BmkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZVDAIhecmliUnBFcmVtQkp+LVTdMjomBEYgZgCQjAwgwQTAA)
+  last-modified (1570868273462)
 }

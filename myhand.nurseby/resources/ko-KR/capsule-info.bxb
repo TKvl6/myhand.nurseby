@@ -1,8 +1,8 @@
 capsule-info {
   display-name (NURSEBY)
-  developer-name (__COMPANY_NAME__)
-  icon-asset (icon.png)
-  description ("__DESCRIPTION__")
-  website-url (https://example.com/)
-  terms-url (https://example.com/terms-of-use/)
+  developer-name (MYHAND)
+  icon-asset (./icon.png)
+  description ("질병 및 행동요령을 알려주고, 위로의 말을 해주는 너스비입니다.")
+  website-url (https://github.com/TKvl6/myhand.nurseby/tree/master/myhand.nurseby)
+  terms-url (https://github.com/TKvl6/myhand.nurseby/tree/master/myhand.nurseby)
 }

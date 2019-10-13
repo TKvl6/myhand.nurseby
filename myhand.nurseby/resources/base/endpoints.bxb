@@ -1,17 +1,17 @@
 endpoints {
   action-endpoints {
     action-endpoint (SearchDisease) {
-      accepted-inputs (inputPart, inputSymptom)
+      accepted-inputs (Part, Symptom)
       local-endpoint (searchDisease.js)
     }
 
     action-endpoint (SearchPart) {
-      accepted-inputs (inputPart)
+      accepted-inputs (Part)
       local-endpoint (searchPart.js)
     }
     
     action-endpoint (SearchSymptom) {
-      accepted-inputs (inputSymptom)
+      accepted-inputs (Symptom)
       local-endpoint (searchSymptom.js)
     }
   }

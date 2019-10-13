@@ -1,5 +1,5 @@
 module.exports.function = function searchDisease(inputPart, inputSymptom) {
-  const fakeData = require("./data/data.js");
+  const diseaseData = require("./data/disease.js");
   const console = require("console");
   const symptomProcess = require("./data/symptomProcess.js");
 
@@ -57,24 +57,24 @@ module.exports.function = function searchDisease(inputPart, inputSymptom) {
       //     }
       //   }
       // });
-      for (let i = 0; i < fakeData.length; i++) {
-          if (fakeData[i].part.includes(inputPart+",")) {
-            fakeData[i].score += SCORE.part;
-            if (results.indexOf(fakeData[i]) == -1)
-              results.push(fakeData[i]);
+      for (let i = 0; i < diseaseData.length; i++) {
+          if (diseaseData[i].part.includes(inputPart+",")) {
+            diseaseData[i].score += SCORE.part;
+            if (results.indexOf(diseaseData[i]) == -1)
+              results.push(diseaseData[i]);
           }
         }
 
     }
     if (inputSymptom != null) {
-      for (let i = 0; i < fakeData.length; i++) {
+      for (let i = 0; i < diseaseData.length; i++) {
         // ","를 추가해야 '피' 검색했을 때 '피부 질환' 이런게 나옴
         // 현재는 임시로 , 추가해서 해결
         // symtom 배열로 바꿀 필요있음!
-        if (fakeData[i].symptom.includes(inputSymptom)) {
-          fakeData[i].score += SCORE.symtom;
-          if (results.indexOf(fakeData[i]) == -1)
-            results.push(fakeData[i]);
+        if (diseaseData[i].symptom.includes(inputSymptom)) {
+          diseaseData[i].score += SCORE.symtom;
+          if (results.indexOf(diseaseData[i]) == -1)
+            results.push(diseaseData[i]);
         }
       }
     }

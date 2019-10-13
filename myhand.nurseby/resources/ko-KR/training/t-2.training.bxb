@@ -1,10 +1,10 @@
 train (t-2u1i4mff8l8nky9t8k4e9t4tc) {
-  utterance ("[g:Results] (가슴)[v:InputPart]이 아파")
-  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmEEMWDE5NLErOCEgsKmEQRRb3zCsoLQELMzEwAjEDkGRkAAEmCAYA)
-  last-modified (1570670570384)
+  utterance ("[g:Disease] (가슴)[v:Part]이 아파")
+  plan (Y2BmkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZZDFIhecmliUnBGQWFTCII5FGizBxMAIxAxAkpEBBJggGAA=)
+  last-modified (1570868289505)
 }
 train (t-2zuha2bct5sscg7xex20vnm4t) {
-  utterance ("[g:Results] (코)[v:InputPart]에서 (피)[v:InputSymptom] 나")
-  plan (Y2BhEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmUQRZbyzCsoLQlILCphkMAQDq7MLSjJz2VgZmBkYAKSDEAaBCEAxAeLAgA=)
-  last-modified (1570546245965)
+  utterance ("[g:Disease] (코)[v:Part]에서 (피)[v:Symptom] 나")
+  plan (Y2BhkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZVDAIhecmliUnAFTIY5FRUBiUQlWY4MrcwtK8nMZmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570868347500)
 }

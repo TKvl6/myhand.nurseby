@@ -1,0 +1,16 @@
+structure (ToPartSymptom) {
+  description (intput part & symptom..)
+  property (Part) {
+    type (Part)
+    min (Required) max (One)
+  }
+
+  property (Symptom) {
+    type (Symptom)
+    min (Required) max (One)
+  }
+
+  // features {
+  //   transaction
+  // }
+}

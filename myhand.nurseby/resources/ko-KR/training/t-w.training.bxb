@@ -1,5 +1,5 @@
 train (t-ww4joamj3swvdj9r292ofab8u) {
-  utterance ("[g:Results] (코)[v:InputPart]에서 (피)[v:InputSymptom]가 나와")
-  plan (Y2BhEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmUQRZbyzCsoLQlILCphkMAQDq7MLSjJz2VgZmBkYAKSDEAaBCEAxAeLAgA=)
-  last-modified (1570671359705)
+  utterance ("[g:Disease] (코)[v:Part]에서 (피)[v:Symptom]가 나와")
+  plan (Y2BhkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZVDAIhecmliUnAFTIY5FRUBiUQlWY4MrcwtK8nMZmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570868470207)
 }

@@ -1,15 +1,15 @@
 module.exports.function = function searchSymptom (inputSymptom) {
-  const fakeData = require("./data/data.js");
+  const diseaseData = require("./data/disease.js");
   const console = require("console");
   console.log("###searchSymptom()");
   let results = [];
   
   console.log("inputSymptom : " + inputSymptom);
   if(inputSymptom != null){
-      for(let i = 0; i<fakeData.length; i++){
-      let tempData = fakeData[i];
-      if(fakeData[i].symptom.includes(inputSymptom)){
-        results.push(fakeData[i]);
+      for(let i = 0; i<diseaseData.length; i++){
+      let tempData = diseaseData[i];
+      if(diseaseData[i].symptom.includes(inputSymptom)){
+        results.push(diseaseData[i]);
       }
     }
   }
