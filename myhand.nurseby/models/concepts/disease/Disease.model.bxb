@@ -14,11 +14,11 @@ structure (Disease) {
   }
   property (symptom) {
     type (Symptom)
-    min (Optional) max (One)
+    min (Optional) max (Many)
   }
   property (part) {
     type (Part)
-    min (Optional) max (One)
+    min (Optional) max (Many)
   }
   property (desc) {
     type (Desc)
