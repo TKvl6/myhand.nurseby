@@ -9,32 +9,42 @@ layout-macro-def(result-thumbnail-card) {
   content {
     thumbnail-card {
       image-position (End)
-      image-url ("[#{value(result.images[0].url)}]")
+      image-url {
+        template ("#{value(disease.img)}")
+      }
       title-area {
         halign (Start)
         slot1 {
           text {
-            value ("#{value(result.name)}")
+            value ("#{value(disease.name)}")
             style (Title_S)
           }
         }
         slot2 {
           single-line {
             text {
-              value ("From #{value(result.lowRate)} • #{value(hotel.rating)} stars")
+              value("#{value(disease.score)}")
+              style (Detail_L_Soft)
+            }
+          }
+        }
+        slot3{
+          single-line {
+            text {
+              value("#{value(disease.desc)}")
               style (Detail_L_Soft)
             }
           }
         }
       }
     }
-    section {  // this macro returns a "section"
-      content {
-        paragraph {
-          value ("#{value(__PARAM_NAME__)}")
-          style (Detail_M)
-        }
-      }
-    }
+    // section {  // this macro returns a "section"
+    //   content {
+    //     paragraph {
+    //       value ("#{value(__PARAM_NAME__)}")
+    //       style (Detail_M)
+    //     }
+    //   }
+    // }
   }
 }

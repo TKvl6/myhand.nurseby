@@ -1,5 +1,5 @@
 capsule {
-  id (playground.nurseby)
+  id (myhand.nurseby)
   version (0.1.0)
   format (3)
   targets {
@@ -12,6 +12,9 @@ capsule {
     import (viv.image) {
       as (image) version (2.12.10)
     }
+  }
+  store-sections {
+    section (HealthAndFitness)
   }
   runtime-flags {
     concepts-inherit-super-type-features

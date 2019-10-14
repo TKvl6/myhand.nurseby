@@ -8,10 +8,9 @@ module.exports.function = function searchDisease(Part, Symptom) {
   // 해당 검색어를 발견했을 때 추가할 점수
   var SCORE = {
     part: 30,
-    symtom: 50
+    symptom: 50,
+    core: 150
   }
-  // 같은 기침이라도 걸릴 확률 = 감기 > 결핵 >>>> 암 이기때문에
-  // 배율 (mul) 같은 속성을 추가해서 추가될 때 점수에 곱하면 어떨까
 
   /*------ 디버깅용 ------*/
   if (Part == null)
@@ -68,11 +67,8 @@ module.exports.function = function searchDisease(Part, Symptom) {
     }
     if (Symptom != null) {
       for (let i = 0; i < diseaseData.length; i++) {
-        // ","를 추가해야 '피' 검색했을 때 '피부 질환' 이런게 나옴
-        // 현재는 임시로 , 추가해서 해결
-        // symtom 배열로 바꿀 필요있음!
         if (diseaseData[i].symptom.includes(Symptom)) {
-          diseaseData[i].score += SCORE.symtom;
+          diseaseData[i].score += SCORE.symptom;
           if (results.indexOf(diseaseData[i]) == -1)
             results.push(diseaseData[i]);
         }
@@ -88,7 +84,6 @@ module.exports.function = function searchDisease(Part, Symptom) {
   for(let i=0; i<10; i++){
     newResults.push(results[i]);
   }
-
   console.log(results);
   console.log("###searchDisease() end...");
   return newResults;
