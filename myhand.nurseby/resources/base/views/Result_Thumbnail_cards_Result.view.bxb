@@ -25,17 +25,16 @@ result-view {
 				mode (Details)
 			}
 		}
-		
-		conversation-drivers {
-			conversation-drivers {
-				template ("Show results as image cards")
-			}
-			conversation-drivers {
-				template ("Show results as thumbnail cards")
-			}
-			conversation-drivers {
-				template ("Show results as compound cards")
-			}
+	}
+	conversation-drivers {
+		conversation-driver {
+			template ("Show results as image cards")
+		}
+		conversation-driver {
+			template ("Show results as thumbnail cards")
+		}
+		conversation-driver {
+			template ("Show results as compound cards")
 		}
 	}
 }

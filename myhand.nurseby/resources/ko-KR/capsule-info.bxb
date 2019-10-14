@@ -1,6 +1,7 @@
 capsule-info {
   display-name (NURSEBY)
   developer-name (MYHAND)
+  action-bg-color (#FFC50A)
   icon-asset (./icon.png)
   description ("질병 및 행동요령을 알려주고, 위로의 말을 해주는 너스비입니다.")
   website-url (https://github.com/TKvl6/myhand.nurseby/tree/master/myhand.nurseby)

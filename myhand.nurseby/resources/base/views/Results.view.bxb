@@ -1,5 +1,7 @@
 result-view{
-	match: Disease (this)
+	match: Disease (this) {
+		from-output: SearchDisease
+	}
 	
 	
 	message{
