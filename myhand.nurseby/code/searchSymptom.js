@@ -1,14 +1,14 @@
-module.exports.function = function searchSymptom (inputSymptom) {
+module.exports.function = function searchSymptom (Symptom) {
   const diseaseData = require("./data/disease.js");
   const console = require("console");
   console.log("###searchSymptom()");
   let results = [];
   
-  console.log("inputSymptom : " + inputSymptom);
-  if(inputSymptom != null){
+  console.log("Symptom : " + Symptom);
+  if(Symptom != null){
       for(let i = 0; i<diseaseData.length; i++){
       let tempData = diseaseData[i];
-      if(diseaseData[i].symptom.includes(inputSymptom)){
+      if(diseaseData[i].symptom.includes(Symptom)){
         results.push(diseaseData[i]);
       }
     }

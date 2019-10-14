@@ -1,4 +1,4 @@
-module.exports.function = function searchDisease(inputPart, inputSymptom) {
+module.exports.function = function searchDisease(Part, Symptom) {
   const diseaseData = require("./data/disease.js");
   const console = require("console");
   const symptomProcess = require("./data/symptomProcess.js");
@@ -14,27 +14,27 @@ module.exports.function = function searchDisease(inputPart, inputSymptom) {
   // 배율 (mul) 같은 속성을 추가해서 추가될 때 점수에 곱하면 어떨까
 
   /*------ 디버깅용 ------*/
-  if (inputPart == null)
-    console.log("inputPart is null")
+  if (Part == null)
+    console.log("Part is null")
   else {
-    console.log("inputPart : " + inputPart);
-    console.log("inputPart.length : " + inputPart.length)
+    console.log("Part : " + Part);
+    console.log("Part.length : " + Part.length)
   }
-  if (inputSymptom == null)
-    console.log("inputSymptom is null")
+  if (Symptom == null)
+    console.log("Symptom is null")
   else {
-    console.log("inputSymptom : " + inputSymptom);
-    console.log("inputSymptom.length : " + inputSymptom.length)
+    console.log("Symptom : " + Symptom);
+    console.log("Symptom.length : " + Symptom.length)
   }
 
   /* --- 증상 전처리 ---*/
-  inputSymptom.forEach(function (item, index, array) {
+  Symptom.forEach(function (item, index, array) {
     var isprocessed = false;
     if (!isprocessed) {
       for (num in symptomProcess) {
         if (symptomProcess[num].indexOf(String(item)) != -1) {
           // 통증 리스트에 있는 경우
-          inputSymptom[index] = symptomProcess[num][0];
+          Symptom[index] = symptomProcess[num][0];
           isprocessed = true;
           return;
         }
@@ -43,12 +43,12 @@ module.exports.function = function searchDisease(inputPart, inputSymptom) {
   });
 
   /*------ 실행 ------*/
-  if (inputPart == null && inputSymptom == null) {
+  if (Part == null && Symptom == null) {
     // 둘 다 못찾는 경우
   }
   else {
-    if (inputPart != null && !(inputPart.length == 0)) {
-      // inputPart.forEach(function (item, index, array) {
+    if (Part != null && !(Part.length == 0)) {
+      // Part.forEach(function (item, index, array) {
       //   for (let i = 0; i < fakeData.length; i++) {
       //     if (fakeData[i].part.includes(item)) {
       //       fakeData[i].score += SCORE.part;
@@ -58,7 +58,7 @@ module.exports.function = function searchDisease(inputPart, inputSymptom) {
       //   }
       // });
       for (let i = 0; i < diseaseData.length; i++) {
-          if (diseaseData[i].part.includes(inputPart+",")) {
+          if (diseaseData[i].part.includes(Part+",")) {
             diseaseData[i].score += SCORE.part;
             if (results.indexOf(diseaseData[i]) == -1)
               results.push(diseaseData[i]);
@@ -66,12 +66,12 @@ module.exports.function = function searchDisease(inputPart, inputSymptom) {
         }
 
     }
-    if (inputSymptom != null) {
+    if (Symptom != null) {
       for (let i = 0; i < diseaseData.length; i++) {
         // ","를 추가해야 '피' 검색했을 때 '피부 질환' 이런게 나옴
         // 현재는 임시로 , 추가해서 해결
         // symtom 배열로 바꿀 필요있음!
-        if (diseaseData[i].symptom.includes(inputSymptom)) {
+        if (diseaseData[i].symptom.includes(Symptom)) {
           diseaseData[i].score += SCORE.symtom;
           if (results.indexOf(diseaseData[i]) == -1)
             results.push(diseaseData[i]);
