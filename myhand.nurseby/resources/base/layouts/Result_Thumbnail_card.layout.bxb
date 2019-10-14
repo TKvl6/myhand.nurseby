@@ -1,54 +1,4 @@
 layout-macro-def(result-thumbnail-card) {
-<<<<<<< HEAD
-  params {
-    param (disease) {
-      type (Disease)
-      min (Required) max (One)
-    }
-  }
-
-  content {
-    thumbnail-card {
-      image-position (End)
-      image-url {
-        template ("#{value(disease.img)}")
-      }
-      title-area {
-        halign (Start)
-        slot1 {
-          text {
-            value ("#{value(disease.name)}")
-            style (Title_S)
-          }
-        }
-        slot2 {
-          single-line {
-            text {
-              value("#{value(disease.score)}")
-              style (Detail_L_Soft)
-            }
-          }
-        }
-        slot3{
-          single-line {
-            text {
-              value("#{value(disease.desc)}")
-              style (Detail_L_Soft)
-            }
-          }
-        }
-      }
-    }
-    // section {  // this macro returns a "section"
-    //   content {
-    //     paragraph {
-    //       value ("#{value(__PARAM_NAME__)}")
-    //       style (Detail_M)
-    //     }
-    //   }
-    // }
-  }
-=======
 	params {
 		param (disease) {
 			type (Disease)
@@ -100,5 +50,4 @@ layout-macro-def(result-thumbnail-card) {
 			image-position (End)
 		}
 	}
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 }
