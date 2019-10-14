@@ -33,7 +33,6 @@ result-view {
 											value ("원인 : #{value(item.cause)} \n증상 : #{value(item.symptom)}\n부위 : #{value(item.part)}")
 										}
 									}
-
 									slot3 {
 										single-line {
 											text {

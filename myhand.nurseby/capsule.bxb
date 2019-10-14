@@ -10,7 +10,8 @@ capsule {
       as (core) 
     }
     import (viv.image) {
-      as (image) version (2.12.10)
+      as (image)
+      version (2.12.10)
     }
   }
   runtime-flags {

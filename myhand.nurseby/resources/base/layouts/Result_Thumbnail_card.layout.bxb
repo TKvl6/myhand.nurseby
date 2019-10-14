@@ -1,40 +1,53 @@
 layout-macro-def(result-thumbnail-card) {
-  params {
-    param (disease) {
-      type (Disease)
-      min (Required) max (One)
-    }
-  }
-
-  content {
-    thumbnail-card {
-      image-position (End)
-      image-url ("[#{value(result.images[0].url)}]")
-      title-area {
-        halign (Start)
-        slot1 {
-          text {
-            value ("#{value(result.name)}")
-            style (Title_S)
-          }
-        }
-        slot2 {
-          single-line {
-            text {
-              value ("From #{value(result.lowRate)} • #{value(hotel.rating)} stars")
-              style (Detail_L_Soft)
-            }
-          }
-        }
-      }
-    }
-    section {  // this macro returns a "section"
-      content {
-        paragraph {
-          value ("#{value(__PARAM_NAME__)}")
-          style (Detail_M)
-        }
-      }
-    }
-  }
+	params {
+		param (disease) {
+			type (Disease)
+			min (Required) max (One)
+		}
+	}
+	
+	content {
+		thumbnail-card {
+			title-area {
+				halign (Start)
+				slot1 {
+					text {
+						style (Title_S)
+						value {
+							template ("#{value(disease.name)}")
+						}
+					}
+				}
+				slot2 {
+					single-line {
+						text {
+							value {
+								template ("부위: #{value(disease.part)}")
+							}
+							style (Detail_L)
+						}
+					}
+				}
+				slot3 {
+					single-line {
+						text {
+							value {
+								template ("증상: #{value(disease.symptom)}")
+							}
+							style (Detail_M_Soft)
+						}
+					}
+				}
+			}
+			on-click {
+				intent {
+					goal: Disease
+				}
+			}
+			image-url {
+				template ("#{value(disease.img)}")
+			}
+			image-position (End)
+		}
+	}
 }
