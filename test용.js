@@ -1,12 +1,13 @@
-module.exports = [{
+module.exports = [
+{
     code: 1,
     name: '폐렴',
     cause: '가장 흔한 원인은 미생물로 인한 감염이 원인으로, 세균이나 바이러스이고, 드물게 곰팡이에 의한 감염이 있을 수 있다. 미생물에 의한 감염성 폐렴 이외에 화학물질이나 구토물등의 이물질의 흡인, 가스의 흡인, 방사선 치료 등에 의해 비감염성 폐렴이 발생할 수도 있다',
     symptom: '폐염증,기침,가래,호흡곤란,통증,구역,구토,설사,두통,피로,발열,오한',
-    core_symptom: '발열,오한,통증',
+    core_symptom:'발열,오한,통증',
     part: '코,가슴,목,관절,근육',
     desc: '오랜 감기',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
 
@@ -15,34 +16,36 @@ module.exports = [{
     name: 'A형 간염',
     cause: 'A형 간염은 기존의 B형 간염이나 C형 간염과 같이 혈액을 통해 전염되는 것이 아니라 A형 간염 바이러스에 오염된 음식이나 물을 섭취함으로써 전염된다. 특히 개인위생 관리가 좋지 못한 저개발 국가에서 많이 발병되지만, 최근에는 위생적인 환경에서 자란 20~30대에서도 발병률이 급증하는 양상을 보인다. 주로 A형 간염 바이러스에 감염된 환자와 접촉한 경우에 감염되며, 직접적인 원인은 아니지만 A형 간염을 가지고 있는 모체가 출산하는 과정에서 태아에게 전염될 수 있고, 수혈을 통해서 또는 남성 동성애자 등에서 비경구적인 감염에 의해서도 올 수 있다.대부분의 경우 감염자의 대변에 오염된 물이나 음식 등을 섭취하면서 경구를 통해 감염되며, 집단으로 발병하는 경우는 오염된 식수원이나 급식 등으로 인한 경우이다',
     symptom: '피로감,메스꺼움,구토,식욕 부진,발열,통증,황달,대변,소변',
-    core_symptom: '메스꺼움, 구토, 소변,식욕부진,불쾌감,황달',
+    core_symptom:'메스꺼움, 구토, 소변,식욕부진,불쾌감,황달',
     part: '배',
     desc: '검은 소변,탈색된 대변',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
+ 
 
-  {
+{
     code: 3,
     name: '두드러기',
     cause: '대부분의 경우 두드러기는 그 원인을 찾을 수 없는 경우가 많다. 급성 두드러기의 50%, 만성 두드러기의 70%에서는 두드러기의 원인을 찾을 수 없으며, 전체 두드러기 환자의 일부에서만 원인을 밝힐 수 있다. 특히 급성 두드러기는 약물, 음식물이 원인이 되는 경우가 있지만, 만성 두드러기의 경우 대부분 특별한 원인이 없이 발생한다. 일부 원인이 확인 가능한 경우는 물리적 자극(압박, 진동, 태양광선, 찬 온도, 찬 음식, 급격한 온도변화, 운동, 국소적인 열 노출, 물 등), 약제(아스피린, 비타민, 인슐린, 소염진통제, 마약성 진통제, 설폰계 항생제), 식품 및 식품첨가제(이스트, 살리실산, 구연산, 아조 색소, 안식향산염 유도체 등), 음식(알코올, 초콜릿, 조개류, 땅콩, 토마토, 딸기, 돼지고기, 치즈, 마늘, 양파 등), 흡입성 항원, 감염, 임신, 다른 피부질환, 전신성 질환(갑상선기능항진증, 당뇨, 악성종양, 결합조직질환) 등이다. 수면패턴의 변화, 스트레스, 몸무게 변화, 새집 증후군 등도 두드러기를 악화시키는 요인이 된다. 성인에서 실제로 알레르기 검사를 했을 때 음식물이 유발 원인으로 밝혀지는 경우는 드물다. 음식물 자체에 의한 두드러기가 아니라 음식에 들어있는 식품첨가제나 다른 화학 성분에 의해 두드러기가 유발되는 경우도 종종 있으므로 성급한 판단은 금물이다',
     symptom: '가려움,부종,통증,메스꺼움,구토,호흡곤란',
-    core_symptom: '가려움,피부이상',
+    core_symptom:'가려움,피부이상',
     part: '배,피부,목',
     desc: '',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/051-hives.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
+ 
 
-  {
+{
     code: 4,
     name: '매독',
     cause: '성적 접촉에 의해 전파되는 트레포네마 팔리듐균(Treponema pallidum)이 매독의 원인균이다. 매독균으로 인해 생성된 피부궤양에 직접 접촉할 때 매독균에 감염된다. 피부궤양은 성기 부위, 질, 항문, 직장 등에 잘 발생하지만 입술, 구강 내에도 발생할 수 있다. 매독균은 임신한 여성에게서 태아로 전파될 수 있다. 그러나 화장실 사용, 문손잡이, 수영장, 욕조, 식기 등을 통해서는 전파되지 않는다',
     symptom: '궤양,피부이상,발열,붓기,통증',
-    core_symptom: '궤양,피부이상',
+    core_symptom:'궤양,피부이상',
     part: '머리,성기,근육,목,림프절,임파선,피부',
     desc: '성 접촉',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -50,10 +53,10 @@ module.exports = [{
     name: '과민성 대장 증후군',
     cause: '명확한 원인은 아직 밝혀진 것이 없으며, 대장의 운동이상, 감각이상, 뇌-장관 상호작용, 감염 후에도 지속되는 저 등급 염증, 면역체계 이상, 장내 미생물 무리의 변화, 유전 소인, 정신사회적 요인 등이 제시되고 있다',
     symptom: '통증,복부팽만감,대변,두통,월경불순,배뇨장애,심계항진,불안,초조,우울',
-    core_symptom: '통증,대변',
+    core_symptom:'통증,대변',
     part: '배,머리,가슴',
     desc: '용변',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -61,10 +64,10 @@ module.exports = [{
     name: '결핵',
     cause: '결핵은 그 정의상 결핵균에 의한 감염 때문에 발생하며, 현재까지 알려진 활동성 결핵 발생의 원인으로는 1년 이내의 최근 감염, 흉부 X선의 섬유화된 병변의 존재, 에이즈, 규폐증, 만성 신부전 및 투석, 당뇨, 면역 억제제 투여, 위장 절제술 및 공회장 우회술(소장의 일부를 우회시키는 수술) 등의 수술력, 특정 장기이식 시기, 영양실조 및 심한 저체중 등이 있다. 우리나라에서는 2000년 8월 이후 의사들의 신고에 기반을 둔 결핵정보 감시체계가 출범되었으며, 그 이후의 통계자료를 바탕으로 했을 때 새로운 환자의 연령 평균값은 40대 이상이고 남녀별 발생률은 약 1.6:1로 남자에서 다소 높은 편이다.병태생리학적으로 일단 결핵균에 의한 감염이 일어나면 그에 대한 숙주 면역반응으로 세포매개성 면역과 지연과민반응이 일어나게 되며 T림프구가 중요한 역할을 한다. 이러한 면역학적 병태 생리에 따라 결핵을 소아 결핵/성인 결핵/면역억제 숙주 결핵으로 나누기도 하나, 결핵균을 포함한 비말핵(기침할 때 나오는 분비물에 섞인 균)을 흡인한 사람들의 30% 정도가 결핵균에 감염되고 그들 중 10% 정도만 결핵이 발병한다는 사실은 결핵에 대한 숙주의 감수성의 차이에 유전적 혹은 환경적인 요소가 존재함을 시사한다',
     symptom: '기침,가래,출혈,발열,발한,쇠약,신경과민,식욕 부진,소화불량,집중력 소실,식욕 부진,구토,의식저하',
-    core_symptom: '기침,가래,객혈(피가래),발열',
+    core_symptom:'기침,가래,객혈(피가래),발열',
     part: '목,머리,소화',
     desc: '객혈(피가래)',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/023-cough.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -72,10 +75,10 @@ module.exports = [{
     name: '수두',
     cause: '헤르페스 바이러스과(Herpesviridae), 알파헤르페스 바이러스아과(Alphaherpesviridae)에 속하는 수두-대상포진 바이러스(Varicella-zoster virus, VZV, HHV-3)가 수두의 원인 바이러스이다',
     symptom: '발열,가려움,피부이상,진물',
-    core_symptom: '진물,피부이상.가려움,발열',
+    core_symptom:'진물,피부이상.가려움,발열',
     part: '피부',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/082-skin_prick_test.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -83,10 +86,10 @@ module.exports = [{
     name: '방광염',
     cause: '급성 방광염의 일차적인 경로는 요도로부터의 상행 감염이며 여성에서 흔하다. 여성은 해부학적으로 요도가 짧고 장내세균이 회음부와 질 입구에 쉽게 증식하여 성생활이나 임신 시 세균이 용이하게 방광으로 상행성 감염(하부 기관에서 상부 기관으로의 감염)을 일으킬 수 있다. 급성 방광염은 세균 자체의 독성, 개개인의 세균에 대한 저항력, 요로계의 해부학적 및 기능적 상태에 따라 발생한다. 원인균은 80% 이상이 대장균이며, 그 외 포도상구균, 장구균, 협막간균, 변형균 등도 급성 방광염의 원인이 된다. 만성 방광염의 원인균은 급성 방광염의 원인균과 동일한 경우가 많다',
     symptom: '소변,출혈,통증',
-    core_symptom: '소변,통층,출혈',
+    core_symptom:'소변,통층,출혈',
     part: '방광',
     desc: '소변이 자주 마렵거나 아픔',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -94,10 +97,10 @@ module.exports = [{
     name: '요로결석',
     cause: '수분 섭취 감소는 요로결석의 가장 중요한 발병 원인이다. 수분의 섭취가 감소하면 요석결정이 소변에 머무르는 시간이 길어져 요석형성이 증가하게 된다. 요로결석의 발생은 유전적인 소인이 있다는 것이 정설이나 후천적인 생활습관도 연관성을 보인다. 남성이 여성에 비해 2-3배 발생 위험성이 높고, 20~40대의 젊은 연령층에서 잘 발생하였으나 최근 고령층에서 발생이 증가하고 있다. 요로결석은 지리적으로 산이 많은 지역, 사막, 열대 지방에서 많이 나타나는데, 이는 음식, 온도, 습도 등이 복합적으로 작용하기 때문이라고 생각된다.온도와 계절은 요로결석 발생에 중요한 요인으로 작용하는데, 여름에는 땀을 많이 흘리면서 소변이 농축되어 요로결석의 생성이 용이해진다. 햇볕에 많이 노출되면 비타민D의 형성이 증가되어 요로결석의 위험이 증가한다는 보고도 있다. 동물성 단백질 섭취 증가도 요중 칼슘, 수산, 요산의 배설을 증가시켜 요로결석의 위험을 증가시킨다',
     symptom: '통증,소변,구역,구토,출혈',
-    core_symptom: '통증, 소변, 출혈',
+    core_symptom:'통증, 소변, 출혈',
     part: '배,옆구리,방광',
     desc: '최근 소변이 자주 마려움',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -105,10 +108,10 @@ module.exports = [{
     name: '눈다래끼',
     cause: '눈꺼풀의 분비샘은 눈물의 증발을 막아주는 기름 성분을 만들고 배출하는 역할을 한다. 배출이 지연되면서 기름 성분이 쌓이면서 분비샘에 염증이 생기고, 여기에 세균 감염이 함께 발생할 경우 겉다래끼 또는 속다래끼가 되며 주로 포도상구균(staphylococcus)에 의해 잘 감염된다. 콩다래끼는 세균 감염이 동반되지 않고 배출되지 않은 기름 성분에 의한 만성적인 육아종성 염증반응에 의해 발생한다',
     symptom: '붓기,통증,진물',
-    core_symptom: '붓기,통증,진물',
+    core_symptom:'붓기,통증,진물',
     part: '눈',
     desc: '붓기,눈뜨기 힘듬',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -116,10 +119,10 @@ module.exports = [{
     name: '쯔쯔가무시',
     cause: '쯔쯔가무시병은 오리엔티아 쯔쯔가무시라는 세균을 가지고 있는 진드기의 유충이 사람을 물 때 오리엔티아 쯔쯔가무시가 사람을 감염시켜 발생하는 질병입니다. 진드기에 노출될 가능성이 큰 야외에서 활동하는 사람에서 주로 발생하고 성묘를 가는 추석을 전후하여 전국 각지에서 환자가 발생합니다',
     symptom: '발열,발한,통증,출혈, 피부이상, 구역, 구토, 대변,호흡곤란',
-    core_symptom: '발열,오한,통증,피부이상',
+    core_symptom:'발열,오한,통증,피부이상',
     part: '림프절,임파선,눈,배',
     desc: '야외 활동 ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -127,10 +130,10 @@ module.exports = [{
     name: 'B형 간염',
     cause: 'B형 간염 바이러스에 감염된 혈액 등 체액에 의해 감염 된다. 아기가 태어날 때 B형 간염이 있는 어머니로부터 전염될 수 있으며(수직감염), 성적인 접촉이나 수혈, 오염된 주사기의 재사용 등에 의해서도 감염될 수 있다. 이러한 경로로 B형 간염 바이러스가 혈액 내로 침입한 후 주로 간세포 속에 자리 잡게 되는데, 우리 몸은 이 바이러스를 제거하기 위해 면역반응을 일으키고 이로 인해 바이러스에 감염된 간세포들이 파괴되면서 간에 염증이 생기게 된다',
     symptom: '피로, 구토, 통증, 발열, 황달',
-    core_symptom: '피로,통증,황달,구토,발열',
+    core_symptom:'피로,통증,황달,구토,발열',
     part: '근육,배',
     desc: '최근 타인과의 깊은 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/043-fatigue.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -138,10 +141,10 @@ module.exports = [{
     name: '위궤양',
     cause: '식도를 통과하여 위장에 도착한 음식물은 위산에 의해 잘게 부서진 형태로 소장으로 진행되어 영양분으로 흡수되므로, 필연적으로 위장은 위산, 각종 소화효소, 담즙, 복용한 약물, 알코올 등 세포를 손상시키는 공격인자에 노출되어 있다. 이러한 공격요인에 대해 생체 내에서 여러 단계의 방어요인이 갖추어져 있는데, 이러한 공격과 방어의 균형이 깨질 때 위장의 점막이 손상되고 궤양을 일으키게 된다.양성 궤양인 소화성 위궤양의 원인으로는 헬리코박터 파일로리(헬리코박터균)의 감염, 비스테로이드소염제 복용, 흡연 등이 대표적이며, 이 중 헬리코박터균의 감염이 가장 흔한 원인이다. 십이지장 궤양에서는 위산분비가 많아져서 궤양이 발생하지만 위궤양에서는 위산분비가 증가하지 않아도 궤양이 발생하는 것이 보고되고 있다. 따라서 위산분비(공격인자)가 증가하는 것보다 위장 점막의 병적인 변화에 의한 방어인자의 감소가 위궤양 발생에 더 주요한 역할을 한다고 받아들여지고 있다.또한 위장에서 십이지장으로 음식이 넘어가는 유문부위의 압력이 증가되어 공격인자(위산을 포함한 위 내용물)의 배출이 늦어지는 것도 발병에 주요한 역할을 한다고 보고되고 있다. 헬리코박터균은 주로 위장에 감염되는 세균이므로 이러한 병리 현상에 모두 관여하여 위궤양을 일으킨다.비스테로이드소염제에 의해 위궤양이 발생하는 기전은 약물이 위장 점막에 직접 닿아서 자극을 일으키거나 또는 위장 점막 세포층의 재생과 기능을 조절하는 프로스타글란딘(prostaglandin)이라는 물질의 생성 과정이 진통제에 의해 차단되기 때문에 위장 점막이 손상되어 궤양이 발생하는 것이다. 흡연은 위장 점막세포의 재생과 점막 하 조직의 혈액순환 등에 장애를 가져오므로 궤양을 일으킬 수 있다',
     symptom: '통증, 메스꺼움, 체중감소, 출혈, 대변, 어지러움, 구토',
-    core_symptom: '출혈,구토,통증',
+    core_symptom:'출혈,구토,통증',
     part: '복부,가슴',
     desc: '속쓰림, 과음, 과식, 스트레스,피 토함',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -149,10 +152,10 @@ module.exports = [{
     name: '접촉성 피부염',
     cause: '1) 원발성 접촉피부염 비누, 세제 등과 같은 알칼리와 산, 기저귀 등이 원발성 접촉피부염의 원인이 될 수 있다. 비누 공장에서 직업성 피부염으로 발생할 수 있으며 비누, 표백제, 세제 등 가정에서 사용하는 대부분의 세제들이 주부습진을 포함한 습진을 일으킬 수 있다. 산의 경우 염산은 황산이나 질산보다 깊은 조직까지 침투하지 않으며 물집을 더 잘 만든다. 또한 황산은 다른 산에 비해 공장에서 많이 사용되는 산이므로 이것에 의한 피부병이 더 많이 발생할 수 있다. 기저귀피부염은 기저귀를 차는 유아의 회음부에 발생하며 보통 기저귀의 습기나 마찰에 의하여 생긴다. 이와 같이 원발성 피부염을 일으키는 원인 물질들은 수없이 많다.2) 알레르기성 접촉피부염 식물, 금속, 화장품, 방부제, 약제, 고무, 합성수지 등 많은 원인 물질이 있다. 식물들 중 가장 흔하게 피부병을 일으키는 것은 옻나무이다. 야생 옻나무 즙뿐만 아니라 옻칠을 사용할 경우에도 발생할 수 있다. 또한 우리나라에서는 옻닭을 먹은 후 전신적으로 구진성 홍반(동그란 붉은 점)이 발생하는 전신성 습진성 접촉피부염이 흔히 관찰된다. 금속 중 알레르기성 접촉피부염을 일으키는 대표적인 물질은 니켈, 크롬, 코발트 및 수은이다',
     symptom: '피부이상, 붓기, 습진, 수포, 진물, 색소침착',
-    core_symptom: '붓기,피부이상,수포,진물',
+    core_symptom:'붓기,피부이상,수포,진물',
     part: '피부',
     desc: '자극적인 물품과의 접촉(비누, 세제, 화학물질 등)',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -160,10 +163,10 @@ module.exports = [{
     name: '위경련',
     cause: '위경련은 다양한 원인에 의해 발생할 수 있다. 담석증, 췌장염, 위궤양, 급성 위염 등이 있을 때 위경련이 발생할 수 있으며, 스트레스나 식습관과의 연관성도 고려하여야 한다',
     symptom: '통증, 오심, 구토, 어지러움, 식은땀, 출혈, 연하곤란',
-    core_symptom: '구토,통증,출혈',
+    core_symptom:'구토,통증,출혈',
     part: '배',
     desc: '최근 스트레스나 과음, 과식, 평소 앓고 있던 위 질환 존재',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -171,10 +174,10 @@ module.exports = [{
     name: '알레르기 비염',
     cause: '알레르기 비염은 알레르기 천식과 함께 유전적 요인과 환경적 요인이 합쳐져서 생기는 대표적인 알레르기 질환으로, 부모로부터 물려받은 알레르기 체질과 주위의 천식 유발 요소들이 상호 작용을 일으켜 나타난다. 알레르기란 정상에서 벗어난 과민반응을 의미하며 정상인에게는 증상이 유발되지 않지만 알레르기 환자에게는 과민반응으로 여러 증상이 나타나는 것을 말한다. 비염을 악화시키는 대표적인 악화요인은 기후변화, 감기, 공기오염, 스트레스 등이 있다.1) 나이와 가족력환자의 75% 정도가 25세 이전에 증상이 시작되는 것으로 볼 때 항원에 대한 감작(sensitization, 생체가 민감한 상태)은 소아기에 일어날 것으로 추정된다. 알레르기 환자가 있는 집안에서 태어난 유아에 있어서 생후 10���간은 가장 위험도가 높은 시기이다. 부모 중 한 쪽에 알레르기가 있을 때 자녀가 알레르기 질환에 걸릴 가능성은 50% 정도이며 양 부모가 알레르기 질환을 가지고 있다면 확률은 약 75%로 증가한다. 아토피성 피부염, 기관지 천식 및 알레르기 비염을 3대 알레르기 질환이라 하며 어린 나이부터 순차적으로 발병하기 때문에 이러한 일련의 발병을 알레르기 행진이라 한다.2) 항원알레르기 비염을 유발하는 원인 항원을 알레르겐이라고도 한다. 집먼지 진드기, 꽃가루, 곰팡이, 애완동물의 털 혹은 비듬, 바퀴벌레 따위의 곤충 부스러기 등과 같이 호흡기를 통해 흡입되는 것들이 대표적이지만, 음식물, 음식물 첨가제, 약물 등에 의해서도 알레르기 비염이 유발될 수 있다. 알레르기에 대한 유전성이 있는 사람 중 얼마나 많은 사람이 알레르기 환자가 되는지는 확실하지 않다. 소아가 아토피 성향을 가지고 있을 때 장기간 항원에 노출된 다음에 증상이 나타나므로 항원에 대한 노출을 피하는 것은 감작이 일어나는 영유아기에 특히 의미가 있다.3) 환경지나치게 깨끗한 환경, 형제가 적은 가정 등이 알레르기 질환의 유병률을 증가시킨다. 어린 시절 여러 종류의 미생물에 노출되는 것이 과도한 알레르기 면역반응을 예방하는 것이다. 농촌 지역에서는 항원으로 작용할 수 있는 동물이나 식물이 생활환경 주변에 많이 있음에도 불구하고 농촌 지역의 주민 중 알레르기 질환의 유병률이 인근 도시 지역의 유병률보다 낮은 것은 특기할 만 하다.4) 호흡기 감염바이러스 감염은 천식 증상을 유발하는 것으로 나타났지만 알레르기 비염에 대한 영향은 명확하지 않다',
     symptom: '재채기,콧물,코막힘,눈물,통증,후각감퇴,비음',
-    core_symptom: '코막힘,콧물',
+    core_symptom:'코막힘,콧물',
     part: '코,눈,머리',
     desc: '최근 환경 변화나 호흡기 유전 질환 여부',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/077-runny_nose.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -182,10 +185,10 @@ module.exports = [{
     name: '모낭염',
     cause: '황색포도알균이 가장 흔한 원인균이다. 장기간 항생제를 사용한 여드름 환자의 경우에는 그람음성균이 원인될 수 있고, 뜨거운 욕조에서 목욕한 후에는 녹농균에 의한 모낭염이 발생하기도 한다. 당뇨, 비만, 불결한 위생 상태가 관련된 요인으로 작용하며, 코를 습관적으로 후비거나 콧털을 뽑는 버릇에 의해 모낭염이 자주 재발하기도 한다',
     symptom: '피부이상',
-    core_symptom: '피부이상',
+    core_symptom:'피부이상',
     part: '피부',
     desc: '털을 뽑는 습관,여드름 환자',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/075-rash.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -193,10 +196,10 @@ module.exports = [{
     name: '볼거리',
     cause: '볼거리 바이러스는 파라믹소 바이러스(Paramyxovirus)과에 속하는 RNA 바이러스로, 한 가지 혈청형만이 알려져 있다. 침의 비말 감염(기침을 하거나 대화 도중에 나온 자잘한 것들과 함께 병원균이 방출되어 그것이 공기와 함께 호흡기로 흡입됨으로써 감염되는 것)에 의하여 전파되며 가장 전염성이 높은 시기는 타액선 비대 1~2일 전부터 붓기 시작된 후 5일까지이다.볼거리를 일으키는 바이러스는 볼거리 바이러스 외에도 거대세포 바이러스(cytomegalovirus), 파라 인플루엔자 바이러스(parainfluenza virus), A형 인플루엔자 바이러스, 콕사키 바이러스, 장 바이러스(enterovirus) 등이 있다. 또한, 황색 포도상균 및 기타 세균 등도 볼거리의 원인이 될 수 있으며, 티오우라실(thiouracil), 요오드 등의 특정 약물에 대한 약물 반응, 또는 당뇨, 간 경변, 및 영양 결핍 등의 증상으로 발생할 수 있으므로 감별 진단을 필요로 한다',
     symptom: '통증, 붓기',
-    core_symptom: '통증,붓기',
+    core_symptom:'통증,붓기',
     part: '귀,림프절,턱',
     desc: '씹거나 삼킬 때 통증',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/042-face_swelling.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -204,10 +207,10 @@ module.exports = [{
     name: '거품뇨',
     cause: '정상적으로도 거품뇨가 나타날 수 있으며, 전신 질환으로 인한 발열이 있거나, 격렬한 운동을 마친 이후에도 거품뇨가 나타날 수 있다. 그러나 거품뇨가 반복적으로 나타나거나 그 양이 많다면 이는 신장질환으로 인해 나타나는 거품뇨일 수 있으므로 반드시 소변검사로 확인을 해야 한다. 신장질환 외에도 요로감염이 있을 경우에도 거품뇨가 나타날 수 있으므로, 요로감염이 의심되는 경우에는 요로감염을 다 치료하고 나서 신장질환으로 인한 거품뇨는 아닌지 재검사를 해야 한다',
     symptom: '소변',
-    core_symptom: '소변',
+    core_symptom:'소변',
     part: '',
     desc: '거품이 심함',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -215,10 +218,10 @@ module.exports = [{
     name: '식도염',
     cause: '최근 들어 진균이나 바이러스 감염에 의한 식도염이 종종 관찰되며, 이는 면역억제제 및 항암제 사용의 증가, 후천성 면역결핍증(AIDS)의 확산과 관계가 있다. 감염에 의한 식도염은 대개 면역결핍상태에서 생기는 경우가 많지만 노인층이나 당뇨병 환자 또는 장기이식 환자에서도 볼 수 있다. 감염에 의한 식도염으로는 진균성 식도염, 바이러스성 식도염, 세균성 식도염 등이 있다.부식물질(caustic substance)은 식도와 위에 심각한 손상을 일으킨다. 부식물질에 의한 점막 손상의 정도는 섭취한 물질의 성상 및 농도에 따라 달라진다. 알칼리 섭취로 가장 흔한 것은 하수도 배관을 뚫는 물질과 알칼리 비누이다. 양잿물(세탁용 알칼리액)이나 건전지를 삼켰을 경우에도 심한 점막 손상이 생긴다. 고농도의 산을 섭취할 경우에도 식도와 위에 심각한 손상을 일으킬 수 있다.독시사이클린(doxycycline), 테트라사이클린(tetracycline), 미노사이클린(minocycline), 페니실린(penicillin), 클린다마이신(clindamycin) 등의 항생제, 소염진통제, 칼륨제제, 항바이러스제는 연하(음식물을 삼키는 동작) 시 식도 점막에 손상을 주므로 미란(erosion; 피부의 표층에 국한되는 조직 결손)이나 궤양을 일으킬 수 있다. 그 외에도 철분제나 골다공증 치료제에 의해서도 식도염이 생길 수 있다.악성종양의 치료를 위해 종격동(뒤로는 척추, 앞으로는 갈비뼈, 좌우로는 양쪽 폐의 내면으로 경계된 구역)에 방사선 치료를 받은 이후에 식도염이 생길 수 있으며, 방사선 조사에 의한 식도의 급성 손상은 매우 흔하지만 대개 저절로 좋아진다',
     symptom: '통증,연하곤란, 출혈, 구역, 구토, 발열, 오한, 체중감소, 기침',
-    core_symptom: '구토,구역,출혈',
+    core_symptom:'구토,구역,출혈',
     part: '가슴,목,배',
     desc: '숨이 차고 신물 느껴짐',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -226,10 +229,10 @@ module.exports = [{
     name: 'C형 간염',
     cause: 'C형 간염 바이러스에 감염된 혈액 등 체액에 의해 감염된다. 성적인 접촉이나 수혈, 혈액을 이용한 의약품, 오염된 주사기의 재사용, 소독되지 않은 침의 사용, 피어싱, 문신을 새기는 과정 등에서 감염될 수 있다. 이러한 경로를 통해 C형 간염 바이러스가 혈액 내로 침입한 후 바이러스는 주로 간세포 내에 존재하게 된다. 우리 몸은 세포에 감염된 이들 바이러스를 제거하기 위해서 면역반응을 일으키는데, 이로 인해 간세포들이 파괴되면서 간에 염증이 생기는 것이다',
     symptom: '구토, 근육통, 발열, 소변, 황달',
-    core_symptom: '구토,근육통,소변',
+    core_symptom:'구토,근육통,소변',
     part: '근육,전신',
     desc: '소변의 색이 진해짐',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -237,10 +240,10 @@ module.exports = [{
     name: '홍역',
     cause: '홍역 바이러스는 RNA 바이러스로 파라믹소 바이러스(Paramyxoviridae)과에 속하며 혈청 항원은 한 가지만 있다. 전구기와 발진기 동안 비인두 분비물이나 혈액, 소변에 바이러스가 존재한다',
     symptom: '발열, 기침, 코막힘, 발진, 출혈',
-    core_symptom: '피부이상,발열,출혈',
+    core_symptom:'피부이상,발열,출혈',
     part: '눈,피부,코',
     desc: '피부 아래에 피가 맺힘',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/075-rash.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -248,10 +251,10 @@ module.exports = [{
     name: '세균성 질염',
     cause: '정상적으로 질 내에 살고 있는 락토바실리라는 유산균이 없어지는 이유는 아직 명확히 밝혀진 것이 없다. 유산균이 살 수 있는 질 내의 산성 환경이 없어지는 상황, 즉 잦은 성교, 질 깊숙한 곳까지 물로 씻어내는 뒷물(hip bath), 자궁경부가 헐어서 생기는 과다한 점액분비 등이 원인으로 추정된다. 질 내에 정상적으로 존재하는 유산균이 한번 없어지고 나면 다시 유산균이 서식하는 것이 어렵기 때문에 일단 세균성 질염에 걸리면 자주 재발하게 된다',
     symptom: '분비물,악취',
-    core_symptom: '분비물,악취',
+    core_symptom:'분비물,악취',
     part: '생식기',
     desc: '여성 질환',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -259,10 +262,10 @@ module.exports = [{
     name: '섬유근육통',
     cause: '섬유근육통의 원인은 아직 밝혀지지 않았지만 통증에 대한 지각이상 때문인 것으로 생각된다. 섬유근육통을 앓는 사람의 중추신경계에서 세로토닌의 대사가 감소되어 있고, 체내의 성장호르몬의 분비도 감소되어 있으며, 스트레스에 대한 부신피질호르몬의 분비 반응 감소, 뇌척수액에서 P 물질(substance P, 통증 유발 물질)의 증가, 자율신경계의 기능 부전 등의 이상이 있다는 것이 밝혀져 있다.섬유근육통 환자들은 정상인들이 통증으로 느끼지 않는 자극을 통증으로 느끼게 되는데, 이것은 여러 가지 통증과 상관이 없는 자극에 대해서 몸이 적절히 처리하지 못하기 때문이라고 여겨진다. 또한 여러 가지 정신적인 이상-우울증, 불안, 건강 염려증 등이 동반되어 나타나는데, 섬유근육통 환자의 약 30%가 정신과적인 질환 증상을 보인다. 근육이나 인대, 힘줄 등에서 객관적인 이상은 발견되지 않는다',
     symptom: '통증, 피로, 불면',
-    core_symptom: '통증,불면,피로',
+    core_symptom:'통증,불면,피로',
     part: '근육',
     desc: '특별히 다친 곳이 없음',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -270,10 +273,10 @@ module.exports = [{
     name: '급성 비염',
     cause: '대부분 바이러스가 주 원인이며 대표적인 바이러스로 비염바이러스(rhinovirus)와 코로나바이러스(coronavirus) 등이 있다. 이들이 전형적인 급성 비염의 경과를 밟는 데 반해, 인플루엔자바이러스에 의한 감염은 좀 더 심한 전신 증상을 포함한 임상 경과를 거친다. 여기에 추운 날씨, 낮은 습도, 영양부족, 과로, 스트레스, 비타민 결핍, 면역기능저하 등이 급성 비염의 발생과 관련이 있다. 환절기나 겨울철에 감기가 많이 발생하는 이유는 추운 날씨로 인해 실내 공기의 환기가 부족하고 여러 사람들이 모여 바이러스의 전파의 가능성이 높기 때문이다.또한 건조한 실내 공기로 인해 비강점막의 점액층에 섬모운동에 장애를 초래하여 심한 비강 기능 저하를 가져올 수 있다. 다른 환자의 재채기, 기침 등을 통해 나오는 감염된 분비물 등이 코 안으로 들어가서 염증을 초래하지만 때로는 입맞춤, 음식 또는 손으로 직접 전파되기도 한다. 또한 급성 비염을 일으키는 감염원으로 아데노이드염, 편도선염, 부비동염(축농증) 등이 있다',
     symptom: '두통, 오한, 근육통, 식욕 상실, 코막힘, 후각 감퇴',
-    core_symptom: '콧물, 오한',
+    core_symptom:'콧물, 오한',
     part: '코,머리,근육',
     desc: '갑자기 코가 자주 막힘',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/077-runny_nose.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -284,7 +287,7 @@ module.exports = [{
     core_symptom: '붓기,통증,감각이상',
     part: '혀,입',
     desc: '혀가 붓고 매끈매끈한 느낌',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -295,7 +298,7 @@ module.exports = [{
     core_symptom: '피부이상,통증,기침',
     part: '머리,목,림프절,관절,근육,피부',
     desc: '최근 성 접촉이나 수혈, 비위생적 상처',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/075-rash.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -306,7 +309,7 @@ module.exports = [{
     core_symptom: '붓기,출혈',
     part: '눈, 코',
     desc: '안구함몰, 최근 눈가를 강하게 부딪힌 적',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -317,7 +320,7 @@ module.exports = [{
     core_symptom: '소변',
     part: ' ',
     desc: '소변 보기가 어려움 ',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -328,7 +331,7 @@ module.exports = [{
     core_symptom: '통증',
     part: '목, 머리,어깨,근육',
     desc: '평소 컴퓨터나 스마트폰을 많이 사용',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -339,7 +342,7 @@ module.exports = [{
     core_symptom: '발열, 출혈',
     part: '간',
     desc: '평소 과도한 음주',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -350,7 +353,7 @@ module.exports = [{
     core_symptom: '발열,통증',
     part: '척추',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
 
@@ -362,7 +365,7 @@ module.exports = [{
     core_symptom: '대변,구토',
     part: '배',
     desc: '최근 상하기 쉬운 음식을 먹음',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -373,7 +376,7 @@ module.exports = [{
     core_symptom: '발냄새,각질,가려움',
     part: '발,피부',
     desc: '습한 환경이나 피부에 상처',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -384,7 +387,7 @@ module.exports = [{
     core_symptom: '붓기,가려움',
     part: '눈',
     desc: '가루나 미세한 섬유, 털 등과 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -395,7 +398,7 @@ module.exports = [{
     core_symptom: '대변,통증,발열',
     part: '배',
     desc: '',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -406,7 +409,7 @@ module.exports = [{
     core_symptom: '현기증,떨림,두근거림,식은땀',
     part: '간',
     desc: '당뇨병 환자 혹은 질병 소유자',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -417,7 +420,7 @@ module.exports = [{
     core_symptom: '통증,구토',
     part: '배,가슴',
     desc: '최근 과식, 과음, 매운 음식 섭취',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -428,7 +431,7 @@ module.exports = [{
     core_symptom: '붓기,가려움,피부이상,진물',
     part: '손',
     desc: '물이나 세제와 자주 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/027-cyanosis.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -439,7 +442,7 @@ module.exports = [{
     core_symptom: '통증,답답',
     part: '폐,가슴',
     desc: '흡연자',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -450,7 +453,7 @@ module.exports = [{
     core_symptom: '통증,소변,피로,부종',
     part: '고환',
     desc: '남성질환, 고환에 이상',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -461,7 +464,7 @@ module.exports = [{
     core_symptom: '붓기,통증,출혈',
     part: '항문',
     desc: '최근 대변이 힘듦',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -472,7 +475,7 @@ module.exports = [{
     core_symptom: '붓기,통증,출혈,신트림',
     part: '목,배,가슴',
     desc: '신 트림이나 속 쓰림',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -483,7 +486,7 @@ module.exports = [{
     core_symptom: '통증,어지러움',
     part: '머리,귀',
     desc: '머리에 직간접적 충격',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/033-dizziness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -494,7 +497,7 @@ module.exports = [{
     core_symptom: '호흡곤란',
     part: '가슴',
     desc: '갑자기 숨을 못 쉼',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -505,7 +508,7 @@ module.exports = [{
     core_symptom: '발열,통증',
     part: '머리,배',
     desc: '최근 모기에 물림',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -516,7 +519,7 @@ module.exports = [{
     core_symptom: '통증,구역,구토',
     part: '배,옆구리,등',
     desc: '담석 증상이나 음주',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -527,7 +530,7 @@ module.exports = [{
     core_symptom: '시력 감소,통증, 출혈, 눈물, 눈부심, 이물감',
     part: '눈',
     desc: '건조한 환경',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -535,10 +538,10 @@ module.exports = [{
     name: '뇌염',
     cause: '뇌염은 원인에 따라 감염성, 혈관염성, 종양성, 화학성, 특발성 등으로 크게 분류할 수 있다. 가장 흔한 뇌염은 감염성 뇌염이다. 바이러스 뇌염의 가장 흔한 원인균은 단순 포진 바이러스이며 그 외 아르보바이러스(arbovirus), 수두 대상 포진 바이러스, 엡스타인바 바이러스(Epstein-Barr virus), 거세포 바이러스, 일본 뇌염 바이러스등 많은 바이러스가 원인이 될 수 있다. 박테리아성 뇌염은 헤모필루스 인플루엔자, 네이세리아 뇌염균, 폐렴구균이 산발성 뇌염의 75%를 차지하며 어른에서는 리스테리아균(L. monocytogenes)이 그 다음으로 흔하다.뇌농양, 두부외상, 뇌수술 등과 관련하여 이차적으로 발생하는 뇌염의 경우는 황색 포도상 구균과 그룹 A 와 D 연쇄상 구균(group A and group D streptococci)이 관련성이 높으며, 신생아의 경우 대장균, 그룹 B 연쇄상 구균이 흔하다. 드물게는 살모넬라, 시겔라, 클로스트리다움, 임균 등이 원인균으로 가능하다. 그 외 아급성 및 만성 반복성 뇌염의 원인 균으로는 결핵성, 곰팡이성 및 노카르디아(Norcardia), 인간 면역 결핍 바이러스(HIV) 등이 있다.감염성 뇌염 외에 혈관 염증성에 의한 사코이도시스(sarcoidosis) 뇌염, 루프스성 뇌염, 베게너 육아종증 뇌염, 베체트병(Behcet disease)과 관련된 뇌염과 종양성, 화학성 뇌염 등이 있다',
     symptom: '발열, 오한, 구토, 의식 저하, 혼미,마비, 시력 저하, 경련 발작,통증',
-    core_symptom: '통증, 발열, 오한, 오심, 구토, 의식 저하, 혼미, 시력저하, 경련발작',
+    core_symptom:'통증, 발열, 오한, 오심, 구토, 의식 저하, 혼미, 시력저하, 경련발작',
     part: '머리,눈',
     desc: '심한 두통과 열',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -546,10 +549,10 @@ module.exports = [{
     name: '수신증',
     cause: '다양한 원인에 의하여 요로계의 폐쇄가 일어나 수신증이나 수신요관증이 발생할 수 있다. 소아에서는 선천적인 기형이 흔한 원인이다. 선천적으로 요관과 신우 경계 부위가 좁아져 있거나, 요관과 방광 경계 부위가 좁아져서 발생하는 경우가 흔하며, 비정상적인 요관의 위치(대정맥 하방에 위치하여 눌림)로 인하여 발생하기도 한다. 어린 남아에서는 요도를 막는 후방 요도 판막(posterior urethral valve)이 양측성 수신증의 흔한 원인이다. 방광 기능의 장애 때문에 발생하기도 하는데, 이는 선천적인 요도의 협착이나 요도 출구나 방광 경부의 폐쇄로 인하여 이차성으로 발생하는 것으로 생각된다. 성인에서의 요로 폐쇄는 대개 후천적 원인에 의해 발생하는데, 신우의 종양이나 요로계 결석, 요도의 협착이 흔한 원인이다. 골반이나 대장 수술 중에 요관을 묶거나 손상을 주어 발생하는 일측성 수신증은 대개 무증상으로 오랫동안 발견되지 않을 수 있다. 또한 요로계 자체에 생긴 폐쇄가 아닌 외부 물질의 압박으로 요로계가 막혀 수신증이 발생할 수 있다. 자궁경부암이나 대장암인 경우 암 덩어리에 요로계가 눌려 발생할 수 있고, 기타 다른 악성 종양에 의해서도 막힐 수 있다. 중년 이상의 남성에서는 전립샘 비대증이나 전립샘암이 흔한 원인일 수 있지만, 염증성 질환인 후복막강 섬유화증도 수신증의 원인이 될 수 있다. 임신 중에는 태아에 의해 요관이 눌리게 되기 때문에 수신증이 발생하기도 한다. 기계적인 폐쇄가 아닌 기능적인 요로계 폐쇄로 인하여 수신증이 나타날 수 있는데, 대개 요관과 방광 질환에 의하여 발생한다. 그 외에도 당뇨병에 의한 합병증이나 척수 손상으로 인한 신경인성 방광도 흔한 원인이며, 요관 무력증(adynamic ureter)이 동반되기도 한다. 방광요관역류에 의해서도 수신증이 발생한다. 이는 소아에서 더 흔하며 심한 수신요관증을 초래할 수 있다. 요관의 방광 삽입부(요관과 방광이 이어지는 부분)에 이상이 생기면 방광요관역류 흔하게 발생하고, 염증이 없고, 방광 경부가 막히지 않은 경우에는 신실질에 손상을 주지 않으며, 나이가 들면서 저절로 좋아지기도 한다',
     symptom: '통증,소변,발열,오한,구역,구토',
-    core_symptom: '통증,발열,오한,구역,구토,소변',
+    core_symptom:'통증,발열,오한,구역,구토,소변',
     part: '옆구리,방광',
     desc: '요실금,소변량 변화, 소변보기 힘듦',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -557,10 +560,10 @@ module.exports = [{
     name: '황반변성',
     cause: '황반의 변성에는 여러 가지 종류가 있다. 일반적으로 황반변성이라는 용어는 대개 연령관련 황반변성 즉, 망막의 노화에 의해서 발생하는 변성을 말한다. 그러나 넒은 의미로는 여러가지 원인으로 황반에 변성이 오는 질환들을 통틀어서 지칭하기도 한다.  먼저 간단하게 연령관련 황반변성 이외의 황반변성들의 원인을 살펴보자면 유전적인 원인으로 변성이 발생하는 것으로, 대표적인 질환으로는 스타가르트병을 들 수 있다. 이 질환은 ABCA4 유전자의 이상으로 발생하며 십대에 황반의 기능 이상이 시작되기도 한다. 이는 연령관련 황반변성과는 달리 유전적으로 결정된 예정된 시력 장애이며, 예방할 방법과 치료법이 현재는 없다.   또한 황반에 변성을 유발하는 다른 원인 질병으로 근시성 황반변성이 있다. 근시성 황반변성은 대개 8디옵터 이상의 고도 근시에서 발생한다. 근시는 외부의 이미지가 망막에 정확히 맺히지 않고 너무 앞에 초점이 맺히는 경우이다. 안구의 크기에 비해 굴절력이 너무 크거나, 굴절력에 비해 안구의 크기가 너무 클 때 발생한다. 마치 풍선을 크게 불면 풍선의 표면이 얇아지는 것과 같이 안구의 크기가 큰 근시 환자들은 안구의 벽이 얇고 약해지기 쉽다. 안구 내부의 망막도 얇아지고 구멍이 생기는 등 이상이 발생할 수 있으며, 황반 부위에 변성이 발생할 수 있다. 이러한 원인으로 발생하는 변성을 근시성 황반변성이라 부른다.  그러나 황반이 변성되는 질환으로 대표적인 원인은 \'노화\'이다. 노화에 의한 황반 변성을 나이와 관련된 황반변성 또는 노인성 황반변성, 노년 황반변성이라 부른다. 즉, 연령관련 황반변성은 노화와 관련된 여러 요인에 의해서 황반부위가 소실되고 퇴화되어 기능을 잃어버리는 질환이다. 가장 많은 원인은 \'고령\'이다. 나이가 증가할수록 발생할 확률이 증가한다. 여기서 고령의 기준은 일반적으로 50세이다.  하지만 모든 사람에게 노화에 의한 황반부 변성이 발생하는 것은 아니다. 일부 사람에게서 유전적 원인인 가족력, 흡연 습관, 그리고 빛에 의한 손상들로 예상되는 노화가 불러온 손상들에 더해져 황반부에 변성을 유발할 수 있다',
     symptom: '시력 저하',
-    core_symptom: '시력저하',
+    core_symptom:'시력저하',
     part: '눈',
     desc: '고연령, 고혈압',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png092-eyelids.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -568,10 +571,10 @@ module.exports = [{
     name: '전립선염',
     cause: '다른 전립선 질환과 달리 전립선염의 원인은 명확히 밝혀져 있지 않다. 세균성 전립선염은 대개 대장균이 요도로부터 상행감염(하부기관으로부터 상부기관으로의 감염)을 일으키거나 전립선으로 역류할 때 발생한다. 원인균에 대해서는 아직 정립되지 않은 부분이 많지만, 주로 대장균, 대변연쇄구균 그람 양성균 등이 주 원인균으로 알려져 있다.비세균성 전립선염은 원인균이 검출되지 않을 때 내릴 수 있는 진단명이지만 세균감염의 가능성을 완전히 배제할 수 없다는 의견도 존재한다. 비세균성 전립선염의 경우 기능성 혹은 해부학적 배뇨장애가 원인이 될 수 있다. 그 외에 신경근 혹은 신경학적 이상, 골반부위 손상, 자가면역질환, 스트레스 등도 원인으로 거론되고 있다. 이상의 원인들이 복합적으로 작용할 수도 있다',
     symptom: '오한, 통증, 빈뇨, 배뇨곤란,요폐,권태감',
-    core_symptom: '통증,불쾌감,작열감',
+    core_symptom:'통증,불쾌감,작열감',
     part: '허리,옆구리,관절,근육,성기,항문',
     desc: '원인 불명',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -582,7 +585,7 @@ module.exports = [{
     symptom: '통증,저림',
     part: '허리,다리,엉덩이',
     desc: '잘못된 자세로 근무',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -593,7 +596,7 @@ module.exports = [{
     symptom: '발열,구역,대변,통증,구토',
     part: '배',
     desc: '혈변, 설사',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -604,7 +607,7 @@ module.exports = [{
     core_symptom: '저림,작열감,통증,떨림',
     part: '손',
     desc: '과거 골절, 혹은 당뇨병',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -615,7 +618,7 @@ module.exports = [{
     core_symptom: '호흡곤란,통증,기침,출혈',
     part: '가슴',
     desc: '흡연, 고혈압, 맥박 이상,객혈(피가래)',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -626,7 +629,7 @@ module.exports = [{
     core_symptom: '호흡곤란,기침,가래',
     part: '가슴,목',
     desc: '객혈(피가래) 누워 있을 때 심해짐',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -637,7 +640,7 @@ module.exports = [{
     core_symptom: '발열,기침,호흡곤란',
     part: '가슴,배,머리,근육',
     desc: '중동지역 여행 혹은 해당 지역 여행자와의 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -645,10 +648,10 @@ module.exports = [{
     name: '건선',
     cause: '건선의 원인은 아직 완벽하게 밝혀져 있지는 않지만 피부에 있는 면역세포인 T세포의 활동성이 증가되어 그 결과 분비된 면역 물질이 피부의 각질세포를 자극하여 각질세포의 과다한 증식과 염증을 일으키는 것으로 밝혀지고 있습니다. 피부 세포가 빠르게 자라나고 정상적인 분화에 장애가 발생되어 피부 위에 비듬 같은 각질이 겹겹이 쌓여서 보이게 됩니다. 이러한 현상이 발생됨에 있어서 유전적 요인, 환경적 요인, 약물, 피부자극, 건조, 상기도 염증, 정신적 스트레스 등이 원인이 되거나 악화시키는 요인으로 알려져 있습니다',
     symptom: '피부이상,각질',
-    core_symptom: '피부이상, 각질',
+    core_symptom:'피부이상, 각질',
     part: '피부',
     desc: '손발톱 변형, 여름에 완화',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -659,7 +662,7 @@ module.exports = [{
     core_symptom: '통증,마비,감각이상,통증,구토,어지럼증',
     part: '머리',
     desc: '고혈압, 당뇨병, 고지혈증 등 성인병 보유자',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/033-dizziness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -670,7 +673,7 @@ module.exports = [{
     core_symptom: '발열, 통증, 불쾌감',
     part: '배,근육',
     desc: '최근 잘못된 음식 섭취',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -678,10 +681,10 @@ module.exports = [{
     name: '성홍열',
     cause: '대부분 A군 사슬알균에 의한 급성 인후염을 앓고 있는 사람과의 접촉을 통해서 전파된다. 기침 등의 호흡기 전파로 감염되어 세균성 인후염(목감기)의 증상을 보이며 발열 및 발진이 발생한다. A군 사슬알균에 의한 급성 인후염이 있는 소아의 형제자매 및 부모의 경우 각각 50% 및 20%에서 균이 전파될 수 있으며 이 중 약 반수 이상에서 발열 및 인후통 등의 증상을 보이게 된다. 일부에서는 A군 사슬알균에 의한 피부감염증(농가진, 상처 부위 감염증 등)에 의해서도 성홍열이 발생될 수 있으며 이 경우는 직접 접촉에 의해서도 전파될 수 있다',
     symptom: '발열, 통증, 구토, 오한,피부이상,홍조',
-    core_symptom: '발열, 구토, 통증, 피부이상, 홍조',
+    core-symptom:'발열, 구토, 통증, 피부이상, 홍조',
     part: '목,머리,배',
     desc: '목에 통증, 고열, 전신에 빨간 발진',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -689,10 +692,10 @@ module.exports = [{
     name: '유즙 분비증',
     cause: '여성에서 임신, 출산 후의 정상적인 유즙 분비는 뇌의 기저부에 위치하고 있는 뇌하수체라는 기관에서 생성되는 프로락틴(prolactin)이라는 유즙 분비 호르몬에 의해 조절된다. 유즙 분비증은 다양한 원인에 의해 프로락틴 분비가 많아지거나 여성 호르몬인 에스트로겐이 과다하게 분비되어 발생할 수 있다.1) 프로락틴 분비 종양(prolactinoma): 뇌하수체에 유즙 분비 호르몬(프로락틴)을 분비하는 세포들이 증식하여 종양을 형성한 경우에 유즙 분비 호르몬 분비가 과다하게 이루어져 유즙 분비증이 나타날 수 있다.2) 갑상선 기능 저하증: 갑상선의 기능 저하로 인해 유즙 분비 호르몬이 증가될 수 있다.3) 과도한 스트레스: 스트레스 역시 시상하부에 작용하여 유즙 분비 호르몬을 증가시킨다.4) 유방 및 흉벽의 물리적 자극5) 경구 피임제: 경구피임제 내의 여성호르몬 성분에 의해 유즙 분비 호르몬이 증가된다.6) 일부 약제: 시메티딘(cimetidine, 십이지장 궤양 치료제, 제산제), 메틸도파(methyldopa, 혈압 강하제), 일부 항정신병 약제, 한약제 중 감초는 유즙 분비를 유도한다.7) 기타: 시상하부나 드물게 폐질환, 신장질환, 자궁근종의 경우도 유즙분비 호르몬을 증가시킨다',
     symptom: '유즙분비,월경이상,시야 장애, 통증',
-    core_symptom: '유즙분비',
+    core-symptom:'유즙분비',
     part: '가슴,머리',
     desc: '갑상선 질환을 앓거나 스트레스를 많이 받고 있는 여성',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -703,7 +706,7 @@ module.exports = [{
     core_symptom: '어지러움,출혈,대변',
     part: '항문',
     desc: '혈변,토혈,흑색변',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -714,7 +717,7 @@ module.exports = [{
     core_symptom: '피로, 무기력, 혈압, 소변,구토',
     part: '방광, 배,피부,',
     desc: '혈뇨,거품많은 오줌',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png', // ????
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -725,7 +728,7 @@ module.exports = [{
     symptom: '통증,호흡곤란,발열',
     part: '목,가슴',
     desc: '짧은 시간 내 고열, 침 삼키기 힘듦',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -733,10 +736,10 @@ module.exports = [{
     name: '급성 대장염',
     cause: '급성 장염을 일으키는 원인은 다양한 종류의 세균, 바이러스, 원충으로 이들에 오염된 식품이나 물을 먹어서 감염된다. 바이러스 중 노로바이러스(norovirus)와 로타바이러스(rotavirus)에 의한 장염이 전체의 20%를 차지하고 연중으로 발생하며 특히 겨울철에 유행하고 있어 이에 대한 주의가 필요하다. 노로바이러스는 매우 높은 전염력을 보여 급식에 의한 집단 식중독 사례를 일으킨 것으로도 유명하다.세균성 장염의 원인균으로는 장티푸스를 일으키는 살모넬라(salmonella), 세균성 이질을 일으키는 쉬겔라(shigella), 콜레라를 일으키는 비브리오(vibrio), 출혈성 장염을 일으키는 대장균(E. coli), 이외에 캠필로박터(campylobacter), 예르시니아(yesrsinia), 클로스트리디움(clostridium) 등이 있다. 원충으로는 대표적으로 아메바 (amoeba)가 있다. 이 외에 약제 복용 후 발생하는 위막성 장염 (clostridium difficile)이 있다',
     symptom: '대변,발열,구토,통증,발열,혈변,탈수',
-    core_symptom: '대변,출혈,통증',
+    core_symptom:'대변,출혈,통증',
     part: '배',
     desc: '설사, 혈변',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -744,10 +747,10 @@ module.exports = [{
     name: '외상성 고관절탈구',
     cause: '고관절은 우리 몸에서 가장 안정된 관절로 탈구를 일으키려면 강한 힘을 받아야 하고, 이 때문에 골절을 동반하는 경우가 흔하다. 외상성 고관절 탈구의 원인은 교통사고, 높은 곳에서의 낙상, 작업 중 사고, 스포츠 손상 등으로 발생할 수 있으며, 다른 신체 부위의 손상을 동반하는 경우가 흔하다. 따라서 다발성 손상을 당한 경우나 큰 외상을 받은 환자는 고관절 탈구에 대한 검사를 실시해야 한다. 고관절 탈구는 해부학적 구조상 약 85~90%가 후방 탈구로 발생하며, 이는 특히 교통사고 시 계기판에 직접 부딪히는 외상이나, 의자에 앉아있는 자세(무릎과 고관절을 구부린 상태)로 무릎 전방에 직접적인 충돌이 가해지는 낙상 등에서 잘 일어난다',
     symptom: '골절,출혈',
-    core_symtom: '골절',
+    core_symtom:'골절',
     part: '관절',
     desc: '골반 쪽 심한 통증',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -755,10 +758,10 @@ module.exports = [{
     name: '간흡충증',
     cause: '간흡충(Clonorchis sinensis)이 원인 기생충이다. 간흡충에 감염된 사람의 대변을 통해서 충란(알)이 배출되고, 이 충란은 제1중간숙주인 쇠우렁이 등의 민물 조개류에 먹힌 후 그 안에서 다음 단계로 성장하게 된다. 중간단계로 자란 간흡충은 중간숙주의 몸에서 나와 물속에서 헤엄치며 돌아다니다가 제2중간숙주인 잉엇과에 속하는 민물고기에 달라붙어 근육 내로 들어간다. 제2중간숙주에 속하는 민물고기에는 참붕어, 붕어, 잉어, 누치, 향어 등이 있다. 사람이나 동물이 간흡충에 감염된 민물고기를 날것으로 먹으면 간흡충에 감염된다.인체에 들어온 간흡충은 위장과 연결된 십이지장에서 성장한 후, 십이지장에 연결된 담관(bile duct)을 따라 위로 이동하여 담관의 중간 부위에서 성충이 된다. 감염 후 성충이 되기까지는 3~4주가 걸린다. 성충이 낳은 충란은 담즙과 함께 대변으로 배출되면서 이러한 생활사가 반복된다. 사람만 감염되는 것이 아니라 개, 고양이, 여우, 쥐 등도 간흡충에 감염되어 배설물을 통해 충란을 배출한다. 인체 감염은 제2중간숙주에 해당하는 민물고기의 회, 오염된 칼, 도마 등을 통해서도 가능하다. 흡충은 사람 몸 속에서 보통 3~4년 정도 살 수 있지만 길게는 20~30년까지 생존하기도 한다.  ',
     symptom: '더부룩함,갑갑함,소화불량,대변',
-    core_symptom: '대변,갑갑함,더부룩함,소화불량',
+    core_symptom:'대변,갑갑함,더부룩함,소화불량',
     part: '배',
     desc: '민물고기/민물 생물 섭취',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -769,7 +772,7 @@ module.exports = [{
     core_symptom: '구토,발열,대변',
     part: '배',
     desc: '유아, 발열 및 구토, 설사 지속',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -777,10 +780,10 @@ module.exports = [{
     name: '독성 간염',
     cause: '간손상을 일으킨다고 알려진 의약품이나 천연물에 의한 간손상이 독성 간염의 원인이며, 한약이나 건강기능식품도 흔한 발병 요인이다. 간손상을 일으킬 수 있는 약물은 수없이 많지만 실제로 독성 간염을 일으킬 정도의 간손상을 유발하는 빈도는 높지 않은 편이다. 간손상을 일으키는 약물은 크게 두 가지로 나눌 수 있는데, 하나는 복용량이 증가할수록 악영향을 미치는 정도가 증가하므로 간손상의 정도를 예측할 수 있는 약물이고, 또 하나는 간손상 여부를 예측할 수 없는 특이반응 약제이다.특이반응(idiosyncrasy)이란 유전적 요인에 의해 약물 고유의 작용이 비정상적으로 강하게 또는 약하게 나타나는 현상을 말한다. 이러한 약물은 투여 대상 환자들에게서 소량으로도 예민한 반응을 유발하기도 하고, 반대로 대량을 투여하더라도 약리 작용이 나타나지 않기도 한다. 특이반응은 개개인의 유전적 요인에 의해 달라지므로 예측하기 힘들고, 따라서 특이반응에 의한 간손상 역시 예측하기 힘들다',
     symptom: '구역, 구토,통증,피로,황달,가려움증,피부이상,발열',
-    core_symptom: '구역,구토,가려움,피로,통증,황달,발열',
+    core_symptom:'구역,구토,가려움,피로,통증,황달,발열',
     part: '피부,배',
     desc: '오른쪽 상복부 통증 혹은 약물 복용',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -788,10 +791,10 @@ module.exports = [{
     name: '납 중독',
     cause: '납은 식품, 음료뿐만 아니라 오염된 대기, 납이 함유된 토양, 환경개선이 되어 있지 않은 산업 시설에서 나오는 분진, 자동차 매연, 납이 함유된 페인트, 납으로 오염된 위스키 등을 통해 노출될 수 있다. 납의 체내 흡수는 소화기를 통한 섭취와 호흡기를 통한 흡입으로 이루어진다. 납을 원료로 사용하는 작업장을 살펴보면, 크리스탈 유리 제조 공정, 자동차 수리 작업장, 납 광산, 납땜 작업장, 도자기 작업장 등 납을 원료로 사용하는 공장 등이 있다. 이러한 공장에서 증기나 미세한 먼지를 지속적으로 들이마시면 납 중독의 위험이 현저하게 높아진다.곡류, 과일, 야채류 등은 토양에서 납을 흡수하거나 공기 중의 납에 노출되면서 오염될 수 있다. 육류는 식물 및 채소에 비해 납의 오염도가 더욱 높은 편이며 생선의 납 농도가 ���은 것으로 알려져 있다. 또한, 납으로 만들어진 수도관을 타고 나오는 수돗물을 마시거나 오염된 물로 만들어진 음료수를 지속적으로 마시면 납에 노출될 수 있다. 대기 중의 납 농도는 계절, 지역에 따라 상당한 차이가 있으며 한 지역에서도 교통량, 날씨, 온도 등에 따라 그 정도가 달라진다. 일반적으로 도시 근교에서 납 농도가 높으며 폐쇄된 주차장이나 교통량이 많은 도로는 매연이 많아 납 농도가 매우 높다.토양은 납에 직접적으로 노출되어 있으며 물속으로의 납 노출은 자연적으로 납을 포함하고 있는 토양과 암석, 산업시설 및 자동차에서 오염된 물질이 송수관 등을 통해 배출되면서 이루어진다. 납이 페인트 원료로 사용되었다면 페인트가 벗겨지거나 조각나서 주변을 오염시킬 수 있다. 또한, 납을 함유한 유약을 사용한 도제 용기, 폐기된 건전지, 납 페인트로 칠해진 어린이용 완구와 가구, 그림도구, 의약품, 사격장의 분진을 통해서도 납에 노출될 수 있다',
     symptom: ' 불편감, 통증, 대변, 식욕부진, 현기증, 구토, 체중 감소, 혼수, 경련,쇠약,마비,관절통, 권태감, 불면증, 어지러움',
-    core_symptom: '복부 불편감, 복부 통증, 대변',
+    core_symptom:'복부 불편감, 복부 통증, 대변',
     part: '배,전신',
     desc: '오염 심한 지역에서 장시간 생활',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -799,10 +802,10 @@ module.exports = [{
     name: '후종인대 골화증',
     cause: '이 질환의 원인은 불명확하지 않으나 주로 한국, 일본 등의 동양인에게만 나타나고, 가족간의 발병률이 일반인보다 높은 것으로 보아 유전적, 인종적인 요소가 많이 작용하는 것으로 알려져 있다. 외상, 당뇨병, 비만, 면역 질환, 강직성 척추염, 미만성 골과다증 등과도 관련이 있다고 보고되고 있다. 목 부분인 경추에서 잘 발생하며 가슴 쪽 흉추에서도 드물게 발생한다.단단하게 뼈처럼 굳어진 후종인대는 인접한 인대를 변화시켜 제2 경추에서 5 경추에 걸쳐 보통 2~5개의 추체에 다발성으로 발생한다. 주로 40세 이후에 많으며 남녀 발생 비율은 약 4:1로, 남자에게 더 많이 발생한다',
     symptom: '통증,위화감, 압박감,감각 이상, 보행 장애, 배뇨,배변장애',
-    core_symptom: '통증, 저림, 소변, 대변',
+    core_symptom:'통증, 저림, 소변, 대변',
     part: '목,팔,다리,척추',
     desc: '목 주변 위화감, 압박감, 손발 마비',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -810,10 +813,10 @@ module.exports = [{
     name: '건막염',
     cause: '마찰, 건막의 부분적 파열, 류마티스성 질환 등이 있으며, 가장 심한 경우로 화농성 및 결핵성 건막염이 있다',
     symptom: '통증,부종',
-    core_symptom: '통증',
+    core_symptom : '통증'
     part: '전신',
     desc: '희미한 통증, 반복적인 움직임',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -824,7 +827,7 @@ module.exports = [{
     core_symptom: '통증,배뇨통,빈뇨,소변',
     part: '등,옆구리,방광',
     desc: '혈뇨',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -835,18 +838,18 @@ module.exports = [{
     core_symptom: '가려움,통증,눈물,붓기',
     part: '배,가슴,성기,다리,목, 눈, 배, 척추, 방광,머리',
     desc: '최근 날 음식 섭취',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/036-acari.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
     code: 151,
     name: '대퇴골두 골단 분리증',
-    cause: '대퇴골두 골단분리증은 아무 이유 없이 발생하는 경우가 많은데, 상대적으로 체중이 많이 나가는 청소년에서 더 흔히 발병한다. 내분비 질병이나 약물 치료를 받고 있는 환자에게서 더 흔히 발생하기도 하는데, 이들의 예로는 1) 성장 호르몬 투여 중인 환자, 2) 저갑상선 호르몬증, 3) 성 호르몬 결핍증, 4) 만성 신장 질병 등이 있다. 특히 최근 키를 크게 할 목적으로 성장 호르몬을 투여하는 경우가 많은데 사타구니 또는 엉덩이 관절이 아프면 빨리 전문의에게 진찰을 받는 것이 필요하���',
+    cause: '대퇴골두 골단분리증은 아무 이유 없이 발생하는 경우가 많은데, 상대적으로 체중이 많이 나가는 청소년에서 더 흔히 발병한다. 내분비 질병이나 약물 치료를 받고 있는 환자에게서 더 흔히 발생하기도 하는데, 이들의 예로는 1) 성장 호르몬 투여 중인 환자, 2) 저갑상선 호르몬증, 3) 성 호르몬 결핍증, 4) 만성 신장 질병 등이 있다. 특히 최근 키를 크게 할 목적으로 성장 호르몬을 투여하는 경우가 많은데 사타구니 또는 엉덩이 관절이 아프면 빨리 전문의에게 진찰을 받는 것이 필요하다',
     symptom: '통증',
     core_symptom: '통증',
     part: '사타구니,다리,골반',
     desc: '미성년 비만 혹은 선천적 기형 골격 질환자',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -854,10 +857,10 @@ module.exports = [{
     name: '중증 급성 호흡기 증후군',
     cause: '사스의 원인 바이러스인 사스-코로나 바이러스(SARS coronavirus, SARS-CoV)는 한 가닥의 RNA를 유전물질로 가지고 있는 바이러스이다. 인간에게 감염을 일으키는 코로나 바이러스의 형태는 제1혈청형과 제2혈청형이 알려져 있는데, SARS의 원인이 되었던 코로나 바이러스는 이 두 가지 혈청형과 다른 새로운 종류인 것으로 나타났다. 원인 바이러스가 전파되는 경로는 아직 완전히 밝혀지지 않았지만 대기 중에 떠다니는 고체나 액체의 미세한 입자에 의해 전파되는 것으로 추측하고 있다',
     symptom: '발열, 무력감, 통증,기침,호흡곤란,대변',
-    core_symptom: '호흡곤란,발열,기침,통증,오한',
+    core_symptom:'호흡곤란,발열,기침,통증,오한',
     part: '머리, 근육',
     desc: '급격하게 체온 상승',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -865,10 +868,10 @@ module.exports = [{
     name: '렙토스피라증',
     cause: '렙토스피라(Leptospira)는 1973년 국제세균명명위원회에서 렙토스피라 인테로간스(Leptospira interrogans)와 렙토스피라 비플렉사(Leptospira biflexa)의 두 가지 종(species)으로 분류하였다. 병원성 렙토스피라는 렙토스피라 인테로간스에 속하고 지표수(표재수)나 민물(담수)에 서식하는 비병원성 렙토스피라는 렙토스피라 비플렉사에 속한다. 렙토스피라는 크기가 0.1um x 6~20um 정도 되는 아주 가늘고 촘촘히 꼬인 나선형 모양을 하고 있으며, 활발히 움직이는 세균이다. 병원성 렙토스피라는 환경 조건만 적합하면 동물의 몸 밖에서도 비교적 오래 생존할 수 있고 증식도 가능하다. 렙토스피라는 온도, 산성, 세균의 오염 등에 대단히 예민하여 위액, 담즙, 사람이나 소의 희석되지 않은 젖에 의해 쉽게 생명력을 잃는다. 45도 증류수에서 20~30분, 50도에서 10분, 60도에서 10초, 70도에서는 10초 이내에 사멸한다. 멸균된 맑은 물에서는 pH가 중성이면 4주 정도는 생존할 수 있지만 pH 5이면 2일 밖에 생존하지 못한다. 오염된 상수에서는 18~20일간 생존 할 수 있다. 병원성 렙토스피라는 바닷물에서 18~20시간 정도 생존할 수 있다.  ',
     symptom: '발열,통증, 오한,출혈,발열, 수막염, 피부이상, 용혈성 빈혈, 피부나 점막의 출혈, 간부전, 황달, 신부전, 심근염, 의식저하, 객혈,황달,간부전, 신부전증,출혈,응고부전증,심장염,기침,각혈',
-    core_symptom: '구토,대변,통증,구역',
+    core_symptom:'구토,대변,통증,구역',
     part: '머리,근육,눈,피부',
     desc: '최근 쥐 등 야생동물과 접촉 혹은 야생동물 많은 곳 생활 객혈(피가래), 각혈',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/071-pet_allergy.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -876,10 +879,10 @@ module.exports = [{
     name: '반응성 관절염',
     cause: '반응성 관절염의 정확한 원인은 아직 밝혀지지 않았지만 감염 이후 발생하는 자가면역기전이 주요기전으로 알려져 있다. 자가면역이란 외부로부터 인체를 지키는 면역계에 이상이 생겨 오히려 인체를 공격하는 현상으로, 감염균에 대항하기 위해 활성화되는 면역 체계가 감염균 뿐만 아니라 정상적인 체내의 관절 및 관절 주위 조직에 대해 공격하는 것이다.이러한 자가면역기전의 발생에 유전적 소인이 많은 관여를 하고 있다고 여겨지며, 가장 대표적으로 사람백혈구항원이라고 하는 HLA-B27(Human Leukocyte Antigen-B27)을 들 수 있는데, 이러한 유전적 소인이 있는 경우 반응성 관절염의 발생 위험도가 높아지거나, 관절염이 더 심하고 오래가는 경향성을 보인다',
     symptom: '통증, 뻣뻣함,부종,피로, 무기력증, 발열, 체중감소',
-    core_symptom: '통증',
+    core_symptom:'통증',
     part: '관절',
     desc: '질병 겪은 후 통증',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -887,10 +890,10 @@ module.exports = [{
     name: '냉방병',
     cause: '예로부터 \'여름 감기는 개도 안 걸린다\'는 말이 있다. 그렇지만 현대의 여름은 성능이 좋은 에어컨 덕분에 실내가 서늘하고, 때로는 긴 팔 덧옷이 필요할 때도 있어 이 말은 현대에는 어울리지 않는다. 우리가 흔히 냉방병이라고 부르는 것의 원인은 3가지로 구분된다.1) 상기도 감염 증상일반적으로  상기도 감염, 즉 감기를 일으키는 바이러스 중 일부는 주로 겨울에 유행하는 경향이 있으나 여름에도 감염을 일으킬 수 있다. 실내 기온을 외부 기온보다 낮게 유지하는 여름에 바이러스가 활성화된 일부 감기 환자는 다른 사람들에 비해 냉방된 실내 환경을 �� 힘들게 느낄 수 있으며, 두통, 목 통증, 콧물, 전신 위약감 등의 증상이 심하게 나타날 수 있다.2) 레지오넬라증에어컨의 냉각수나 공기가 세균들로 오염되어서 이 세균들이 냉방기를 통해서 빌딩에 거주하는 사람들을 감염시키는 것을 말한다. 이 세균을 \'레지오넬라(Legionella)\'라고 하며, 일종의 감염성 질환이다. 이 균은 냉방기 내에서 잘 서식하고, 같은 냉방기를 사용하는 건물 전체에 퍼지며 특히 허약자나 면역 기능이 약화된 사람에서 주로 감염된다. 이 병을 예방하기 위해서는 냉방기의 청결유지가 무엇보다도 중요하므로 정기적인 냉방기 점검과 필터 청소가 필수적이다.3) 밀폐 건물 증후군\'빌딩증후군\'의 일종으로, 시원한 실내 온도를 유지하게 위해서 환기를 제대로 하지 않을 때 주로 발생하는 질환이다. 현대적인 건물의 실내에서는 창문을 열 수 없는 구조로 되어 있어 환기와 냉난방을 중앙 집중적으로 관리하는 빌딩에서 흔히 잘 발생한다. 주로 두통을 호소하며 눈, 코, 목 등이 건조해져 따갑거나 아프다. 가슴이 답답하고 어지럽거나 피로감이 생길 수도 있다. 밀폐 건물 증후군은 여러 유해물질을 포함하는 담배 연기는 물론이고 사무실 내의 가구나 카펫, 페인트나 접착제, 복사기 등에서 발생하는 화학성분들이 환기가 제대로 안 되어 실내에 계속 쌓일 때 발생한다. 반드시 환기를 통해 화학성분을 외부로 내보내야만 빌딩증후군의 원인이 사라질 수 있다. 규칙적으로 창문을 통해 환기를 해야 하며, 중앙환기 시스템의 경우 환기의 횟수 및 강도를 강화해야 한다',
     symptom: '호흡기 증상감기,통증,콧물,코막힘, 재채기, 나른함,피로,손발이 부음,위장장애,소화불량',
-    core_symptom: '통증,콧물',
+    core_symptom:'통증,콧물',
     part: '코, 머리',
     desc: '오랜 시간 냉방기기 사용',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -898,10 +901,10 @@ module.exports = [{
     name: '자궁내막염',
     cause: '자궁내막은 질을 통해 외부와 연결되어 있는 해부학적 구조를 갖고 있다. 이런 구조상 특성으로 세균 등 병원체가 비정상적으로 침투하는 경우 자궁내막염이 생길 수 있다. 흔한 원인은 아래 표와 같다. ',
     symptom: '발열, 오한, 하복부 불편감, 압통, 화농성 질 분비물,출혈,소변',
-    core_symptom: '출혈',
+    core_symptom:'출혈',
     part: '생식기',
     desc: '여성 질환,50-60대',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -909,10 +912,10 @@ module.exports = [{
     name: '무릎 관절염',
     cause: '증상이 있는 슬관절 관절염은 60세 이상의 남성에서 9.6%, 여성에서는 18%에서 발생하는 것으로 알려져 있다. 미국의 경우 슬관절에서 45세 이상의 경우 19.2%에서 27.8%까지 방사선학적으로 관찰되며, 60세 이상의 경우에는 37%에서 방사선학적으로 관찰되는 관절염이 발생하였다고 보고하였다. 유병률은 연령과 함께 증가한다. 관절염 발생의 위험인자는 전신적인 위험 인자와 국소적인 위험 인자로 분류할 수 있다. 전신적인 위험 인자는 인종, 연령, 성별, 비만, 호르몬 변화, 유전적인 영향, 골밀도, 영양 상태 등이 있고, 국소적인 위험 인자는 관절의 생역학적 변화, 관절 손상, 직업, 스포츠, 육체적 활동, 발달성 이상 등이 있다. 골관절염의 발생 기전은 한 가지 위험 인자로 설명하기 어렵고 다양한 위험 인자가 복합적으로 작용한다. 노화는 모든 관절염의 관절염 발생에서 가장 중요함 위험 인자들 중 하나이며, 노령 인구의 증가에 따라 그 유병률도 증가하는 추세이다. 55세 이하에서는 남녀비가 유사하나, 나이가 많아질수록 여성에게서 더 많이 나타난다.분류일차성(primary) 또는 특발성(idiopathic)과 이차성(secondary) 또는 속발성(successive)으로 분류되어 왔다. 일차성은 특별한 기질적인 원인이 없는 경우에 속하며, 이차성은 원인이 확실하게 증명되는 외상, 선천적 기형, 생화학적 이상이 동반된 경우 등이 속한다. 그러나 속발성이라고 진단되었더라도 원인을 밝히지 못하는 경우가 있을 수 있으며 동일 원인에 노출되어도 모두 관절염으로 진행하는 것은 아니다. 특발성도 최근에 그 원인이 조금씩 밝혀지고 있어 특발성과 속발성의 구분이 갈수록 더 불분명해지고 있다.  두 분류간의 임상적 진행의 중대한 차이는 없으며, 증상과 방사선학적 그리고 병리학적 상관관계의 차이도 뚜렷하지 않다',
     symptom: '통증,붓기',
-    core_symptom: '통증',
+    core_symptom:'통증',
     part: '관절',
     desc: '날씨에 따라 통증이 달라짐',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -920,10 +923,10 @@ module.exports = [{
     name: '만성 비염',
     cause: '세균에 의해 유발되는 만성 비염은 급성 비염에 대한 치료가 불완전하여 비염이 반복적으로 발생하는 경우에 나타날 수 있다. 부비동염이나 편도 조직의 만성적인 염증으로 인하여 비염이 오랫동안 지속되는 경우, 또는 전신적 영양상태나 면역상태가 좋지 않아 비염이 잘 치유되지 않는 경우에도 만성 비염이 나타날 수 있다. 비감염성 만성 비염의 원인으로는 알레르기비염, 비강 구조의 해부학적 이상, 자율신경계의 불균형, 호르몬 이상, 약물, 정서 불안 등이 있다',
     symptom: '코막힘,콧물,화농성 비루,후비공(뒤쪽 콧구멍),후비루,재채기',
-    core_symptom: '콧물,코막힘',
+    core_symptom:'콧물,코막힘',
     part: '코',
     desc: '자주 생기는 증상',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/003-rhinitis.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -931,10 +934,10 @@ module.exports = [{
     name: '열사병',
     cause: '과도한 고온의 환경에 오랜 시간 노출되거나, 더운 상태에서 육체노동이나 운동을 지속할 때 시상 하부에 위치한 인체의 체온 유지 중추가 그 기능을 잃게 되면 열사병으로 진행한다. 정상적인 상태에서 인체가 고온 환경에 노출되면 시상하부 온도 조절장치와 관련된 온도 수용체에서 땀을 내고(발한), 피부의 모세혈관을 확장하며, 열 생산을 감소시키고, 심박출량을 증가시키며, 호흡을 증가시키는 것과 같은 기전으로 열을 몸 밖으로 발산하여 체온을 정상적인 범위 내에서 유지하게 된다. 그러나 이러한 보상 기전이 오랜 시간 지속되거나 한계를 벗어나면 시상하부 온도조절 중추가 기능을 잃게 되고, 인체는 체온을 외부로 발산하지 못해 중추신경, 근육, 간, 콩팥 등의 다양한 장기가 영향을 받게 된다. 젊은 층에 많이 발생하는 운동성 열사병과 노인층에 주로 발생하는 고전적 열사병으로 나누기도 하나, 증상과 치료에는 별다른 차이가 없어 임상적으로 엄격히 구별하지는 않는다',
     symptom: '의식변화, 무력감, 어지러움, 구역, 구토, 통증, 졸림, 혼동상태, 근육떨림, 운동실조, 평형장애, 신경질, 발열, 의식장애, 덥고 건조한 피부, 헛소리, 혼수상태, 괴상한 행동, 환각상태, 근육 강직, 경련, 운동 실조, 땀, 출혈, 황달, 손발 떨림, 의식 저하, 혼수',
-    core_symptom: '통증,어지러움,발열',
+    core_symptom:'통증,어지러움,발열',
     part: '머리,전신',
     desc: '더운 장소에서 지나치게 오래 있음',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -942,10 +945,10 @@ module.exports = [{
     name: '고산병',
     cause: '고지대로 올라가면 점차 공기 중 산소농도가 떨어져 동맥 혈액에 녹아든 산소가 줄고(산소분압 감소), 조직에는 저산소증이 발생한다. 이에 대한 정상적인 보상반응을 순응이라 하는데, 상대적으로 숨을 많이 쉬어 산소부족량을 보충하고, 산소함유량이 저하된 혈액을 많이 순환시키며, 뇌의 혈관을 확장하여 뇌에 많은 혈액이 흐르도록 한다. 하지만 이러한 생리적 적응 한계는 산소농도가 16% 정도일 때이며, 이보다 낮은 농도에서는 생체적 보상이 더 이상 효과적으로 기능하지 못하여 산소결핍증상이 나타난다.순응력은 사람마다 다르며, 저산소의 강도나 등산속도, 고지대에서의 신체활동량 등과 같은 다양한 요인에 의해 영향을 받는다. 순응은 등산 시작 후 수분 이내에 시작되지만 완전한 순응이 이루어지기까지는 수 주가 걸릴 수도 있다. 순응이 잘 안 된 사람이 2,000m 이상의 고도를 등반할 때 저산소증에 적응하지 못해 발생하는 것이 고산병이다. 발생하는 정확한 기전은 모르지만, 저산소증에 의해 유발된 과도한 관류압과 모세혈관압력, 그리고 머리와 허파의 미세혈관의 누출 등으로 인한 잘못된 체액조절 때문인 것으로 생각된다',
     symptom: '가벼운 두통과 숨이 답답함, 비특이적인 식욕저하, 구역, 구토, 소화기 증상, 권태감, 위약감, 소변양 감소, 수면장애, 마른기침, 폐수포음, 거품이 섞인 기침,호흡곤란, 의식저하',
-    core_symptom: '호흡곤란,통증,어지러움,구역',
+    core_symptom:'호흡곤란,통증,어지러움,구역',
     part: '머리,전신,가슴',
     desc: '현재 높은 고도에 있거나, 공기가 희박한 곳에 있음',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -953,10 +956,10 @@ module.exports = [{
     name: '유방염',
     cause: '유관에 세균이 번식하거나 유관 내용물이 유방조직으로 역류하여 생기는 경우가 있으며, 수유기에는 수유에 의해 생긴 유두의 상처로 병균이 침범하여 생기기도 한다. 그리고 농축된 분비물 등이 유관에 채워진 상태를 말하는 유관 확장증이, 유관 주위에 발생하는 유방염과 함께 존재하는 경우가 많아 서로가 서로의 원인 또는 결과일 것이라고 생각하기도 한다',
     symptom: '피부이상,통증,덩어리,분비물,붓기,열기',
-    core_symptom: '통증,피부이상,붓기',
+    core_symptom:'통증,피부이상,붓기',
     part: '가슴',
     desc: '여성질환',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -964,10 +967,10 @@ module.exports = [{
     name: '괴혈병',
     cause: '괴혈병은 비타민 C의 결핍에 의해 발생한다. 비타민 C는 우리 몸의 결합 조직을 구성하는 콜라겐의 합성에 필수적인 역할을 한다. 따라서 괴혈병이 생기면 결합 조직에 이상이 생기기 때문에 우리 몸의 어느 부분에서라도 증상이 일어날 수 있다',
     symptom: '출혈, 전신 권태감, 피로, 식욕 부진, 피하출혈, 혈뇨, 혈변,소변,대변',
-    core_symptom: '출혈,어지러움',
+    core_symptom:'출혈,어지러움',
     part: '입,피부,치아',
     desc: '야채나 과일 섭취 부족',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -975,10 +978,10 @@ module.exports = [{
     name: '파라티푸스',
     cause: '환자나 보균자(체내에 병원균이 존재하는 사람)의 소변, 대변으로 오염된 음식이나 물을 먹으면 감염된다. 파라티푸스균은 주로 사람의 몸 속에서 증식하며 살기 때문에 대부분 사람에 의해서 감염되지만 드물게는 가축이 감염원이 되기도 한다',
     symptom: '발열, 통증,피부이상,대변',
-    core_symptom: '발열,통증,피부이상,대변',
+    core_symptom:'발열,통증,피부이상,대변',
     part: '배,머리',
     desc: '잘못된 식품 섭취 혹은 대변과 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   },
   {
@@ -986,10 +989,10 @@ module.exports = [{
     name: '발진열',
     cause: '쥐벼룩의 대변으로 배설된 리케치아 티피(Rickettsia typhi)가 사람의 피부에 있는 작은 상처를 통해 인체 내에 들어가 혈액을 따라 전신으로 퍼지며 감염병을 일으킵니다. 쥐벼룩의 대변에 있던 리케치아 티피(Rickettsia typhi)가 공중에 떠 있다가 호흡기 또는 결막을 거쳐 감염을 일으키기도 합니다',
     symptom: '발열, 통증,피부이상, 구역, 구토, 기침, 혼미, 경련, 콩팥기능 손상, 간기능 손상',
-    core_symptom: '피부이상, 통증, 구토',
+    core_symptom:'피부이상, 통증, 구토',
     part: '피부,머리,전신,배,가슴',
     desc: '쥐가 서식하는 곳에서 생활',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
     score: 0
   }
 
