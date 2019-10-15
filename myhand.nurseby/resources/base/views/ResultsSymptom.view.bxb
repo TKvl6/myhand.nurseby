@@ -1,0 +1,55 @@
+result-view {
+	match: Disease (this){
+    from-output : SearchSymptom(searchSymptom)
+  }
+	
+	message{
+		template ("아픈 부위와 함께 말해주시겠어요? ")
+	}
+	
+	render {
+		if(size(this) == 1){
+			layout-match (this){
+				mode (Details)
+			}
+		}
+		else{
+			layout {
+				section {
+					content {
+						for-each (this){
+							as (item){
+								title-area {
+									halign (Start)
+									slot1 {
+										text {
+											style (Title_S)
+											value ("#{value(item.name)}")
+										}
+									}
+									slot2 {
+										paragraph{
+											style (Title_XS)
+											value ("원인 : #{value(item.cause)} \n증상 : #{value(item.symptom)}\n부위 : #{value(item.part)}")
+										}
+									}
+									slot3 {
+										single-line {
+											text {
+												style (Detail_M_Soft)
+												value ("score : #{value(item.score)}")
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	conversation-drivers {
+		conversation-driver ("코가 아프고 피가 나와")
+	}
+}

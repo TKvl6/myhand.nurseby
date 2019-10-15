@@ -1,0 +1,70 @@
+result-view{
+	match: Disease (this){
+		from-output : SearchPart(searchPart)
+	}
+	
+	
+	message{
+		template ("증상과 함께 말해주시겠어요 ?")
+	}
+	
+	// 레이아웃
+	render{
+		if(size(this) == 1){
+			layout-match (this){
+				mode (Details)
+			}
+		}
+		else{
+			layout{
+				section{
+					content{
+						for-each (this){
+							as (item){
+								title-card {
+									title-area {
+										halign (Start)
+										slot1 {
+											text {
+												style (Title_S)
+												value ("#{value(item.name)}")
+											}
+										}
+										slot2 {
+											single-line {
+												text {
+													style (Detail_L_Soft)
+													value ("유사성 : #{value(item.score)}")
+												}
+											}
+										}
+										slot3 {
+											single-line {
+												text {
+													style (Detail_M_Soft)
+													value ("#{value(item.desc)}")
+												}
+											}
+										}
+									}
+									on-click {
+										intent {
+											goal: Disease
+										}
+									}
+								}
+								divider
+							}
+						}//for-each
+					}
+				}//section
+			}//layout
+		}//else
+	}
+	
+	conversation-drivers{
+		conversation-driver{
+			template ("머리 아프고 통증이 있어")
+		}
+	}
+}

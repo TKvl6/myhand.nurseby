@@ -1,7 +1,0 @@
-hints {
-  uncategorized {
-    utterance (머리가 아파)
-    utterance (머리하고 배가 아파)
-    utterance (기침이 나와)
-  }
-}

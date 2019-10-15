@@ -22,7 +22,7 @@ layout-macro-def(result-thumbnail-card) {
 					single-line {
 						text {
 							value {
-								template ("부위: #{value(disease.part)}")
+								template ("아픈 부위: #{value(disease.part)}")
 							}
 							style (Detail_L)
 						}

@@ -31,7 +31,7 @@ result-view {
 	}
 	conversation-drivers {
 		conversation-driver {
-			template ("Show results as image cards")
+			template ("기침나와")
 		}
 	}
 }
