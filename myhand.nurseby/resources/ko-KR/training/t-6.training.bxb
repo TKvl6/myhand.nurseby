@@ -1,0 +1,5 @@
+train (t-6buzl5u7tfm6nj6q7b2gku00w) {
+  utterance ("[g:Disease] (기침)[v:Symptom]이랑 (가래)[v:Symptom] 나와")
+  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOCK7MLSjJz8XQRa44CwMjAxMDM5BmALOYgCQDAw8QMgBFGSAyAA==)
+  last-modified (1571118098886)
+}
