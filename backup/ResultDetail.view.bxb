@@ -18,7 +18,7 @@ result-view{
 							}
 						}
 					}
-					single-line{
+					single-line {
 						text{
 							style (Detail_M_Soft)
 							value{
@@ -26,9 +26,19 @@ result-view{
 							}
 						}
 					}
+					spacer {
+						value{
+							template ("원인 : #{value(this.cause)}")
+						}
+					}
 					paragraph{
 						value{
-							template ("원인 : #{value(this.cause)} \n증상 : #{value(this.symptom)}\n부위 : #{value(this.part)}")
+							template ("증상 : #{value(this.symptom)}")
+						}
+					}
+					paragraph{
+						value{
+							template ("부위 : #{value(this.part)}")
 						}
 					}
 				}

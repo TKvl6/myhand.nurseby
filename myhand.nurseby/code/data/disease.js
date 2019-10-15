@@ -5,7 +5,7 @@ module.exports = [{
     symptom: '폐염증,기침,가래,호흡곤란,통증,구역,구토,설사,두통,피로,발열,오한',
     part: '코,가슴,목,관절,근육',
     desc: '오랜 감기',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -15,7 +15,7 @@ module.exports = [{
     symptom: '피로감,메스꺼움,구토,식욕 부진,발열,통증,황달,대변,소변',
     part: '배',
     desc: '검은 소변,탈색된 대변',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -25,7 +25,7 @@ module.exports = [{
     symptom: '가려움,부종,통증,메스꺼움,구토,호흡곤란',
     part: '배,피부,목',
     desc: '',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -35,7 +35,7 @@ module.exports = [{
     symptom: '궤양,피부이상,발열,붓기,통증',
     part: '머리,성기,근육,목,림프절,임파선,피부',
     desc: '성 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -45,7 +45,7 @@ module.exports = [{
     symptom: '통증,복부팽만감,대변,두통,월경불순,배뇨장애,심계항진,불안,초조,우울',
     part: '배,머리,가슴',
     desc: '용변',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -55,7 +55,7 @@ module.exports = [{
     symptom: '기침,가래,출혈,발열,발한,쇠약,신경과민,식욕 부진,소화불량,집중력 소실,식욕 부진,구토,의식저하',
     part: '목,머리,소화',
     desc: '객혈(피가래)',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -65,7 +65,7 @@ module.exports = [{
     symptom: '통증,감각이상,피부이상,진물',
     part: '피부,머리',
     desc: '물집,심한 통증,상처',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -75,7 +75,7 @@ module.exports = [{
     symptom: '가려움',
     part: '피부',
     desc: '잘 때 심해짐',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -85,7 +85,7 @@ module.exports = [{
     symptom: '발열,가려움,피부이상,진물',
     part: '피부',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -95,7 +95,7 @@ module.exports = [{
     symptom: '가래,호흡곤란,답답,기침,통증',
     part: '목,가슴',
     desc: '숨소리 이상',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -105,7 +105,7 @@ module.exports = [{
     symptom: '소변,출혈,통증',
     part: '방광',
     desc: '소변이 자주 마렵거나 아픔',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -115,7 +115,7 @@ module.exports = [{
     symptom: '통증,소변,구역,구토,출혈',
     part: '배,옆구리,방광',
     desc: '최근 소변이 자주 마려움',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -125,7 +125,7 @@ module.exports = [{
     symptom: '붓기,통증,진물,압통',
     part: '눈',
     desc: '붓기,눈뜨기 힘듬',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -134,8 +134,8 @@ module.exports = [{
     cause: '쯔쯔가무시병은 오리엔티아 쯔쯔가무시라는 세균을 가지고 있는 진드기의 유충이 사람을 물 때 오리엔티아 쯔쯔가무시가 사람을 감염시켜 발생하는 질병입니다. 진드기에 노출될 가능성이 큰 야외에서 활동하는 사람에서 주로 발생하고 성묘를 가는 추석을 전후하여 전국 각지에서 환자가 발생합니다',
     symptom: '발열,발한,통증,출혈, 피부이상, 구역, 구토, 대변,호흡곤란',
     part: '림프절,임파선,눈,배',
-    desc: '야외 활동 ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    desc: '야외 활동',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -145,7 +145,7 @@ module.exports = [{
     symptom: '피로, 구토, 통증, 발열, 황달',
     part: '근육,배',
     desc: '최근 타인과의 깊은 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -155,7 +155,7 @@ module.exports = [{
     symptom: '통증, 메스꺼움, 체중감소, 출혈, 대변, 어지러움, 구토',
     part: '복부,가슴',
     desc: '속쓰림, 과음, 과식, 스트레스,피 토함',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -165,7 +165,7 @@ module.exports = [{
     symptom: '피부이상, 붓기, 습진, 수포, 진물, 색소침착',
     part: '피부',
     desc: '자극적인 물품과의 접촉(비누, 세제, 화학물질 등)',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -175,7 +175,7 @@ module.exports = [{
     symptom: '통증, 오심, 구토, 어지러움, 식은땀, 출혈, 연하곤란',
     part: '배',
     desc: '최근 스트레스나 과음, 과식, 평소 앓고 있던 위 질환 존재',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -185,7 +185,7 @@ module.exports = [{
     symptom: '재채기, 코막힘, 코막힘, 눈물, 통증, 후각감퇴,비음',
     part: '코,눈,머리',
     desc: '최근 환경 변화나 호흡기 유전 질환 여부',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -195,7 +195,7 @@ module.exports = [{
     symptom: '피부이상',
     part: '피부',
     desc: '털을 뽑는 습관',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -205,7 +205,7 @@ module.exports = [{
     symptom: '통증, 붓기',
     part: '귀,림프절,턱',
     desc: '씹거나 삼킬 때 통증',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -215,7 +215,7 @@ module.exports = [{
     symptom: '오줌',
     part: '',
     desc: '거품이 심함',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -225,7 +225,7 @@ module.exports = [{
     symptom: '통증,연하곤란, 출혈, 구역, 구토, 발열, 오한, 체중감소, 기침',
     part: '가슴,목,배',
     desc: '숨이 차고 신물 느껴짐',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -235,7 +235,7 @@ module.exports = [{
     symptom: '구토, 근육통, 미열, 소변의 색이 진해짐, 황달',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -245,7 +245,7 @@ module.exports = [{
     symptom: '발열, 기침, 코막힘, 발진, 출혈',
     part: '눈,피부,코',
     desc: '피부 아래에 피가 맺힘',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -255,7 +255,7 @@ module.exports = [{
     symptom: '분비물,악취',
     part: '생식기',
     desc: '여성 질환',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -265,7 +265,7 @@ module.exports = [{
     symptom: '통증, 피로, 불면',
     part: '근육',
     desc: '특별히 다친 곳이 없음',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -275,7 +275,7 @@ module.exports = [{
     symptom: '두통, 오한, 근육통, 식욕 상실, 코막힘, 후각 감퇴',
     part: '코,머리,근육',
     desc: '갑자기 코가 자주 막힘',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -285,7 +285,7 @@ module.exports = [{
     symptom: '붓기,통증,감각이상',
     part: '혀,입',
     desc: '혀가 붓고 매끈매끈한 느낌',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -295,7 +295,7 @@ module.exports = [{
     symptom: '발열, 통증, 붓기, 구역, 구토, 피부이상',
     part: '머리,목,림프절,관절,근육,피부',
     desc: '최근 성 접촉이나 수혈, 비위생적 상처',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -305,7 +305,7 @@ module.exports = [{
     symptom: '붓기, 구역, 구토,출혈,시력저하',
     part: '눈, 코',
     desc: '안구함몰, 최근 눈가를 강하게 부딪힌 적',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -315,7 +315,7 @@ module.exports = [{
     symptom: '소변',
     part: ' ',
     desc: '소변 보기가 어려움 ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -325,7 +325,7 @@ module.exports = [{
     symptom: '통증',
     part: '목, 머리,어깨,근육',
     desc: '평소 컴퓨터나 스마트폰을 많이 사용',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -335,7 +335,7 @@ module.exports = [{
     symptom: '발열, 간비대, 황달, 식욕 부진, 식도/위 정맥류 출혈, 간성혼수 ',
     part: '간',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -345,7 +345,7 @@ module.exports = [{
     symptom: '발열, 권태감, 체중감소, 저림, 방사통',
     part: '척추',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
 
@@ -356,7 +356,7 @@ module.exports = [{
     symptom: '구토,대변,통증,발열',
     part: '배',
     desc: '최근 상하기 쉬운 음식을 먹음',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -366,7 +366,7 @@ module.exports = [{
     symptom: '발냄새,가려움,각질',
     part: '발,피부',
     desc: '습한 환경이나 피부에 상처',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -376,7 +376,7 @@ module.exports = [{
     symptom: '가려움, 출혈, 눈물, 붓기',
     part: '눈',
     desc: '가루나 미세한 섬유, 털 등과 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -386,7 +386,7 @@ module.exports = [{
     symptom: '대변,통증, 탈수, 빈혈, 열, 식욕감퇴, 체중감소, 피로, 변비',
     part: '배',
     desc: '',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -396,7 +396,7 @@ module.exports = [{
     symptom: '현기증, 피로, 간질 발작, 의식 소실, 혈압 상승, 두근거림, 떨림, 식은땀, 공복감 ',
     part: '간',
     desc: '당뇨병 환자 혹은 질병 소유자',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -406,7 +406,7 @@ module.exports = [{
     symptom: '통증, 체중감소, 소화불량, 심와부(명치) 통증, 복부 팽만감, 식욕 부진, 트림, 구토, 오심, 열감',
     part: '배,가슴',
     desc: '최근 과식, 과음, 매운 음식 섭취',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -416,7 +416,7 @@ module.exports = [{
     symptom: '붓기, 피부이상, 진물, 가려움증',
     part: '손',
     desc: '물이나 세제와 자주 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -426,7 +426,7 @@ module.exports = [{
     symptom: '흉통, 호흡곤란',
     part: '폐,가슴',
     desc: '흡연자',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -436,7 +436,7 @@ module.exports = [{
     symptom: '부종,발열,피로,소변,염증,통증',
     part: '고환',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -446,7 +446,7 @@ module.exports = [{
     symptom: '출혈,탈홍,혈전,통증,가려움증',
     part: '항문',
     desc: '최근 대변이 힘듦',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -456,7 +456,7 @@ module.exports = [{
     symptom: '답답함,신트림,이물감,목소리 변화,통증',
     part: '목,배,가슴',
     desc: '신 트림이나 속 쓰림',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -466,7 +466,7 @@ module.exports = [{
     symptom: '통증, 어지러움, 이명, 청력저하, 시야, 복시,불면증, 피로, 감각저하,스트레스, 우울, 불안, 초조, 성격변화',
     part: '머리,귀',
     desc: '머리에 직간접적 충격',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -476,7 +476,7 @@ module.exports = [{
     symptom: '호흡곤란, 청색증,발열',
     part: '가슴',
     desc: '갑자기 숨을 못 쉼',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -486,7 +486,7 @@ module.exports = [{
     symptom: '발열,통증, 현기증,지각 이상,의식장애, 경련, 혼수',
     part: '머리',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -496,7 +496,7 @@ module.exports = [{
     symptom: '기침,코막힘,발열,오한,가래,인후염,호흡수 증가,신음 소리,흉곽 함몰,코 벌름거림,청색증,구토,복부 팽만,전신 위약감,식욕 부진, 대변,불안,섬망',
     part: '가슴,목,코,목',
     desc: '',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -506,7 +506,7 @@ module.exports = [{
     symptom: '복통,구역질,구토,빈맥(100회 이상의 맥박),발열,저혈압',
     part: '배,옆구리,등',
     desc: '담석 증상이나 음주',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -516,7 +516,7 @@ module.exports = [{
     symptom: '시력 감소,통증, 출혈, 눈물, 눈부심, 이물감',
     part: '눈',
     desc: '건조한 환경',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -526,7 +526,7 @@ module.exports = [{
     symptom: '발열, 오한, 구토, 의식 저하, 혼미,마비, 시력 저하, 경련 발작,통증',
     part: '머리,눈',
     desc: '심한 두통과 열',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -536,7 +536,7 @@ module.exports = [{
     symptom: '통증,소변,발열,오한',
     part: '옆구리,방광',
     desc: '요실금',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -546,7 +546,7 @@ module.exports = [{
     symptom: '변형시',
     part: '눈',
     desc: '치료법이 없음',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -556,7 +556,7 @@ module.exports = [{
     symptom: '오한, 통증, 빈뇨, 배뇨곤란,요폐,권태감',
     part: '허리,옆구리,관절,근육,성기,항문',
     desc: '원인 불명',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -566,7 +566,7 @@ module.exports = [{
     symptom: '통증,감각이상,대변,소변,성기능 장애',
     part: '허리,다리',
     desc: '잘못된 자세로 근무',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -576,7 +576,7 @@ module.exports = [{
     symptom: '발열,통증,대변',
     part: '배',
     desc: '혈변, 설사',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -586,7 +586,7 @@ module.exports = [{
     symptom: '통증,감각이상,운동장애,저림',
     part: '손',
     desc: '과거 골절, 혹은 당뇨병',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -596,7 +596,7 @@ module.exports = [{
     symptom: '  증상 - 갑자기 시작된 호흡곤란이 가장 흔한 증상이며 빠른 호흡이 가장 흔한 징후이다. 호흡곤란, 실신, 혹은 청색증은 대량의 폐색전증(massive pulmonary embolism)을 나타내며, 흉막성 통증, 기침, 객혈은 흔히 흉막에 가까운 원위부에 위치한 작은 폐 색전증(small pulmonary embolism)을 암시한다. 신체 검진에서 젊고 건강했던 환자는 대량의 폐 색전증에도 단지 불안해 보이기만 할 수가 있어 주의가 필요하다. 이런 환자는 중등도의 운동 시에만 호흡곤란을 호소하는 경우도 있어 진단이 애매할 수 있다. 빠른 맥박(빈맥), 미열, 목 정맥의 확장, 특징적인 청진 소견 등과 같은 전형적인 징후가 없는 경우도 있다. 때로 기이성 서맥(느린 맥박)이 있을 수도 있다.애매한 가슴의 통증(흉통)을 호소하는 고령의 환자의 경우 우심실 기능에 이상이 없을 때 폐동맥 색전증의 진단은 더욱 어렵다. 이 연령대의 흉통 환자에서 급성 관동맥 허혈 질환이 가장 흔하므로 이에 대한 검사를 우선적으로 받게 되는데, 심근경색만을 배제한 후 환자가 퇴원하게 되면 치명적인 폐 색전증을 놓칠 수 있는 위험이 있다.또한 심부정맥 혈전이 흔히 동반되기 때문에 한쪽 다리의 통증, 열이나 부종과 같은 심부(깊은 곳) 정맥의 혈전을 시사하는 소견이 나타날 수 있다',
     part: '가슴',
     desc: '흡연, 고혈압',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -606,7 +606,7 @@ module.exports = [{
     symptom: '호흡곤란,기침,가래,호흡곤란,청색증, 말초부종',
     part: '가슴,목',
     desc: '분홍빛 가래',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -616,7 +616,7 @@ module.exports = [{
     symptom: ' 발열,기침,호흡곤란,숨가쁨,가래,통증,오한,코막힘,식욕 부진,메스꺼움,구토',
     part: '가슴,배,머리,근육',
     desc: '중동지역 여행 혹은 해당 지역 여행자와의 접촉',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -626,7 +626,7 @@ module.exports = [{
     symptom: '피부이상,각질',
     part: '피부',
     desc: '팔꿈치, 무릎',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -636,7 +636,7 @@ module.exports = [{
     symptom: '편측마비, 안면마비, 감각이상, 구음장애(발음이 어눌해지는 현상)',
     part: '머리',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -646,7 +646,7 @@ module.exports = [{
     symptom: '통증',
     part: '가슴,배',
     desc: '고혈압',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -656,7 +656,7 @@ module.exports = [{
     symptom: '발열,피로, 식욕 감소, 통증,대변,체중 감소,황달,구토,황달',
     part: '배,근육',
     desc: '최근 잘못된 음식 섭취',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -666,7 +666,7 @@ module.exports = [{
     symptom: '메스꺼움, 구토, 통증, 시력저하, 의식의 감소, 중풍, 치매, 협심증, 심근경색, 심장비대, 심실수축능력의 감소, 신장 기능의 감소, 망막질환, 성기능저하, 골밀도 저하',
     part: '머리, 가슴',
     desc: '신장 질환이나 갑상선 질환 보유',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -676,7 +676,7 @@ module.exports = [{
     symptom: '발열, 통증, 구토, 오한,피부이상,홍조',
     part: '목,머리,배',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -686,7 +686,7 @@ module.exports = [{
     symptom: '수면 장애, 통증, 의식 장애. 지남력 장애, 착란, 경련, 혼수,불안다리 증후군, 딸꾹질, 사지 저림, 자각 이상, 무기력, 작열감, 현기증, 기립성 저혈압, 땀과 타액의 감소, 체온 조절 이상, 부종, 고칼륨혈증,색소 침착, 피부 건조증, 이영양성 석회화,허혈성 심장 질환, 고혈압, 심부전, 심낭염, 폐부종, 호흡 곤란, 부정맥, 심비대, 식욕 부진, 오심, 구토, 대변, 미각장애, 구내염, 위장관 출혈, 빈혈, 혈소판 기능 장애 및 출혈 경향의 증가, 호중구와 임파구의 기능 이상,신성 골이양증, 난소 기능 이상, 성기능 장애, 인슐린 저항성,항체 생산의 감소',
     part: '전신,머리',
     desc: '신장 질환 보유',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -696,7 +696,7 @@ module.exports = [{
     symptom: '유즙분비,월경이상,시야 장애, 통증',
     part: '가슴,머리',
     desc: '갑상선 질환을 앓거나 스트레스를 많이 받고 있는 여성',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -706,7 +706,7 @@ module.exports = [{
     symptom: '피로감, 활동 시 호흡 곤란, 심계항진, 흉통 ',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -716,7 +716,7 @@ module.exports = [{
     symptom: '토혈,흑색변, 혈변,출혈',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -726,7 +726,7 @@ module.exports = [{
     symptom: '혈뇨,단백뇨,부종,무기력,메스꺼움, 구토, 빈혈',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -736,7 +736,7 @@ module.exports = [{
     symptom: '통증,호흡곤란,발열',
     part: '목,가슴',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -746,7 +746,7 @@ module.exports = [{
     symptom: '설사,발열,구토,복통,발열,혈변,탈수',
     part: '배',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -756,7 +756,7 @@ module.exports = [{
     symptom: '골절,출혈',
     part: '관절',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -766,7 +766,7 @@ module.exports = [{
     symptom: '더부룩함,갑갑함,소화불량,설사',
     part: '배',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -776,7 +776,7 @@ module.exports = [{
     symptom: '피로, 활력감소,청색증,손발 저림, 가려움증, 통증,부종,관절통, 근육통,기침,호흡곤란,기침,두근거림,우울증, 성기능 장애, 건조증',
     part: '가슴,팔,관절,근육',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -786,7 +786,7 @@ module.exports = [{
     symptom: '구토,발열,설사',
     part: '배',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -796,7 +796,7 @@ module.exports = [{
     symptom: '구역, 구토, 피곤함,황달,가려움증,피부 발진,발열',
     part: '피부,배',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -806,7 +806,7 @@ module.exports = [{
     symptom: '복부 불편감, 복부 통증, 변비, 식욕 부진, 현기증, 구토, 체중 감소, 혼수, 경련,쇠약,마비,관절통, 권태감, 불면증, 어지러움',
     part: '배,전신',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -816,7 +816,7 @@ module.exports = [{
     symptom: '통증,위화감, 압박감,감각 이상, 보행 장애, 배뇨,배변장애',
     part: '목,팔,다리,척추',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -826,7 +826,7 @@ module.exports = [{
     symptom: '통증,부종',
     part: '전신',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -836,7 +836,7 @@ module.exports = [{
     symptom: '통증,배뇨통,빈뇨,혈뇨,발열,체중 감소,빈혈,신기능 저하, 고혈압',
     part: '등,옆구리,방광',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -846,7 +846,7 @@ module.exports = [{
     symptom: '열, 복통, 복막자극,변비,혈변',
     part: '배,항문',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -856,7 +856,7 @@ module.exports = [{
     symptom: '통증,가려움, 눈물,궤양,두통, 발작, 감각이상, 마비',
     part: '배,가슴,성기,다리,목, 눈, 배, 척추, 방광,머리',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -866,7 +866,7 @@ module.exports = [{
     symptom: '통증',
     part: '사타구니,다리,골반',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -876,7 +876,7 @@ module.exports = [{
     symptom: '기침, 가래, 호흡곤란, 발열, 체중 감소, 객혈, 발한',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -886,7 +886,7 @@ module.exports = [{
     symptom: '발열, 무력감, 두통, 근육통,기침,호흡 곤란,설사',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -896,7 +896,7 @@ module.exports = [{
     symptom: '근육 위약(쇠약), 근육 위축, 감각 저하,떨림',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -906,7 +906,7 @@ module.exports = [{
     symptom: '발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈,발열, 수막염, 발진, 용혈성 빈혈, 피부나 점막의 출혈, 간부전, 황달, 신부전, 심근염, 의식저하, 객혈,황달,간부전, 신부전증,출혈,응고부전증,심장염,기침,각혈',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -916,7 +916,7 @@ module.exports = [{
     symptom: '미열, 권태감, 두통, 졸림, 혼돈,신경마비,시야장애',
     part: '눈,머리',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -926,7 +926,7 @@ module.exports = [{
     symptom: '통증 및 부종, 뻣뻣함,부종,피로, 무기력증, 발열, 체중감소',
     part: '관절(과거병력)',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -936,7 +936,7 @@ module.exports = [{
     symptom: '코막힘,후각감소, 미각변화,코막힘, 재채기, 기침, 천식',
     part: '코',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -946,7 +946,7 @@ module.exports = [{
     symptom: '발열, 두통, 구토, 설사, 소화불량, 식욕 부진, 무기력감, 불안, 초조감, 이통, 난청, 이명, 이루',
     part: '귀',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -956,7 +956,7 @@ module.exports = [{
     symptom: '생리 주기, 생리 양',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -966,7 +966,7 @@ module.exports = [{
     symptom: '호흡기 증상감기,두통, 코막힘, 재채기, 코막힘,나른함,피로,두통,손발이 부음,관절이 무겁게 느껴짐, 위장 장애소화불량, 하복부 불쾌감',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -976,7 +976,7 @@ module.exports = [{
     symptom: '발열, 오한, 하복부 불편감, 압통, 화농성 질 분비물',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -986,7 +986,7 @@ module.exports = [{
     symptom: '관절염,무릎 관절 붓기',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -996,7 +996,7 @@ module.exports = [{
     symptom: '코막힘, 비루(코막힘),수양성 비루(맑은 코막힘),화농성 비루,후비공(뒤쪽 콧구멍),후비루,발작성 재채기',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1006,7 +1006,7 @@ module.exports = [{
     symptom: '통증, 압통, 종창, 부종,발목관절,인대,파열,탈구,골절',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1016,7 +1016,7 @@ module.exports = [{
     symptom: '의식변화, 무력감, 어지러움, 메슥거림(구역), 구토, 두통, 졸림, 혼동상태, 근육떨림, 운동실조, 평형장애, 신경질, 발열, 의식장애, 덥고 건조한 피부, 헛소리, 혼수상태, 괴상한 행동, 환각상태, 근육 강직, 경련, 운동 실조, 땀, 출혈, 황달, 손발 떨림, 의식 저하, 혼수',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1026,7 +1026,7 @@ module.exports = [{
     symptom: '가벼운 두통과 숨이 답답함, 비특이적인 식욕저하, 구역(메슥거림), 구토, 소화기 증상, 권태감, 위약감, 소변양 감소, 수면장애, 마른기침, 호흡곤란, 폐수포음, 거품이 섞인 기침, 안정 시 호흡곤란, 의식저하',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1036,7 +1036,7 @@ module.exports = [{
     symptom: '유방의 발적, 유방 통증, 유방에 덩어리로 만져짐, 유두의 고름, 유두의 분비물',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1046,7 +1046,7 @@ module.exports = [{
     symptom: '식욕 부진, 메스꺼움, 구토, 피로감, 관절통, 근육통, 두통, 감기와 몸살 기운, 황달, 체중감소, 복부 불쾌감',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1056,7 +1056,7 @@ module.exports = [{
     symptom: '출혈, 전신 권태감, 피로, 식욕 부진, 피하출혈, 혈뇨, 혈변',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1066,7 +1066,7 @@ module.exports = [{
     symptom: '발열, 두통, 발진, 설사',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1076,7 +1076,7 @@ module.exports = [{
     symptom: '발열, 두통, 근육통, 피부 발진(복부, 흉부), 메슥거리움, 구토, 기침, 혼미, 경련, 콩팥기능 손상, 간기능 손상',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
   {
@@ -1086,7 +1086,7 @@ module.exports = [{
     symptom: '소변, 빈뇨, 배뇨통',
     part: ' ',
     desc: ' ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss%20of%20consciousness.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
     score: 0
   },
 

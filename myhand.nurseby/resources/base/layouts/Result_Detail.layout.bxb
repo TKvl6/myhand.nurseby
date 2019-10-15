@@ -2,46 +2,75 @@ layout-macro-def(result-detail) {
 	params {
 		param (disease) {
 			type (Disease)
-			min (Required)
-			max (One)
+			min (Required) max (One)
 		}
 	}
 
 	content {
-		section {  // this macro returns a "section"
-			content {
-				image {
-          url ("#{value(disease.img)}")
-        }
-				title-area {
-					halign (Start)
-					slot1 {
-						text {
-							style (Title_S)
-							value {
-								template ("#{value(disease.name)}")
+		layout {  // this macro returns a "layout"
+			section {
+				content {
+					image {
+						url ("#{value(disease.img)}")
+					}
+					divider
+				}
+			}
+			section {
+				content {
+					title-area {
+						halign (Start)
+						slot1 {
+							text {
+								style (Title_S)
+								value {
+									template ("#{value(disease.name)}")
+								}
+							}
+						}
+						slot2 {
+							single-line {
+								text {
+									value {
+										template ("부위: #{value(disease.part)}")
+									}
+									style (Detail_L)
+								}
+							}
+						}
+						slot3 {
+							single-line {
+								text {
+									value {
+										template ("증상: #{value(disease.symptom)}")
+									}
+									style (Detail_L)
+								}
 							}
 						}
 					}
-					slot2 {
-						single-line {
-							text {
-								value {
-									template ("부위: #{value(disease.part)}")
+					title-area {
+						slot2 {
+							single-line {
+								text {
+									value {
+										template ("원인: #{value(disease.desc)}")
+									}
+									style (Detail_L)
 								}
-								style (Detail_L)
 							}
 						}
 					}
-					slot3 {
-						single-line {
-							text {
-								value {
-									template ("증상: #{value(disease.symptom)}")
-								}
-								style (Detail_M_Soft)
-							}
+					input-cell {
+						label {
+							template ("template")
 						}
+						value {
+							template ("증상: #{value(disease.symptom)}")
+						}
+					}
+					paragraph ("#{value(disease.cause)}") {
+						style (Detail_M_Soft)
 					}
 				}
 			}
