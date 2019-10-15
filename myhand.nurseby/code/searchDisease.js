@@ -2,17 +2,15 @@ module.exports.function = function searchDisease(Part, Symptom) {
   const diseaseData = require("./data/disease.js");
   const console = require("console");
   const symptomProcess = require("./data/symptomProcess.js");
+  const SCORE = require("./data/scoreInfo.js");
 
+  
   /*------ 선언부 ------*/
   let results = [];
-  // 해당 검색어를 발견했을 때 추가할 점수
-  var SCORE = {
-    part: 30,
-    symptom: 50,
-    core: 150
-  }
+
 
   /*------ 디버깅용 ------*/
+  console.log("*--- searchDisease ---*");
   if (Part == null)
     console.log("Part is null")
   else {
@@ -47,23 +45,15 @@ module.exports.function = function searchDisease(Part, Symptom) {
   }
   else {
     if (Part != null && !(Part.length == 0)) {
-      // Part.forEach(function (item, index, array) {
-      //   for (let i = 0; i < fakeData.length; i++) {
-      //     if (fakeData[i].part.includes(item)) {
-      //       fakeData[i].score += SCORE.part;
-      //       if (results.indexOf(fakeData[i]) == -1)
-      //         results.push(fakeData[i]);
-      //     }
-      //   }
-      // });
-      for (let i = 0; i < diseaseData.length; i++) {
-          if (diseaseData[i].part.includes(Part+",")) {
+      Part.forEach(function (item, index, array) {
+        for (let i = 0; i < diseaseData.length; i++) {
+          if (diseaseData[i].part.includes(item)) {
             diseaseData[i].score += SCORE.part;
             if (results.indexOf(diseaseData[i]) == -1)
               results.push(diseaseData[i]);
           }
         }
-
+      });
     }
     if (Symptom != null) {
       for (let i = 0; i < diseaseData.length; i++) {
@@ -81,10 +71,10 @@ module.exports.function = function searchDisease(Part, Symptom) {
   });
 
   let newResults = [];
-  for(let i=0; i<10; i++){
+  for(let i=0; i< 5 ; i++){
     newResults.push(results[i]);
   }
   console.log(results);
-  console.log("###searchDisease() end...");
+  console.log("*--- searchDisease END...---*");
   return newResults;
 }

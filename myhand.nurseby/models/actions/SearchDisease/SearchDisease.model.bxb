@@ -1,15 +1,15 @@
 action (SearchDisease) {
-  type(Search)
-  description (적절한 질병을 찾아 주기)
-  collect {
-    input (Part) {
-      type (Part)
-      min (Optional) max (Many)
-    }
-    input (Symptom) {
-      type (Symptom)
-      min (Optional) max (Many)
-    }
-  }
-  output (Disease)
+	type(Search)
+	description (적절한 질병을 찾아 주기)
+	collect {
+		input (Part) {
+			type (Part)
+			min (Optional) max (Many)
+		}
+		input (Symptom) {
+			type (Symptom)
+			min (Optional) max (Many)
+		}
+	}
+	output (Disease)
 }
