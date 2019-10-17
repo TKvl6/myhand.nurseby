@@ -6,7 +6,13 @@ module.exports.function = function searchDisease(Part, Symptom) {
 
 
   /*------ 선언부 ------*/
-  let results = [];
+  let results = [];             // 최종 반환될 결과
+  let tempResults = {
+    part: [],
+    coreSymptom: [],
+    symptom: []
+  }
+
 
 
   /*------ 디버깅용 ------*/
@@ -40,44 +46,69 @@ module.exports.function = function searchDisease(Part, Symptom) {
   });
 
   /*------ 실행 ------*/
-  if (Part == null && Symptom == null) {
-    // 둘 다 못찾는 경우 < 근데 여기에 들어오진 못할듯
-  }
-  else {
-    /* part 검사 */
-    if (Part != null && !(Part.length == 0)) {
-      Part.forEach(function (item, index, array) {
-        for (let i = 0; i < diseaseData.length; i++) {
-          if (diseaseData[i].part.includes(item)) {
-            diseaseData[i].score += SCORE.part;
-            if (results.indexOf(diseaseData[i]) == -1)
-              results.push(diseaseData[i]);
-          }
+  /* part 검사 */
+  if (Part != null && !(Part.length == 0)) {
+    Part.forEach(function (item, index, array) {
+      for (let i = 0; i < diseaseData.length; i++) {
+        if (diseaseData[i].part.includes(item)) {
+          diseaseData[i].score += SCORE.part;
+          if (tempResults.part.indexOf(diseaseData[i]) == -1)
+            tempResults.part.push(diseaseData[i]);
         }
-      });
+      }
+    });
+  }
+  /* Symptom 검사 */
+  if (Symptom != null && !(Symptom.length == 0)) {
+    Symptom.forEach(function (item, index, array) {
+      /* Core Symptom 검사 */
+      for (let i = 0; i < diseaseData.length; i++) {
+        if (diseaseData[i].core_symptom != null && diseaseData[i].core_symptom.includes(item)) {
+          diseaseData[i].score += SCORE.core_symptom;
+          if (tempResults.coreSymptom.indexOf(diseaseData[i]) == -1)
+            tempResults.coreSymptom.push(diseaseData[i]);
+        }
+      }
+      /* Symptom 검사 */
+      for (let i = 0; i < diseaseData.length; i++) {
+        if (diseaseData[i].symptom.includes(item)) {
+          diseaseData[i].score += SCORE.symptom;
+          if (tempResults.symptom.indexOf(diseaseData[i]) == -1)
+            tempResults.symptom.push(diseaseData[i]);
+        }
+      }
+    })
+  }
+  // 각각의 tempResults.part배열의 part가 "등, 코, 눈 " 와 같이 되어있는데
+  // 이를 ,로 구분해서 나누고 tempResults.symptom의 원소들 중 '등', '코', '눈' 중 하나라도
+  // 가지고 있지 않으면 
+  /*----results 처리 -----*/
+  for (num in tempResults.part) {
+    var findCS = false;
+    var findS = false;
+    /* Core Symptom 검사 */
+    for (let i = 0; i < tempResults.coreSymptom.length; i++) {
+      console.log(Part[0], "과 검사 : ", tempResults.coreSymptom[i].part)
+      if (tempResults.coreSymptom[i].part.includes(Part[0])) {
+        findCS = true;
+        if (results.indexOf(tempResults.part[i]) == -1)
+          results.push(tempResults.part[i])
+      }
     }
     /* Symptom 검사 */
-    if (Symptom != null && !(Symptom.length == 0)) {
-      Symptom.forEach(function (item, index, array) {
-        /* Core Symptom 검사 */
-        for (let i = 0; i < diseaseData.length; i++) {
-          if (diseaseData[i].core_symptom != null && diseaseData[i].core_symptom.includes(item)) {
-            diseaseData[i].score += SCORE.core_symptom;
-            if (results.indexOf(diseaseData[i]) == -1)
-              results.push(diseaseData[i]);
-          }
-        }
-        /* Symptom 검사 */
-        for (let i = 0; i < diseaseData.length; i++) {
-          if (diseaseData[i].symptom.includes(item)) {
-            diseaseData[i].score += SCORE.symptom;
-            if (results.indexOf(diseaseData[i]) == -1)
-              results.push(diseaseData[i]);
-          }
-        }
-      })
+    for (let i = 0; i < tempResults.symptom.length; i++) {
+      console.log(Part[0], "과 검사 : ", tempResults.symptom[i].part)
+      if (tempResults.symptom[i].part.includes(Part[0])) {
+        findS = true;
+        if (results.indexOf(tempResults.part[i]) == -1)
+          results.push(tempResults.part[i])
+      }
     }
+    if (!findCS && !findS) // 둘 다 못찾으면 넘어가기
+      continue
+
   }
+
   // score 높은 순으로 정렬
   results.sort(function (a, b) {
     return b.score - a.score;
