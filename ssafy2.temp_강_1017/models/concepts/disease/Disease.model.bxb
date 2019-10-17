@@ -1,0 +1,35 @@
+structure (Disease) {
+  description ("질병 데이터의 모델")
+  property (code) {
+    type (Code)
+    min (Optional) max (One)
+  }
+  property (name) {
+    type (Name)
+    min (Optional) max (One)
+  }
+  property (cause) {
+    type (Cause)
+    min (Optional) max (One)
+  }
+  property (symptom) {
+    type (Symptom)
+    min (Optional) max (Many)
+  }
+  property (part) {
+    type (Part)
+    min (Optional) max (Many)
+  }
+  property (desc) {
+    type (Desc)
+    min (Optional) max (One)
+  }
+  property (img) {
+    type (Img)
+    min (Optional) max (One)
+  }
+  property (score) {
+    type (Score)
+    min (Optional) max (One)
+  }
+}

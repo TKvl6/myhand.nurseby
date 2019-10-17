@@ -1,0 +1,28 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (SearchDisease) {
+      accepted-inputs (Part, Symptom)
+      local-endpoint (searchDisease.js)
+    }
+
+    action-endpoint (SearchDisease) {
+      accepted-inputs (Part)
+      local-endpoint (searchDisease.js)
+    }
+    
+    action-endpoint (SearchDisease) {
+      accepted-inputs (Symptom)
+      local-endpoint (searchDisease.js)
+    }
+
+    action-endpoint (Tip) {
+      accepted-inputs (Name)
+      local-endpoint (actionTip.js)
+    }
+
+    action-endpoint (DetailDesc) {
+      accepted-inputs (Name)
+      local-endpoint (detailDesc.js)
+    }
+  }
+}
