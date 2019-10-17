@@ -1,7 +1,7 @@
 train (t-2u1i4mff8l8nky9t8k4e9t4tc) {
-  utterance ("[g:Disease] (가슴)[v:Part]이 아파")
-  plan (Y2BmkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZZDFIhecmliUnBGQWFTCII5FGizBxMAIxAxAkpEBBJggGAA=)
-  last-modified (1570868289505)
+  utterance ("[g:SearchDisease] (가슴)[v:Part]이 아파")
+  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)
+  last-modified (1571308047083)
 }
 train (t-2zuha2bct5sscg7xex20vnm4t) {
   utterance ("[g:Disease] (코)[v:Part]에서 (피)[v:Symptom] 나")

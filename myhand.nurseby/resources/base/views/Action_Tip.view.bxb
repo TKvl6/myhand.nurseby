@@ -1,0 +1,45 @@
+result-view {
+	match: ActionTipResult (name) {
+		from-output: ActionTip
+	}
+	
+	message {
+		template ("이런 병들이 의심되요. 없다면 증상을 더 말해주세요.")
+	}
+	
+	render {
+		layout {
+			section {
+				content {
+					hbox {
+						content {
+							vbox {
+								content {
+									single-line {
+										text {
+											value ("From #{value(hotel.lowRate)}")
+										}
+									}
+								}
+							}
+							vbox {
+								content {
+									single-line {
+										text {
+											value ("#{value(hotel.rating)} stars")
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	conversation-drivers {
+		conversation-driver {
+			template ("기침나와")
+		}
+	}
+}

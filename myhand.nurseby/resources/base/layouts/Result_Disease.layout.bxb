@@ -1,4 +1,4 @@
-layout-macro-def(result-thumbnail-card) {
+layout-macro-def(result-disease) {
 	params {
 		param (disease) {
 			type (Disease)

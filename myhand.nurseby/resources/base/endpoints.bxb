@@ -5,14 +5,19 @@ endpoints {
       local-endpoint (searchDisease.js)
     }
 
-    action-endpoint (SearchPart) {
+    action-endpoint (SearchDisease) {
       accepted-inputs (Part)
-      local-endpoint (searchPart.js)
+      local-endpoint (searchDisease.js)
     }
     
-    action-endpoint (SearchSymptom) {
+    action-endpoint (SearchDisease) {
       accepted-inputs (Symptom)
-      local-endpoint (searchSymptom.js)
+      local-endpoint (searchDisease.js)
+    }
+
+    action-endpoint (Tip) {
+      accepted-inputs (Name)
+      local-endpoint (actionTip.js)
     }
   }
 }

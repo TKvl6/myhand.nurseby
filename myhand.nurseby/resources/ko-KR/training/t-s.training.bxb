@@ -1,5 +1,5 @@
 train (t-sv2h5vme2k4o2khmoiwfe4j57) {
-  utterance ("[g:Disease:continue:SearchDisease] (증상)[v:Symptom]이 나와")
-  plan (Y2BmkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZVDAIhecmliUnBFcmVtQkp+LVTdMjomBEYgZgCQjAwgwQTAA)
-  last-modified (1570868425867)
+  utterance ("[g:SearchDisease:continue] (증상)[v:Symptom]이 나와")
+  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMmi6wquzC0oyc9lYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1571307932236)
 }
