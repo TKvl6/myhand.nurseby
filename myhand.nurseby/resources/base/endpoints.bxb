@@ -19,5 +19,10 @@ endpoints {
       accepted-inputs (Name)
       local-endpoint (actionTip.js)
     }
+    
+    action-endpoint (DetailDesc) {
+      accepted-inputs (Name)
+      local-endpoint (detailDesc.js)
+    }
   }
 }

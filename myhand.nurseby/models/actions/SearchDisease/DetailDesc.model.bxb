@@ -1,0 +1,11 @@
+action (DetailDesc) {
+  type(Search)
+  description (__DESCRIPTION__)
+  collect {
+    input (Name) {
+      type (Name)
+      min (Optional) max (One)
+    }
+  }
+  output (Disease)
+}
