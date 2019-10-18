@@ -25,13 +25,13 @@ layout-macro-def(result-symptom) {
 							text {
 								style (Title_S)
 								value {
-									template ("#{value(disease.name)}의 원인")
+									template ("#{value(disease.name)}의 증상")
 								}
 							}
 						}
 						
 					}
-					paragraph ("#{value(disease.cause)}") {
+					paragraph ("#{value(disease.symptom)}") {
 							style (Detail_M_Soft)
 						}
 				}

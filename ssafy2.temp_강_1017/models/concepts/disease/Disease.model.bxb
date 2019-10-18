@@ -32,4 +32,8 @@ structure (Disease) {
     type (Score)
     min (Optional) max (One)
   }
+  property (core_symptom) {
+    type (Core_symptom)
+    min (Optional) max (One)
+  }
 }

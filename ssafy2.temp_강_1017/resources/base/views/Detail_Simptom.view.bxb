@@ -1,6 +1,6 @@
 result-view {
 	match: Disease (result) {
-		from-output: DetailDesc
+		from-output: DetailSymptom
 	}
 	
 	message {

@@ -1,4 +1,4 @@
-layout-macro-def(result-symptom) {
+layout-macro-def(result-cause) {
 	params {
 		param (disease) {
 			type (Disease)
@@ -25,13 +25,13 @@ layout-macro-def(result-symptom) {
 							text {
 								style (Title_S)
 								value {
-									template ("#{value(disease.name)}의 증상")
+									template ("#{value(disease.name)}의 원인")
 								}
 							}
 						}
 						
 					}
-					paragraph ("#{value(disease.symptom)}") {
+					paragraph ("#{value(disease.cause)}") {
 							style (Detail_M_Soft)
 						}
 				}
