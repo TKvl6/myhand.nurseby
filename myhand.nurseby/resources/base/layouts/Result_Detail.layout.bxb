@@ -11,6 +11,7 @@ layout-macro-def(result-detail) {
 			section {
 				content {
 					image {
+						object-fit (Contain)
 						url ("#{value(disease.img)}")
 					}
 					divider
@@ -38,16 +39,6 @@ layout-macro-def(result-detail) {
 								}
 							}
 						}
-						// slot3 {
-						// 	single-line {
-						// 		text {
-						// 			value {
-						// 				template ("증상: #{value(disease.symptom)}")
-						// 			}
-						// 			style (Detail_L)
-						// 		}
-						// 	}
-						// }
 					}
 					title-area {
 						slot2 {
@@ -74,9 +65,37 @@ layout-macro-def(result-detail) {
 							}
 						}
 					}
-					paragraph ("#{value(disease.cause)}") {
-						style (Detail_M_Soft)
+					input-cell {
+						label {
+							template ("주요 원인")
+						}
+						value {
+							template ("#{value(disease.cause)}")
+						}
+						on-click {
+							intent {
+								goal : DetailDesc
+								value : $expr(disease.name)
+							}
+						}
 					}
+					input-cell {
+						label {
+							template ("유사 질병")
+						}
+						value {
+							template ("#{value(disease.name)}")
+						}
+						on-click {
+							intent {
+								goal : DetailDesc
+								value : $expr(disease.name)
+							}
+						}
+					}
+					// paragraph ("#{value(disease.cause)}") {
+					// 	style (Detail_M_Soft)
+					// }
 				}
 			}
 		}
