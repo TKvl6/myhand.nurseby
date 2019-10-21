@@ -1,0 +1,11 @@
+action (SearchPart) {
+	type(Search)
+	description (아픈 부위로 찾아주기)
+	collect {
+		input (Part) {
+			type (Part)
+			min (Optional) max (Many)
+		}
+	}
+	output (Disease)
+}

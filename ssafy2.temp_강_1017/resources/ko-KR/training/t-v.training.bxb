@@ -1,0 +1,5 @@
+train (t-vuuc7208a8spqu4f60ij7wj09) {
+  utterance ("[g:Disease] (가슴)[v:Part]이 아프고 (기침)[v:Symptom]이 나")
+  plan (Y2BhkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZVDAIhecmliUnAFTIY5FRUBiUQlWY4MrcwtK8nMZmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570868450075)
+}

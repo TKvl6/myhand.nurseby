@@ -11,6 +11,7 @@ layout-macro-def(result-detail) {
 			section {
 				content {
 					image {
+						object-fit (Contain)
 						url ("#{value(disease.img)}")
 					}
 					divider
@@ -38,16 +39,6 @@ layout-macro-def(result-detail) {
 								}
 							}
 						}
-						// slot3 {
-						// 	single-line {
-						// 		text {
-						// 			value {
-						// 				template ("증상: #{value(disease.symptom)}")
-						// 			}
-						// 			style (Detail_L)
-						// 		}
-						// 	}
-						// }
 					}
 					title-area {
 						slot2 {
@@ -66,20 +57,50 @@ layout-macro-def(result-detail) {
 							template ("주요 증상")
 						}
 						value {
-							template ("#{value(disease.symptom)}")
+							template ("#{value(disease.core_symptom)}")
 						}
 						on-click {
 							intent {
-								goal { @context (Continuation) ActionTip }
-								value {
-									Name("#{value(disease.name)}")
-								}
+								// goal { @context (Continuation) ActionTip }
+								// value {
+								// 	Name("#{value(disease.name)}")
+								// }
+								// goal { @context (Continuation) SearchDisease }
+								goal : DetailSymptom
+								value : $expr(disease.name)
 							}
 						}
 					}
-					paragraph ("#{value(disease.cause)}") {
-						style (Detail_M_Soft)
+					input-cell {
+						label {
+							template ("주요 원인")
+						}
+						value {
+							template ("#{value(disease.cause)}")
+						}
+						on-click {
+							intent {
+								goal : DetailDesc
+								value : $expr(disease.name)
+							}
+						}
 					}
+					// 자카드 알고리즘 적용 후 유사 질병 리스트
+					// input-cell {
+					// 	label {
+					// 		template ("유사 질병")
+					// 	}
+					// 	value {
+					// 		template ("#{value(disease.name)}")
+					// 	}
+					// 	on-click {
+					// 		intent {
+					// 			goal : DetailDesc
+					// 			value : $expr(disease.name)
+					// 		}
+					// 	}
+					// }
+					
 				}
 			}
 		}

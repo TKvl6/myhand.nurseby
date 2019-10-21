@@ -1,0 +1,30 @@
+capsule {
+  id (myhand.nurseby)
+  version (0.1.0)
+// 배포할 때마다 버전 업 안시키면 오류 생김!!
+
+  format (3)
+  targets {
+    target (bixby-mobile-ko-KR)
+  }
+  capsule-imports {
+    import (viv.core) { 
+      as (core) 
+    }
+    import (viv.image) {
+      as (image)
+      version (2.12.10)
+    }
+  }
+  store-sections {
+    section (HealthAndFitness)
+  }
+  runtime-flags {
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+    no-filtering-with-validation
+    modern-default-view-behavior
+    use-input-views-for-selection-list-detail
+  }
+}

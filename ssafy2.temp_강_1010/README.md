@@ -1,1 +1,0 @@
-# ssafy2.temp

@@ -1,0 +1,41 @@
+layout-macro-def(result-cause) {
+	params {
+		param (disease) {
+			type (Disease)
+			min (Required) max (One)
+		}
+	}
+	
+	content {
+		layout {  // this macro returns a "layout"
+			section {
+				content {
+					image {
+						object-fit (Contain)
+						url ("#{value(disease.img)}")
+					}
+					divider
+				}
+			}
+			section {
+				content {
+					title-area {
+						halign (Start)
+						slot1 {
+							text {
+								style (Title_S)
+								value {
+									template ("#{value(disease.name)}의 원인")
+								}
+							}
+						}
+						
+					}
+					paragraph ("#{value(disease.cause)}") {
+							style (Detail_M_Soft)
+						}
+				}
+			}
+		}
+	}
+}
