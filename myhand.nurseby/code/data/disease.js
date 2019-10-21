@@ -42,7 +42,8 @@ module.exports = [{
     core_symptom: '궤양,피부이상',
     part: '머리,성기,근육,목,림프절,임파선,피부',
     desc: '성 접촉',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -86,7 +87,8 @@ module.exports = [{
     core_symptom: '소변,통층,출혈',
     part: '방광',
     desc: '소변이 자주 마렵거나 아픔',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -97,7 +99,7 @@ module.exports = [{
     core_symptom: '통증, 소변, 출혈',
     part: '배,옆구리,방광',
     desc: '최근 소변이 자주 마려움',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -207,7 +209,8 @@ module.exports = [{
     core_symptom: '소변',
     part: '',
     desc: '거품이 심함',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -251,7 +254,7 @@ module.exports = [{
     core_symptom: '분비물,악취',
     part: '생식기',
     desc: '여성 질환',
-    img: '',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -262,7 +265,8 @@ module.exports = [{
     core_symptom: '통증,불면,피로',
     part: '근육',
     desc: '특별히 다친 곳이 없음',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -306,7 +310,8 @@ module.exports = [{
     core_symptom: '붓기,출혈',
     part: '눈, 코',
     desc: '안구함몰, 최근 눈가를 강하게 부딪힌 적',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -317,7 +322,8 @@ module.exports = [{
     core_symptom: '소변',
     part: ' ',
     desc: '소변 보기가 어려움 ',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -328,7 +334,8 @@ module.exports = [{
     core_symptom: '통증',
     part: '목, 머리,어깨,근육',
     desc: '평소 컴퓨터나 스마트폰을 많이 사용',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -339,7 +346,8 @@ module.exports = [{
     core_symptom: '발열, 출혈',
     part: '간',
     desc: '평소 과도한 음주',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -373,7 +381,8 @@ module.exports = [{
     core_symptom: '발냄새,각질,가려움',
     part: '발,피부',
     desc: '습한 환경이나 피부에 상처',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -450,7 +459,8 @@ module.exports = [{
     core_symptom: '통증,소변,피로,부종',
     part: '고환',
     desc: '남성질환, 고환에 이상',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -489,7 +499,7 @@ module.exports = [{
   {
     code: 90,
     name: '무기폐',
-    cause: '기관지(폐에서 공기가 지나가는 통로)가 폐쇄되거나, 깊게 숨을 쉬지 못하는 상황이 성인에서 무기폐를 발생시키는 주된 원인이다. 기관지가 폐쇄되는 것은 다양한 폐질환에 의해 기관지에 생성된 분비물이 기도를 막았기 때문일 수도 있고, 종양(신체 조직이 만든 덩어리를 말하는데 양성일 수도, 악성일 수도 있다. 악성인 경우 암이라고 부름), 혹은 이물질이 기도를 막았기 때문일 수도 있다.깊게 숨을 쉬지 못하는 것은 수술 후에 가장 흔히 겪게 된다. 전신 마취 상태에서 흉부나 복부 수술을 받는 경우 무기폐가 일어나기 쉬운데, 이는 수술을 위해 절개한 부위의 통증 때문에 숨을 깊게 쉬기 어렵기 때문이다. 장시간의 침상 안정(특히 자세를 바꾸지 않고 얕은 숨을 쉬는 상황), 갈비뼈의 골절과 같이 흉부를 다쳤을 때에도 얕은 숨을 쉬게 되어 무기폐가 발생할 수 있다. 무기폐가 중요한 이유는 폐로 들이마시는 공기의 흐름이 얕아지면서 폐의 분비물이 축적되고, 이것은 결과적으로 감염을 초래하기 때문이다.그 외에 기도 밖에 존재하는 폐의 종양이 커지면서 기도의 외부를 눌러 무기폐가 생길 수도 있고, 폐를 싸고 있는 늑막강에 액체나 공기가 차게 되면 이것이 폐를 누르게 되어 기도가 폐쇄되지 않은 상황에서도 무기폐가 초래될 수 있다',
+    cause: '기관지(폐에서 공기가 지나가는 통로)가 폐쇄되거나, 깊게 숨을 쉬지 못하는 상황이 성인에서 무기폐를 발생시키는 주된 원인이다. 기관지가 폐쇄되는 것은 다양한 폐질환에 의해 기관지에 생성된 분비물이 기도를 막았기 때문일 수도 있고, 종양(신체 조직이 만든 덩어리를 말하는데 양성일 수도, 악성일 수도 있다. 악성인 경우 암이라고 부름), 혹은 이물질이 기도를 막았기 때문일 수도 있다.깊게 숨을 쉬지 못하는 것은 수술 후에 가장 흔히 겪게 된다. 전신 마취 상태에서 흉부나 복부 수술을 받는 경우 무기폐가 일어나기 쉬운데, 이는 수술을 위해 절개한 부위의 통증 때문에 숨을 깊게 쉬기 어렵기 때문이다. 장시간의 침상 안정(특히 자세를 바꾸지 않고 얕은 숨을 쉬는 상황), 갈비뼈의 골절과 같이 흉부를 다쳤을 때에도 얕은 숨을 쉬게 되어 무기폐가 발��할 수 있다. 무기폐가 중요한 이유는 폐로 들이마시는 공기의 흐름이 얕아지면서 폐의 분비물이 축적되고, 이것은 결과적으로 감염을 초래하기 때문이다.그 외에 기도 밖에 존재하는 폐의 종양이 커지면서 기도의 외부를 눌러 무기폐가 생길 수도 있고, 폐를 싸고 있는 늑막강에 액체나 공기가 차게 되면 이것이 폐를 누르게 되어 기도가 폐쇄되지 않은 상황에서도 무기폐가 초래될 수 있다',
     symptom: '호흡곤란, 청색증,발열',
     core_symptom: '호흡곤란',
     part: '가슴',
@@ -571,7 +581,8 @@ module.exports = [{
     core_symptom: '통증,불쾌감,작열감',
     part: '허리,옆구리,관절,근육,성기,항문',
     desc: '원인 불명',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -582,7 +593,8 @@ module.exports = [{
     symptom: '통증,저림',
     part: '허리,다리,엉덩이',
     desc: '잘못된 자세로 근무',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -604,7 +616,8 @@ module.exports = [{
     core_symptom: '저림,작열감,통증,떨림',
     part: '손',
     desc: '과거 골절, 혹은 당뇨병',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -692,7 +705,8 @@ module.exports = [{
     core_symptom: '유즙분비',
     part: '가슴,머리',
     desc: '갑상선 질환을 앓거나 스트레스를 많이 받고 있는 여성',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -813,7 +827,8 @@ module.exports = [{
     core_symptom: '통증',
     part: '전신',
     desc: '희미한 통증, 반복적인 움직임',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -824,7 +839,8 @@ module.exports = [{
     core_symptom: '통증,배뇨통,빈뇨,소변',
     part: '등,옆구리,방광',
     desc: '혈뇨',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -901,7 +917,8 @@ module.exports = [{
     core_symptom: '출혈',
     part: '생식기',
     desc: '여성 질환,50-60대',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -956,7 +973,8 @@ module.exports = [{
     core_symptom: '통증,피부이상,붓기',
     part: '가슴',
     desc: '여성질환',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   },
   {
@@ -989,7 +1007,8 @@ module.exports = [{
     core_symptom: '피부이상, 통증, 구토',
     part: '피부,머리,전신,배,가슴',
     desc: '쥐가 서식하는 곳에서 생활',
-    img: '',
+    /* 이미지 수정 필요 */
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
     score: 0
   }
 
