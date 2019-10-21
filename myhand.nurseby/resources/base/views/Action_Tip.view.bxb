@@ -1,10 +1,10 @@
 result-view {
-	match: ActionTipResult (name) {
+	match: ActionTipResult (result) {
 		from-output: ActionTip
 	}
 	
 	message {
-		template ("이런 병들이 의심되요. 없다면 증상을 더 말해주세요.")
+		template ("아프지 마세요.")
 	}
 	
 	render {
@@ -15,10 +15,8 @@ result-view {
 						content {
 							vbox {
 								content {
-									single-line {
-										text {
-											value ("From #{value(hotel.lowRate)}")
-										}
+									text {
+										value ("From #{value(Name)}")
 									}
 								}
 							}
@@ -26,8 +24,19 @@ result-view {
 								content {
 									single-line {
 										text {
-											value ("#{value(hotel.rating)} stars")
+											value ("#{value(result)} stars")
 										}
+									}
+								}
+							}
+						}
+					}
+					hbox {
+						content {
+							vbox {
+								content {
+									text {
+										value ("value")
 									}
 								}
 							}

@@ -70,7 +70,10 @@ layout-macro-def(result-detail) {
 						}
 						on-click {
 							intent {
-								goal { @context (Continuation) SearchDisease }
+								goal { @context (Continuation) ActionTip }
+								value {
+									Name("#{value(disease.name)}")
+								}
 							}
 						}
 					}
