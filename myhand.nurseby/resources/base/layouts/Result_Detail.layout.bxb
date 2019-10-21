@@ -12,7 +12,7 @@ layout-macro-def(result-detail) {
 				content {
 					image {
 						object-fit (Contain)
-						url ("#{value(disease.img)}")
+						url ("#{value(disease.img)}")	
 					}
 					divider
 				}
