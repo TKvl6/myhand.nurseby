@@ -1,5 +1,5 @@
-train (t-sv2h5vme2k4o2khmoiwfe4j57) {
-  utterance ("[g:SearchDisease:continue] (증상)[v:Symptom]이 나와")
-  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMmi6wquzC0oyc9lYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1571307932236)
+train (t-s1150xupbcpsrwocka8euaab4) {
+  utterance ("[g:SearchDisease] (무릎)[v:Part]하고 (발목)[v:Part]이 아파")
+  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
+  last-modified (1571672474730)
 }

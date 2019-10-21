@@ -1,5 +1,5 @@
 train (t-mckrs71t0vxis60nideuess8e) {
-  utterance ("[g:Disease] (눈)[v:Part]이 아프고 (코)[v:Part]가 아파")
-  plan (Y2BlkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZZDFIhecmliUnBGQWFTCII5FmkwJFgZGBiYGZiDNAGYxAUkGBh4gZACKMkBkAA==)
-  last-modified (1570868430135)
+  utterance ("[g:SearchDisease] (눈)[v:Part]이 아프고 (코)[v:Part]가 아파")
+  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
+  last-modified (1571669085780)
 }

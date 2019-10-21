@@ -12,6 +12,8 @@ capsule-info {
     keyword (너스비)
     keyword (간호)
     keyword (병)
+    keyword (아파)
+    keyword (아플때)
   }
   dispatch-name (너스비)
   dispatch-aliases {
