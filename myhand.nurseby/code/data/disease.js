@@ -570,7 +570,7 @@ module.exports = [{
     core_symptom: '시력저하',
     part: '눈',
     desc: '고연령, 고혈압',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png092-eyelids.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
     score: 0
   },
   {
@@ -694,7 +694,7 @@ module.exports = [{
     core_symptom: '발열, 구토, 통증, 피부이상, 홍조',
     part: '목,머리,배',
     desc: '목에 통증, 고열, 전신에 빨간 발진',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png044-fever.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
     score: 0
   },
   {
