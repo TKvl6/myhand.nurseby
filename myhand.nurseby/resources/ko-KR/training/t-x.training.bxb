@@ -1,3 +1,8 @@
+train (t-x18hq0qdxtvimp6s0t01j8ig7) {
+  utterance ("[g:myhand.nurseby.SearchDisease] (배)[v:myhand.nurseby.Part]가 (간지러워)[v:Symptom]")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1571702432315)
+}
 train (t-x7u9c0km257tymlb6k13bhu9k) {
   utterance ("[g:SearchDisease] (피부)[v:Part]에서 (진물)[v:Symptom]나")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
