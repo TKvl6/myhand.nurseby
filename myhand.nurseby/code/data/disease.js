@@ -209,8 +209,7 @@ module.exports = [{
     core_symptom: '소변',
     part: '',
     desc: '거품이 심함',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png103-bubble_urine.png',
     score: 0
   },
   {
