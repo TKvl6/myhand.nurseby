@@ -334,8 +334,7 @@ module.exports = [{
     core_symptom: '통증',
     part: '목, 머리,어깨,근육',
     desc: '평소 컴퓨터나 스마트폰을 많이 사용',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/099-neck.png',
     score: 0
   },
   {
@@ -346,8 +345,7 @@ module.exports = [{
     core_symptom: '발열, 출혈',
     part: '간',
     desc: '평소 과도한 음주',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/101-liver.png',
     score: 0
   },
   {
@@ -381,8 +379,7 @@ module.exports = [{
     core_symptom: '발냄새,각질,가려움',
     part: '발,피부',
     desc: '습한 환경이나 피부에 상처',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/100-fungus.png',
     score: 0
   },
   {
@@ -616,8 +613,7 @@ module.exports = [{
     core_symptom: '저림,작열감,통증,떨림',
     part: '손',
     desc: '과거 골절, 혹은 당뇨병',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
     score: 0
   },
   {
@@ -668,7 +664,7 @@ module.exports = [{
     code: 120,
     name: '허혈성 뇌졸중',
     cause: '허혈성 뇌졸중은 발생하는 기전에 따라 대혈관 질환에 의한 뇌경색(cerebral infarction in large vessel disease), 심장탓 색전증에 의한 뇌경색 또는 심인성 뇌경색(cerebral infarction in cardiogenic embolism), 소혈관 질환(small vessel disease) 또는 열공 뇌경색(lacunar infarction), 그리고 기타 드문 원인에 의해 발생하는 뇌경색으로 분류하며, 지속 시간이 짧아 발생 24시간 이내에 증상이 완전하게 회복되는 경우를 일과성 허혈발작(transient ischemic attack)이라고 분류한다.허혈성 뇌졸중의 가장 흔한 원인은 고혈압, 당뇨, 고지혈증 등으로 인해 뇌에 혈액을 공급하는 혈관에 죽상경화증(동맥경화증)이 발생하고 이로 인해 뇌혈류가 차단되는 경우이다. 그 외에 심장부정맥, 심부전 및 심근경색의 후유증 등으로 인하여 심장에서 혈전(심장이나 혈관 내에서 혈액이 응고된 상태)이 생성되고, 이 혈전이 혈류를 따라 이동하다가 뇌혈관을 막아 뇌졸중이 발생하는 경우도 있다. 드물게는 모야모야병, 호모시스테인혈증 등 극히 드물게 발생하는 질병에 의해 허혈성 뇌졸중이 발생하는 경우도 있다',
-    symptom: '통증,마비, 감각이상, 구음장애(발음이 어눌해지는 현상),구토,어지럼증',
+    symptom: '통증,마비, 감각이상, 구음장애(발음이 어눌해지는 현상),구���,어지럼증',
     core_symptom: '통증,마비,감각이상,통증,구토,어지럼증',
     part: '머리',
     desc: '고혈압, 당뇨병, 고지혈증 등 성인병 보유자',
