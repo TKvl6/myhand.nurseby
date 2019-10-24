@@ -209,8 +209,7 @@ module.exports = [{
     core_symptom: '소변',
     part: '',
     desc: '거품이 심함',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png103-bubble_urine.png',
     score: 0
   },
   {
@@ -334,8 +333,7 @@ module.exports = [{
     core_symptom: '통증',
     part: '목, 머리,어깨,근육',
     desc: '평소 컴퓨터나 스마트폰을 많이 사용',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/099-neck.png',
     score: 0
   },
   {
@@ -346,8 +344,7 @@ module.exports = [{
     core_symptom: '발열, 출혈',
     part: '간',
     desc: '평소 과도한 음주',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/101-liver.png',
     score: 0
   },
   {
@@ -381,8 +378,7 @@ module.exports = [{
     core_symptom: '발냄새,각질,가려움',
     part: '발,피부',
     desc: '습한 환경이나 피부에 상처',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/100-fungus.png',
     score: 0
   },
   {
@@ -521,7 +517,7 @@ module.exports = [{
   {
     code: 94,
     name: '급성췌장염',
-    cause: '가장 빈번한 원인은 담석과 알코올이며, 급성 췌장염 원인의 60~80% 정도를 차지한다. 담석에 의한 췌장염은 급성 췌장염 발병 원인의 30~75%를 차지하며, 담석이 담췌관의 말단 부위인 오디 괄약근(sphincter of Oddi) 부위에 들어가 박히거나, 담석이 담췌관을 통해 배출되는 과정에서 오디 괄약근의 기능 장애를 유발하는 경우 췌장염이 발생할 수 있다. 알코올은 급성 췌장염 발병 원인의 30~60%를 차지하며, 만성 음주자는 반복적인 급성 췌장염, 또는 췌장염의 병력이 없더라도 췌장의 분비 기능에 가벼운 장애가 나타날 수 있기 때문에 급성 췌장염 뿐만 아니라 만성 췌장염도 발생할 수 있다.그 외의 발병 원인으로는 수술이나 내시경적 역행성 담췌관조영술(ERCP)의 시술, 고중성지방혈증(hypertriglyceridemia), 부갑상선기능항진증과 고칼슘혈증, 기생충이나 바이러스에 의한 감염, 외상 및 종양, 약제 등이 있다.\n특발성 췌장염은 특정한 발병 요인이 존재하지만 이를 기존의 지식이나 진단 방법으로 규명할 수 없는 경우를 말한다. 과거에 특발성으로 분류되었던 췌장염의 대부분이 미세 담석, 오디 괄약근 기능 이상, 분할 췌장 등의 원인에 의한 것으로 밝혀졌으며, 최근에는 유전자 이상을 동반하는 유전 췌장염 또는 자가면역성 췌장염도 원인 질환으로 거론되고 있다',
+    cause: '가장 빈번한 원인은 담석과 알코올이며, 급성 췌장염 원인의 60~80% 정도를 차지한다. 담석에 의한 췌장염은 급성 췌장염 발병 원인의 30~75%를 차지하며, 담석이 담췌관의 말단 부위인 오디 괄약근(sphincter of Oddi) 부위에 들어가 박히거나, 담석이 담췌관을 통해 배출되는 과정에서 오디 괄약근의 기능 장애를 유발하는 경우 췌장염이 발생할 수 있다. 알코올은 급성 췌장염 발병 원인의 30~60%를 차��하며, 만성 음주자는 반복적인 급성 췌장염, 또는 췌장염의 병력이 없더라도 췌장의 분비 기능에 가벼운 장애가 나타날 수 있기 때문에 급성 췌장염 뿐만 아니라 만성 췌장염도 발생할 수 있다.그 외의 발병 원인으로는 수술이나 내시경적 역행성 담췌관조영술(ERCP)의 시술, 고중성지방혈증(hypertriglyceridemia), 부갑상선기능항진증과 고칼슘혈증, 기생충이나 바이러스에 의한 감염, 외상 및 종양, 약제 등이 있다.\n특발성 췌장염은 특정한 발병 요인이 존재하지만 이를 기존의 지식이나 진단 방법으로 규명할 수 없는 경우를 말한다. 과거에 특발성으로 분류되었던 췌장염의 대부분이 미세 담석, 오디 괄약근 기능 이상, 분할 췌장 등의 원인에 의한 것으로 밝혀졌으며, 최근에는 유전자 이상을 동반하는 유전 췌장염 또는 자가면역성 췌장염도 원인 질환으로 거론되고 있다',
     symptom: '통증,구역,구토,빈맥,발열,저혈압',
     core_symptom: '통증,구역,구토',
     part: '배,옆구리,등',
@@ -616,8 +612,7 @@ module.exports = [{
     core_symptom: '저림,작열감,통증,떨림',
     part: '손',
     desc: '과거 골절, 혹은 당뇨병',
-    /* 이미지 수정 필요 */
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
+    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
     score: 0
   },
   {
@@ -995,7 +990,7 @@ module.exports = [{
     symptom: '발열, 통증,피부이상,대변',
     core_symptom: '발열,통증,피부이상,대변',
     part: '배,머리',
-    desc: '잘못된 식품 섭취 혹은 대변과 접촉',
+    desc: '잘���된 식품 섭취 혹은 대변과 접촉',
     img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
     score: 0
   },

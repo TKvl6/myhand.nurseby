@@ -19,13 +19,13 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
 
   /* --- 증상 전처리 ---*/
   if (Symptom != null && Symptom.length != 0) {
-    console.log("전처리 실행")
     Symptom.forEach(function (item, index, array) {
       var isprocessed = false;
       if (!isprocessed) {
         for (num in symptomProcess) {
           if (symptomProcess[num].indexOf(String(item)) != -1) {
             // 통증 리스트에 있는 경우
+            console.log("증상 전처리 : " + Symptom[index] + " -> " + symptomProcess[num][0])
             Symptom[index] = symptomProcess[num][0];
             isprocessed = true;
             return;
@@ -34,7 +34,6 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
       }
     });
   }
-  console.log("전처리 완료")
   // 발화를 처음 시작하는 경우
   if (LastResults == null) {
     if (Part == null || Part.length == 0) {
