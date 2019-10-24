@@ -83,12 +83,15 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
     else {
       // Part를 포함하는 임시 질병 list 만들기
       let tempResults = [];
+      let tempResults2 = [];
+      let isNothing = 1;                    //symptom 에서 한번이라도 걸러지면 0
       Part.forEach(function (item, index, array) {
         for (let i = 0; i < diseaseData.length; i++) {
           if (diseaseData[i].part.includes(item)) {
             diseaseData[i].score += SCORE.part;
             if (tempResults.indexOf(diseaseData[i]) == -1)
               tempResults.push(diseaseData[i]);
+              tempResults2.push(diseaseData[i]);
           }
         }
       });
@@ -100,6 +103,7 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
           Symptom.forEach(function (item, index, array) {
             if (popDisease.symptom.indexOf(item) != - 1) {
               Results.push(popDisease);
+              isNothing = 0;                //걸러짐
             }
           })
         }
@@ -107,6 +111,9 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
       else {
         // Results = 임시 질병 list
         Results = tempResults;
+      }
+      if(isNothing == 1){                   //symptom에서 한번도 hit하지 못하면 part 데이터로만 리턴
+        Results = tempResults2;
       }
     }
   }
