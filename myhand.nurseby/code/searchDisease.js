@@ -2,6 +2,7 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
   const diseaseData = require("./data/disease.js");
   const console = require("console");
   const symptomProcess = require("./data/symptomProcess.js");
+  const partProcess = require("./data/partProcess.js");
   const SCORE = require("./data/scoreInfo.js");
 
 
@@ -34,6 +35,25 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
       }
     });
   }
+  /* --- 부위 전처리 ---*/
+  if (Part != null && Part.length != 0) {
+    Part.forEach(function (item, index, array) {
+      var isprocessed = false;
+      if (!isprocessed) {
+        for (num in partProcess) {
+          if (partProcess[num].indexOf(String(item)) != -1) {
+            // 통증 리스트에 있는 경우
+            console.log("증상 전처리 : " + Part[index] + " -> " + partProcess[num][0])
+            Part[index] = partProcess[num][0];
+            isprocessed = true;
+            return;
+          }
+        }
+      }
+    });
+  }
+
+
   // 발화를 처음 시작하는 경우
   if (LastResults == null) {
     if (Part == null || Part.length == 0) {
