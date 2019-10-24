@@ -17,7 +17,11 @@ capsule-info {
   }
   dispatch-name (너스비)
   dispatch-aliases {
-    alias (nurseby)
+    alias (너스빌)
+    alias (너쓰비)
+    alias (너쓰리)
+    alias (널스비)
+    alias (널스빌)
   }
   action-bg-color (#FFC50A)
   action-fg-color (#FFFFFF)
