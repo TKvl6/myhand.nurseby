@@ -1,5 +1,10 @@
 train (t-vuuc7208a8spqu4f60ij7wj09) {
-  utterance ("[g:Disease] (가슴)[v:Part]이 아프고 (기침)[v:Symptom]이 나")
-  plan (Y2BhkCrISaxML8ovzUvRyystKk5NqtRzySxOTSxOZVDAIhecmliUnAFTIY5FRUBiUQlWY4MrcwtK8nMZmBkYGZiAJAOQBkEIAPHBogA=)
-  last-modified (1570868450075)
+  utterance ("[g:SearchDisease] (가슴)[v:Part]이 아프고 (기침)[v:Symptom]이 나")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1571669096569)
+}
+train (t-vzu2vuayx53aty7xzp22ccmcw) {
+  utterance ("[g:SearchDisease] (가슴)[v:Part]이 아프고 (가래)[v:Symptom]가 끓는다")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1571672811783)
 }

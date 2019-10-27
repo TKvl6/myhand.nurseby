@@ -1,3 +1,6 @@
 name (Symptom) {
-  description (__DESCRIPTION__)
+  description (inputSymptom)
+  features{
+    transient
+  }
 }

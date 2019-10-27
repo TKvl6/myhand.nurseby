@@ -15,7 +15,7 @@ endpoints {
       local-endpoint (searchDisease.js)
     }
 
-    action-endpoint (Tip) {
+    action-endpoint (ActionTip) {
       accepted-inputs (Name)
       local-endpoint (actionTip.js)
     }

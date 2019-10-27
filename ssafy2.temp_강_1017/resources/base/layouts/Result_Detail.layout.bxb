@@ -5,14 +5,14 @@ layout-macro-def(result-detail) {
 			min (Required) max (One)
 		}
 	}
-
+	
 	content {
 		layout {  // this macro returns a "layout"
 			section {
 				content {
 					image {
 						object-fit (Contain)
-						url ("#{value(disease.img)}")
+						url ("#{value(disease.img)}")	
 					}
 					divider
 				}
@@ -61,6 +61,10 @@ layout-macro-def(result-detail) {
 						}
 						on-click {
 							intent {
+								// goal { @context (Continuation) ActionTip }
+								// value {
+								// 	Name("#{value(disease.name)}")
+								// }
 								// goal { @context (Continuation) SearchDisease }
 								goal : DetailSymptom
 								value : $expr(disease.name)
@@ -79,6 +83,13 @@ layout-macro-def(result-detail) {
 								goal : DetailDesc
 								value : $expr(disease.name)
 							}
+						}
+					}
+
+					paragraph{
+						style(Legal)
+						value{
+							template ("\n※제공된 의학정보는 일반적인 사항으로 개개인의 특성을 반영하지 못합니다. 구체적인 사항에 대해서는 반드시 가까운 병원에 내원하여 상담을 받으시기 바랍니다.\n\n※정보제공 : 질병관리본부 국가건강정보포털")
 						}
 					}
 					// 자카드 알고리즘 적용 후 유사 질병 리스트
