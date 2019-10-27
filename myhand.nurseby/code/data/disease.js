@@ -1014,7 +1014,7 @@ module.exports = [{
   core_symptom: '두통',
   part: '머리, 뒤통수',
   desc: '다양한 원인이 있으며 스트레스, 불안, 우울증에 영향을 받기도 함',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/047-frontal_headaches.png',
   score: 0
 },
 {
@@ -1025,7 +1025,7 @@ module.exports = [{
   core_symptom: '호흡곤란',
   part: '후두, 목',
   desc: '위산이 역류하면서 생기는 역류성 후두염, 바이러스 감염에 의한 경우에는 감염성 후두염',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/056-sore_throat.png',
   score: 0
 },
 {
@@ -1034,9 +1034,9 @@ module.exports = [{
   cause: '세기관지염은 대부분 바이러스 감염에 의해 발생하며, 호흡기세포융합바이러스 (Respiratory syncytial virus, RSV)가 50-75% 에서 원인이 되고 있다. 그 밖에 세기관지염의 원인으로 파라인플루엔자 바이러스와 독감 바이러스로 잘 알려져 있는 인플루엔자 바이러스, 리노바이러스, 아데노바이러스 등이 있다.',
   symptom: '기침, 콧물, 코막힘, 미열, 호흡곤란',
   core_symptom: '기침, 호흡곤란',
-  part: '코, 폐, ',
+  part: '코, 폐',
   desc: '세기관지염은 대부분 바이러스 감염에 의해 발생',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/056-sore_throat.png',
   score: 0
 },
 {
@@ -1047,7 +1047,7 @@ module.exports = [{
   core_symptom: '파열, 통증',
   part: '발목, 발, 인대, 관절',
   desc: '관절의 운동이 허용된 범위를 벗어나는 경우',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
   score: 0
 },
 {
@@ -1058,7 +1058,7 @@ module.exports = [{
   core_symptom: '통증, 치통',
   part: '구강, 입, 치아, 이빨',
   desc: '구강내 바이러스 감염이나 신체의 피로, 스트레스, 감기 혹은 구강내 위생의 불량, 충치, 외상 등',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
   score: 0
 },
 {
@@ -1069,7 +1069,7 @@ module.exports = [{
   core_symptom: '발열, 기침, 호흡곤란',
   part: '폐, 가슴, 흉부',
   desc: '세균에 의해 숨을 쉬는 경로 중 호흡세기관지 이하 부위의 폐조직에 염증반응과 경화를 일으키는 질환',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
   score: 0
 },
 {
@@ -1080,7 +1080,7 @@ module.exports = [{
   core_symptom: '두통, 소화불량',
   part: '머리, 뒤통수',
   desc: '과도한 신경집중 및 스트레스',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/047-frontal_headaches.png',
   score: 0
 },
 {
@@ -1091,7 +1091,7 @@ module.exports = [{
   core_symptom: '통증, 압통',
   part: '뼈, 근육, 전신',
   desc: '낙상, 자동차 사고, 추락 등',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
   score: 0
 },
 {
@@ -1102,7 +1102,7 @@ module.exports = [{
   core_symptom: '따가움, 가려움, 피부이상',
   part: '피부, 손',
   desc: '피부에 자극을 줄 수 있는 화학물질이나 물리적 자극물질에 일정한 농도 이상과 일정한 시간 이상의 노출을 주면 모든 사람에게 일어날 수 있는 피부염',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
   score: 0
 },
 {
@@ -1113,7 +1113,7 @@ module.exports = [{
   core_symptom: '배변장애',
   part: '항문, 배',
   desc: '항문 부위의 수술, 외상 후나 당뇨병, 염증성 장질환',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
   score: 0
 },
 {
@@ -1124,7 +1124,7 @@ module.exports = [{
   core_symptom: '기침, 호흡곤란',
   part: '목, 기관지, 폐',
   desc: '만성폐쇄폐질환은 점차적으로 기도가 좁아져 공기의 유출이 제한(비가역적 기도폐쇄)되는 질병',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
   score: 0
 },
 {
@@ -1135,7 +1135,7 @@ module.exports = [{
   core_symptom: '혼미, 마비, 호흡곤란',
   part: '심장, 폐, 신장',
   desc: '미생물, 균, 박테리아를 통한 감염',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
   score: 0
 },
 {
@@ -1146,7 +1146,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1157,7 +1157,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1168,7 +1168,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1179,7 +1179,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1190,7 +1190,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1201,7 +1201,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1212,7 +1212,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1223,7 +1223,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1234,7 +1234,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1245,7 +1245,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1256,7 +1256,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1267,7 +1267,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1278,7 +1278,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1289,7 +1289,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1300,7 +1300,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1311,7 +1311,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1322,7 +1322,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1333,7 +1333,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1344,7 +1344,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1355,7 +1355,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1366,7 +1366,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1377,7 +1377,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1388,7 +1388,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1399,7 +1399,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1410,7 +1410,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1421,7 +1421,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1432,7 +1432,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1443,7 +1443,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1454,7 +1454,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1465,7 +1465,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1476,7 +1476,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1487,7 +1487,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1498,7 +1498,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1509,7 +1509,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1520,7 +1520,7 @@ module.exports = [{
   core_symptom: '',
   part: '',
   desc: '',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/.png',
   score: 0
 },
 {
@@ -1531,7 +1531,7 @@ module.exports = [{
   core_symptom: '분비물,출혈',
   part: '성기',
   desc: '여성질환, 출산 경험이 적거나 없음',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/073-pollen.png',
   score: 0
 },
 {
@@ -1542,7 +1542,7 @@ module.exports = [{
   core_symptom: '통증, 붓기',
   part: '다리, 무릎',
   desc: '환부에 심한 충격을 받음',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
   score: 0
 },
 {
@@ -1553,7 +1553,7 @@ module.exports = [{
   core_symptom: '피부이상',
   part: '피부,입,귀,코,손,발,성기,얼굴',
   desc: '피부에 딱딱한 군살이 자라남',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/055-allergy.png',
   score: 0
 },
 {
@@ -1564,7 +1564,7 @@ module.exports = [{
   core_symptom: '분비물',
   part: '귀',
   desc: '귀에서 농이 배출됨',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
   score: 0
 },
 {
@@ -1575,7 +1575,7 @@ module.exports = [{
   core_symptom: '기침, 발열, 통증, 호흡곤란, 가래',
   part: '가슴, 목',
   desc: '가벼운 감기였다가 갑자기 심각해짐',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
   score: 0
 },
 {
@@ -1586,18 +1586,18 @@ module.exports = [{
   core_symptom: '발열,통증',
   part: '온몸,근육,머리,목',
   desc: '갑작스러운 고열 발생',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
   score: 0
 },
 {
   code: 284,
   name: '피부의 농양, 종기 및 큰종기',
   cause: '소독하지 않은 상처를 오래 방치함',
-  symptom: '분비물,고름,통증',
+  symptom: '분비물,고름,통증, 피부이상',
   core_symptom: '분비물,고름',
   part: '피부',
   desc: '상처가 났거나 이물질이 침입한 부위',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
   score: 0
 },
 {
@@ -1608,7 +1608,7 @@ module.exports = [{
   core_symptom: '분비물,고름,통증',
   part: '귀',
   desc: '귓 속 염증, 악취와 고름 발생',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
   score: 0
 },
 {
@@ -1619,7 +1619,7 @@ module.exports = [{
   core_symptom: '콧물, 통증',
   part: '코,머리',
   desc: '코가 막히고 숨쉬기 힘듦',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/077-runny_nose.png',
   score: 0
 },
 {
@@ -1630,7 +1630,7 @@ module.exports = [{
   core_symptom: '생리,통증',
   part: '생식기',
   desc: '여성질환, 월경과다, 생리 불순',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/073-pollen.png',
   score: 0
 },
 {
@@ -1641,7 +1641,7 @@ module.exports = [{
   core_symptom: '물집,수포,농포,고름',
   part: '피부,손,겨드랑이',
   desc: '고온다습한 환경에서 타인과 직간접적으로 자주 접촉',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/082-skin_prick_test.png',
   score: 0
 }, ,
 {
@@ -1652,7 +1652,7 @@ module.exports = [{
   core_symptom: '통증,구토',
   part: '배',
   desc: '배에 Gas가 계속 참',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
   score: 0
 },
 {
@@ -1663,7 +1663,7 @@ module.exports = [{
   core_symptom: '생리',
   part: '생식기',
   desc: '생리 양이 지나치게 적거나 생리가 없음',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/073-pollen.png',
   score: 0
 },
 {
@@ -1674,7 +1674,7 @@ module.exports = [{
   core_symptom: '통증',
   part: '근육,뼈',
   desc: '유사한 동작의 반복 수행',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
   score: 0
 },
 {
@@ -1685,7 +1685,7 @@ module.exports = [{
   core_symptom: '통증',
   part: '어깨',
   desc: '어깨가 결리고 툭 하는 소리가 들림',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
   score: 0
 },
 {
@@ -1696,7 +1696,7 @@ module.exports = [{
   core_symptom: '통증,발열,콧물',
   part: '코,뺨,눈',
   desc: '코가 막히고 숨쉬기 힘듦, 최근 감기 앓음',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/084-sneeze.png',
   score: 0
 },
 {
@@ -1707,7 +1707,7 @@ module.exports = [{
   core_symptom: '치아 충치',
   part: '치아, 입',
   desc: '치아를 칫솔로 잘 안 닦음,',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/093-toothache.png',
   score: 0
 },
 {
@@ -1718,7 +1718,7 @@ module.exports = [{
   core_symptom: '콧물, 코막힘, 발열',
   part: '목, 코, 인두, 후두, 편도, 식도, 성대',
   desc: '인두와 편도가 빨갛게 부어오르고 열이 나며 통증',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/084-sneeze.png',
   score: 0
 },
 {
@@ -1729,7 +1729,7 @@ module.exports = [{
   core_symptom: '호흡곤란, 기침, 천명, 호흡기 증상, 가래, 흉부 압박',
   part: '목, 코, 가슴',
   desc: '폐 속에 있는 기관지가 때떄로 좁아져서 호흡곤란, 기침, 천명 등 호흡기 증상이 반복적으로 그리고 갑작스롭게 발작적으로 나타난다.',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
   score: 0
 },
 {
@@ -1740,7 +1740,7 @@ module.exports = [{
   core_symptom: '염증, 홍반, 부종, 통증(압통)',
   part: '다리, 피부',
   desc: '피부 점막 부위를 통해 세균이 침범',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
   score: 0
 },
 {
@@ -1751,7 +1751,7 @@ module.exports = [{
   core_symptom: '혀, 잇몸, 구강점막',
   part: '혀, 잇몸, 구강점막',
   desc: '타인의 체액에 노출, 피로, 기초 위생 불량',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
   score: 0
 },
 {
@@ -1762,7 +1762,7 @@ module.exports = [{
   core_symptom: '잇몸의 염증, 잇몸의 피, 부음, 곪음, 치아 시림, 치조골 손상',
   part: '잇몸, 입',
   desc: '음식물이 많이 끼며 치아가 시리고 흔들리는 증상, 씹을 때 힘이 없는 느낌',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
   score: 0
 },
 {
@@ -1773,7 +1773,7 @@ module.exports = [{
   core_symptom: '음식을 삼킬 때 통증, 두통, 전신위약감, 관절통, 편도 부음, 인후통, 구취',
   part: '입, 목, 편도선, 코, 목젖,',
   desc: '목이 아픔, 음식 삼킬 때 통증, 구취',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/094-throat.png',
   score: 0
 },
 {
@@ -1784,18 +1784,18 @@ module.exports = [{
   core_symptom: '발열, 피부 발진, 관절통, 혈뇨, 요통',
   part: '신장',
   desc: '사구체 질환이 있는 경우 동반될 수 있음',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
   score: 0
 },
 {
   code: 336,
-  name: '본태성(원발성) 고혈압',
+  name: '고혈압',
   cause: '원인이 미약하지 않는 1차성 고혈압, 소금을 필요 이상으로 섭취해서 체내 혈류량이 증가하거나 또는 여러 가지 호르몬의 균형이 맞지 않아서 말초 혈관의 저항이 커졌을 때 생기는 것으로 추정',
-  symptom: '고혈압',
-  core_symptom: '고혈압',
+  symptom: '고혈압, 어지러움',
+  core_symptom: '고혈압, 어지러움',
   part: '혈압',
   desc: '소금을 필요 이상으로 섭취, 고혈압 가족력, 음주, 흡연, 고령, 운동부족, 비만, 스트레스',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
   score: 0
 },
 {
@@ -1806,7 +1806,7 @@ module.exports = [{
   core_symptom: '림프절(임파선) 부음, 통증, 발열, 딱딱한 덩어리',
   part: '목, 입, 임파선, 림프절, 턱',
   desc: '체중감소가 있고 만져지는 종물이 매우 딱딱함. 턱 밑이 붓고 아픔',
-  img: '',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/094-throat.png',
   score: 0
 },
 ]
