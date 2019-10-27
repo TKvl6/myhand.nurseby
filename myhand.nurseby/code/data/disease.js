@@ -40,7 +40,7 @@ module.exports = [{
   cause: '성적 접촉에 의해 전파되는 트레포네마 팔리듐균(Treponema pallidum)이 매독의 원인균이다. 매독균으로 인해 생성된 피부궤양에 직접 접촉할 때 매독균에 감염된다.\n피부궤양은 성기 부위, 질, 항문, 직장 등에 잘 발생하지만 입술, 구강 내에도 발생할 수 있다. 매독균은 임신한 여성에게서 태아로 전파될 수 있다. 그러나 화장실 사용, 문손잡이, 수영장, 욕조, 식기 등을 통해서는 전파되지 않는다',
   symptom: '궤양,피부이상,발열,붓기,통증',
   core_symptom: '궤양,피부이상',
-  part: '머리,성기,근육,목,림프절,임파선,피부',
+  part: '머리,생식기,근육,목,림프절,임파선,피부',
   desc: '성 접촉',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
@@ -207,7 +207,7 @@ module.exports = [{
   cause: '정상적으로도 거품뇨가 나타날 수 있으며, 전신 질환으로 인한 발열이 있거나, 격렬한 운동을 마친 이후에도 거품뇨가 나타날 수 있다. 그러나 거품뇨가 반복적으로 나타나거나 그 양이 많다면 이는 신장질환으로 인해 나타나는 거품뇨일 수 있으므로 반드시 소변검사로 확인을 해야 한다. 신장질환 외에도 요로감염이 있을 경우에도 거품뇨가 나타날 수 있으므로, 요로감염이 의심되는 경우에는 요로감염을 다 치료하고 나서 신장질환으로 인한 거품뇨는 아닌지 재검사를 해야 한다',
   symptom: '소변',
   core_symptom: '소변',
-  part: '',
+  part: '방광',
   desc: '거품이 심함',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png103-bubble_urine.png',
   score: 0
@@ -319,7 +319,7 @@ module.exports = [{
   cause: '원인은 선천성과 후천성으로 분류한다. 선천성은 드물지만 남자아이에게서 발생하며, 막양부 요도에서 호발한다. 후천성 요도협착도 남자에게 더 잘 발생하는데, 후천성 요도협착의 원인은 대부분 염증이나 외상이다. 염증성은 장기간 요도 도뇨관을 유치한 경우나 임균성 요도염의 합병증으로 나타날 수 있다. 외상이 원인이 되는 경우는 골반골절에 의해 막양부 요도에, 말안장형 소상에 의해 구부요도에 발생한다.\n최근에는 내시경적 시술이 증가함에 따라 이에 따른 합병증으로 발생빈도가 증가하고 있다. ',
   symptom: '소변',
   core_symptom: '소변',
-  part: ' ',
+  part: '방광,요도',
   desc: '소변 보기가 어려움 ',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
@@ -575,7 +575,7 @@ module.exports = [{
   cause: '다른 전립선 질환과 달리 전립선염의 원인은 명확히 밝혀져 있지 않다. 세균성 전립선염은 대개 대장균이 요도로부터 상행감염(하부기관으로부터 상부기관으로의 감염)을 일으키거나 전립선으로 역류할 때 발생한다. 원인균에 대해서는 아직 정립되지 않은 부분이 많지만, 주로 대장균, 대변연쇄구균 그람 양성균 등이 주 원인균으로 알려져 있다.비세균성 전립선염은 원인균이 검출되지 않을 때 내릴 수 있는 진단명이지만 세균감염의 가능성을 완전히 배제할 수 없다는 의견도 존재한다. 비세균성 전립선염의 경우 기능성 혹은 해부학적 배뇨장애가 원인이 될 수 있다. 그 외에 신경근 혹은 신경학적 이상, 골반부위 손상, 자가면역질환, 스트레스 등도 원인으로 거론되고 있다. 이상의 원인들이 복합적으로 작용할 수도 있다',
   symptom: '오한, 통증, 빈뇨, 배뇨곤란,요폐,권태감',
   core_symptom: '통증,불쾌감,작열감',
-  part: '허리,옆구리,관절,근육,성기,항문',
+  part: '허리,옆구리,관절,근육,생식기,항문',
   desc: '원인 불명',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
@@ -598,7 +598,7 @@ module.exports = [{
   name: '세균성 이질',
   cause: '이질의 원인균은 시겔라(Shigella)로 4종의 혈청형이 있습니다 (A군: S. dysenteriae, B군: S. flexneri, C군: S. boydii, D군: S. sonnei).환자 또는 보균자가 배출한 대변을 통해 나온 시겔라가 구강을 통해 섭취되어 감염을 일으킵니다. 매우 적은 양(10∼100개)의 세균으로도 감염을 일으킵니다',
   symptom: '발열,통증,대변,구역,구토',
-  symptom: '발열,구역,대변,통증,구토',
+  core_symptom: '발열,구역,대변,통증,구토',
   part: '배',
   desc: '혈변, 설사',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
@@ -844,7 +844,7 @@ module.exports = [{
   cause: '개나 고양이와 같은 숙주의 위장관에 사는 스피로메트라의 성충이 알을 낳으면 알은 동물의 분변과 함께 배설되어 중간 숙주인 개구리나 뱀, 쥐 등에 의해 섭취된 후 중간 숙주의 몸 속에서 유충(애벌레)이 됩니다. 사람은 우연 숙주로 유충에 오염된 물벼룩이 들어있는 물을 마시거나, 감염된 중간 숙주나 종숙주를 잡아먹어 유충에 감염되며, 아시아지역에서는 개구리나 뱀 등을 익히지 않고 먹어 감염되는 사례가 대부분을 차지합니다',
   symptom: '통증,가려움,붓기, 눈물,궤양,발작, 감각이상, 마비',
   core_symptom: '가려움,통증,눈물,붓기',
-  part: '배,가슴,성기,다리,목, 눈, 배, 척추, 방광,머리',
+  part: '배,가슴,생식기,다리,목, 눈, 배, 척추, 방광,머리',
   desc: '최근 날 음식 섭취',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/036-acari.png',
   score: 0
@@ -1529,7 +1529,7 @@ module.exports = [{
   cause: '출산 경험이 없는 여성에게 자주 발견된다. 30-50세 여성에게 흔한 질환이다.',
   symptom: '분비물,출혈',
   core_symptom: '분비물,출혈',
-  part: '성기',
+  part: '생식기, 성기',
   desc: '여성질환, 출산 경험이 적거나 없음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/073-pollen.png',
   score: 0
@@ -1551,7 +1551,7 @@ module.exports = [{
   cause: '인체유두종 바이러스의 신체 침범',
   symptom: '피부이상',
   core_symptom: '피부이상',
-  part: '피부,입,귀,코,손,발,성기,얼굴',
+  part: '피부,입,귀,코,손,발,생식기,얼굴',
   desc: '피부에 딱딱한 군살이 자라남',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/055-allergy.png',
   score: 0
@@ -1584,7 +1584,7 @@ module.exports = [{
   cause: '인플루엔자 바이러스에 의한 감염',
   symptom: '발열, 통증,콧물,기침',
   core_symptom: '발열,통증',
-  part: '온몸,근육,머리,목',
+  part: '전신,근육,머리,목',
   desc: '갑작스러운 고열 발생',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
   score: 0
