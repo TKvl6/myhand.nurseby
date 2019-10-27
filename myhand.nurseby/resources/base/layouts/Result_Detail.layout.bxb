@@ -5,7 +5,7 @@ layout-macro-def(result-detail) {
 			min (Required) max (One)
 		}
 	}
-
+	
 	content {
 		layout {  // this macro returns a "layout"
 			section {

@@ -5,17 +5,23 @@ capsule-info {
   description ("질병 및 행동요령을 알려주고, 위로의 말을 해주는 너스비입니다.")
   website-url (https://github.com/TKvl6/myhand.nurseby/tree/master/myhand.nurseby)
   terms-url (https://github.com/TKvl6/myhand.nurseby/tree/master/myhand.nurseby)
-  privacy-policy-url(https://github.com/TKvl6/myhand.subway/blob/master/playground.subway/privacy-policy.md)
+  // privacy-policy-url(https://github.com/TKvl6/myhand.nurseby/blob/master/Privacy_Policy_Nurseby.txt)
   search-keywords {
     keyword (질병)
     keyword (건강)
     keyword (너스비)
     keyword (간호)
     keyword (병)
+    keyword (아파)
+    keyword (아플때)
   }
   dispatch-name (너스비)
   dispatch-aliases {
-    alias (nurseby)
+    alias (너스빌)
+    alias (너쓰비)
+    alias (너쓰리)
+    alias (널스비)
+    alias (널스빌)
   }
   action-bg-color (#FFC50A)
   action-fg-color (#FFFFFF)

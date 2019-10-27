@@ -1,0 +1,5 @@
+train (t-zhro4tuonycwdyvjp2l3fplz2) {
+  utterance ("[g:SearchDisease] (목)[v:Part]이 뻐근하고 (어깨)[v:Part]가 아파")
+  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
+  last-modified (1571672409169)
+}
