@@ -1,0 +1,54 @@
+result-view {
+	match: ActionTipResult (result) {
+		from-output: ActionTip
+	}
+	
+	message {
+		template ("아프지 마세요.")
+	}
+	
+	render {
+		layout {
+			section {
+				content {
+					hbox {
+						content {
+							vbox {
+								content {
+									text {
+										value ("From #{value(Name)}")
+									}
+								}
+							}
+							vbox {
+								content {
+									single-line {
+										text {
+											value ("#{value(result)} stars")
+										}
+									}
+								}
+							}
+						}
+					}
+					hbox {
+						content {
+							vbox {
+								content {
+									text {
+										value ("value")
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	conversation-drivers {
+		conversation-driver {
+			template ("기침나와")
+		}
+	}
+}

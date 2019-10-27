@@ -1,0 +1,5 @@
+train (t-dgyqb0zkdmp22p6x7zreqabz0) {
+  utterance ("[g:SearchDisease] (무릎)[v:Part]하고 (아킬레스건)[v:Part]이 아파")
+  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
+  last-modified (1571672565246)
+}

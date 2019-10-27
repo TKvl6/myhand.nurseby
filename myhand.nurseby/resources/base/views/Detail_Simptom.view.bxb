@@ -1,0 +1,24 @@
+result-view {
+	match: Disease (result) {
+		from-output: DetailSymptom
+	}
+	
+	message {
+		template ("해당 질병에 대한 자세한 증상입니다.")
+	}
+	
+	render {
+    if (size(result) == 1) {
+			layout-macro (result-symptom) {
+        param (disease) {
+          expression (result)
+        }
+      }
+		}
+	}
+	conversation-drivers {
+		conversation-driver {
+			template ("기침 나와")
+		}
+	}
+}
