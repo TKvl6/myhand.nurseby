@@ -1643,7 +1643,7 @@ module.exports = [{
   desc: '고온다습한 환경에서 타인과 직간접적으로 자주 접촉',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/082-skin_prick_test.png',
   score: 0
-}, ,
+},
 {
   code: 294,
   name: '탈장이 없는 마비성 장폐색증 및 장폐색',
