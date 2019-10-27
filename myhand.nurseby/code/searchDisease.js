@@ -24,12 +24,15 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
       var isprocessed = false;
       if (!isprocessed) {
         for (num in symptomProcess) {
-          if (symptomProcess[num].indexOf(String(item)) != -1) {
-            // 통증 리스트에 있는 경우
+          if (symptomProcess[num].indexOf(String(item)) != -1) {// 통증 리스트에 있는 경우
+            if(Symptom.indexOf(symptomProcess[num][0]) != -1) {
+              console.log("중복된 전처리 무시 : " + symptomProcess[num][0])
+              break;
+            }
             console.log("증상 전처리 : " + Symptom[index] + " -> " + symptomProcess[num][0])
             Symptom[index] = symptomProcess[num][0];
             isprocessed = true;
-            return;
+            break;
           }
         }
       }
@@ -41,18 +44,20 @@ module.exports.function = function searchDisease(Part, Symptom, LastResults) {
       var isprocessed = false;
       if (!isprocessed) {
         for (num in partProcess) {
-          if (partProcess[num].indexOf(String(item)) != -1) {
-            // 통증 리스트에 있는 경우
-            console.log("증상 전처리 : " + Part[index] + " -> " + partProcess[num][0])
+          if (partProcess[num].indexOf(String(item)) != -1) {// 통증 리스트에 있는 경우
+            if(Part.indexOf(partProcess[num][0]) != -1) {
+              console.log("중복된 전처리 무시 : " + partProcess[num][0])
+              break;
+            }
+            console.log("부위 전처리 : " + Part[index] + " -> " + partProcess[num][0])
             Part[index] = partProcess[num][0];
             isprocessed = true;
-            return;
+            break;
           }
         }
       }
     });
   }
-
 
   // 발화를 처음 시작하는 경우
   if (LastResults == null) {
