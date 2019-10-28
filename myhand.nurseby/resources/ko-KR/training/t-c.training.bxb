@@ -1,0 +1,5 @@
+train (t-cf08j582udkix56jlvu8t5zcm) {
+  utterance ("[g:SearchDisease] (가슴)[v:Part]이 아프고 (기침)[v:Symptom]이 나와")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572255350344)
+}
