@@ -4,7 +4,7 @@ result-view {
 	}
 	
 	message {
-		template ("아프지 마세요.")
+		template ("몸조리 잘하세요。。。。。。\n 많이 아프면 참지 말고 병원 꼭 가세요")
 	}
 	
 	render {
@@ -13,10 +13,5 @@ result-view {
 		// 		expression (disease)
 		// 	}
 		// }
-	}
-	conversation-drivers {
-		conversation-driver {
-			template ("기침나와")
-		}
 	}
 }

@@ -90,7 +90,7 @@ layout-macro-def(result-detail) {
 							template ("위로의 말")
 						}
 						value {
-							template ("아프지 마세요~!")
+							template ("아프지 마세요")
 						}
 						on-click {
 							intent {
