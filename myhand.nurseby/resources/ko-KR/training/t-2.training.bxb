@@ -1,3 +1,8 @@
+train (t-25wzl2j7yjuaqnezfm01nmhsr) {
+  utterance ("[g:myhand.nurseby.SearchDisease] (인대)[v:Part]가 너무 (아파)[v:myhand.nurseby.Symptom]")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572258287207)
+}
 train (t-2co31s0yktdjojka6y7hhog05) {
   utterance ("[g:SearchDisease] (골반)[v:Part]이 (뻐근)[v:Symptom]하네")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
