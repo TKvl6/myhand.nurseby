@@ -1211,7 +1211,7 @@ module.exports = [{
   symptom: '콧물, 코막힘, 미열, 기침, 천명',
   core_symptom: '기침, 콧물',
   part: '코, 입, 목',
-  desc: '호흡기 감염을 일으키는 바이러스들은 호흡기의 분비물에 존재하며 기침을 하거나 재채기를 할 때 직접 다른 사람들의 호흡기로 전파',
+  desc: '호흡기 감염을 일으키는 바이러스들은 호흡기의 분비���에 존재하며 기침을 하거나 재채기를 할 때 직접 다른 사람들의 호흡기로 전파',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
   score: 9
 },
