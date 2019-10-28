@@ -1,7 +1,7 @@
 structure (ActionTipResult) {
   description ("액션 팁에 대한 output 객체")
-  property (Name) {
-    type (Name)
+  property (Disease) {
+    type (Disease)
     min (Optional) max (One)
   }
 }

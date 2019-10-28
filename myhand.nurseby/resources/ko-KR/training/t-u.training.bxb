@@ -1,5 +1,0 @@
-train (t-us4daq7j9pyhhsl919i71atoj) {
-  utterance ("[g:SearchDisease] 나 (편도)[v:Part]가 (부은)[v:Symptom] 것 같아")
-  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572239692528)
-}

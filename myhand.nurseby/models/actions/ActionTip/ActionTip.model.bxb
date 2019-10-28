@@ -2,8 +2,8 @@ action (ActionTip) {
   description ("증상에 대한 액션 팁 제공하는 액션")
   type (Search)
   collect {
-    input (Name) {
-      type (Name)
+    input (Disease) {
+      type (Disease)
       min (Optional) max (One)
     }
   }
