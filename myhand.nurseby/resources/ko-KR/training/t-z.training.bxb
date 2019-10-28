@@ -4,7 +4,7 @@ train (t-z5g2ramdvevn1di37i7016akv) {
   last-modified (1572238086183)
 }
 train (t-zhro4tuonycwdyvjp2l3fplz2) {
-  utterance ("[g:SearchDisease] (목)[v:Part]이 뻐근하고 (어깨)[v:Part]가 아파")
-  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
-  last-modified (1571672409169)
+  utterance ("[g:SearchDisease] (목)[v:Part]이 뻐근하고 (어깨)[v:Part]가 (아파)[v:Symptom]")
+  plan (Y2BjEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCCIbmlwZW5BSX4uAysDIwMTAzMDC5DFAGYzAUlGIJsHCEGABciDygMA)
+  last-modified (1572250865453)
 }

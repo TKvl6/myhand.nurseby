@@ -6,10 +6,12 @@ result-view {
 	message {
 		if(size(result) == 0) {
 			template ("의심되는 증상이 없어요. 부위와 증상을 확인해주세요.")
-		} else-if (size(result) >= 1) 
+		} else-if (size(result) > 1) 
 		{
 			template ("이런 병들이 의심되요. 없다면 증상을 더 말해주세요.")	
-		}		
+		}	else-if (size(result) == 1){
+			template ("이 병이 의심되요. 없다면 증상을 더 말해주세요.")	
+		}	
 	}
 	
 	render {

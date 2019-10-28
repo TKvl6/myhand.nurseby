@@ -1,0 +1,5 @@
+train (t-i2e2ee6alyhdp9iy4ltwt2otr) {
+  utterance ("[g:SearchDisease] (발가락)[v:Part]이랑 (발바닥)[v:Part]이 (아파)[v:Symptom]")
+  plan (Y2BjEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCCIbmlwZW5BSX4uAysDIwMTAzMDC5DFAGYzAUlGIJsHCEGABciDygMA)
+  last-modified (1572251597636)
+}

@@ -1,0 +1,5 @@
+train (t-uuwdnreva8ncxro5vp88fw4vp) {
+  utterance ("[g:SearchDisease] (허리)[v:Part] (통증)[v:Symptom] 있어")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572254272539)
+}
