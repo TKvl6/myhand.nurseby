@@ -1,7 +1,17 @@
+train (t-651yrpw7jxn4j9l41bf6icyxy) {
+  utterance ("[g:myhand.nurseby.SearchDisease] (발)[v:myhand.nurseby.Part]이 (가려워)[v:Symptom]")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572251198317)
+}
 train (t-6buzl5u7tfm6nj6q7b2gku00w) {
   utterance ("[g:SearchDisease] (기침)[v:Symptom]이랑 (가래)[v:Symptom] 나와")
   plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMmi6wquzC0oyc8lWZyFgZGBiYEZSDOAWUxAkoGBBwgZgKKMEBkA)
   last-modified (1571669078945)
+}
+train (t-6em86y1tccd4t775gs1zvd3m7) {
+  utterance ("[g:SearchDisease] (배)[v:Part]도 아프고 (속)[v:Part]도 안좋아")
+  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
+  last-modified (1572251777453)
 }
 train (t-6yqe6ppkk4kfywgvjimbli6vn) {
   utterance ("[g:SearchDisease] 너스비에서, 나 (몸)[v:Part]이 (떨)[v:Symptom]려")

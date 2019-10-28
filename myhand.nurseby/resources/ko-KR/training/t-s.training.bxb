@@ -3,3 +3,13 @@ train (t-s1150xupbcpsrwocka8euaab4) {
   plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
   last-modified (1571672474730)
 }
+train (t-ssc7elgu5rzk7wvbfqe4jgcvf) {
+  utterance ("[g:SearchDisease] (다리)[v:Part]가 (가려워)[v:Symptom]")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572249122942)
+}
+train (t-syt1h59d9c07yuqzqq2rp3qln) {
+  utterance ("[g:SearchDisease] (무릎)[v:Part]이 (뻐근)[v:Symptom]해")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572250440357)
+}

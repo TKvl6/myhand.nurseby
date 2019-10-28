@@ -1,5 +1,5 @@
 train (t-of6gyd1i8l7j7l2nohx9ur8ab) {
-  utterance ("[g:SearchDisease] 나 (편)[v:Part]도가 (부었어)[v:Symptom]")
+  utterance ("[g:SearchDisease] 나 (편도)[v:Part]가 (부었어)[v:Symptom]")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572239686295)
+  last-modified (1572250965765)
 }

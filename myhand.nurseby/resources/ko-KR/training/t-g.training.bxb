@@ -1,0 +1,10 @@
+train (t-ghco5e0pjuxccm9gstig6cw0q) {
+  utterance ("[g:SearchDisease] 너스비에서 (목)[v:Part] 아프고 (기침)[v:Symptom]이 나와")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572248394141)
+}
+train (t-gvj9ylgwdx4l23cpq4ptr0swe) {
+  utterance ("[g:SearchDisease] (온몸)[v:Part]이 (뻐근)[v:Symptom]해")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572254591491)
+}
