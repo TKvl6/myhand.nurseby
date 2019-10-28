@@ -1,3 +1,8 @@
+train (t-uulqarikpgqrgomjjtj9jhqu2) {
+  utterance ("[g:SearchDisease] (머리)[v:Part]에서 (열)[v:Symptom] 나")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572258585267)
+}
 train (t-uuwdnreva8ncxro5vp88fw4vp) {
   utterance ("[g:SearchDisease] (허리)[v:Part] (통증)[v:Symptom] 있어")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)

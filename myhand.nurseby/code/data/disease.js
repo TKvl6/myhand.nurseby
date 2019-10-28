@@ -2,9 +2,9 @@ module.exports = [{
   code: 1,
   name: '폐렴',
   cause: '가장 흔한 원인은 미생물로 인한 감염이 원인으로, 세균이나 바이러스이고, 드물게 곰팡이에 의한 감염이 있을 수 있다. 미생물에 의한 감염성 폐렴 이외에 화학물질이나 구토물등의 이물질의 흡인, 가스의 흡인, 방사선 치료 등에 의해 비감염성 폐렴이 발생할 수도 있다',
-  symptom: '폐염증,기침,가래,호흡곤란,통증,구역,구토,설사, 대변,두통,피로,발열,오한',
+  symptom: '폐염증,기침,가래,호흡곤란,통증,구역,구토,설사,대변,두통,피로,발열,오한',
   core_symptom: '발열,오한,통증',
-  part: '코,가슴,목,관절',
+  part: '폐,코,가슴,목',
   desc: '오랜 감기',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
   score: 14
@@ -710,7 +710,7 @@ module.exports = [{
   cause: '간의 동모양혈관(sinusoid; 이랑 사이에 골이 패어 있듯이 간세포 사이사이를 지나가는 혈관)은 저항이 낮기 때문에 정상 상태에서 간문맥의 압력은 5~10mmHg 정도로 유지된다. 문맥압 항진증(portal hypertension)이란 어떤 이유로든 문맥의 압력이 정상 이상으로 상승하는 경우를 말한다. 문맥압 항진증의 가장 흔한 원인은 간경변증이나 그 외에도 주혈흡충증, 문맥혈전증, 비장정맥 혈전증, 동정맥루, 간의 동폐쇄증후군, 바드-키아리 증후군, 우측심부전과 같이 문맥의 흐름을 저해하거나 문맥으로의 혈류량이 지나치게 많아지는 경우 문맥압 항진증이 발생할 수 있다.\n문맥압이 증가하면 주변 혈관을 통해 식도 정맥계로 전달된다. 이에 따라 식도로 흐르는 혈류가 많아져서 식도 정맥의 크기가 늘어나게 되는데, 특히 하부 식도의 점막고유층에 있는 심층내재정맥이 늘어나면서 정맥류가 형성된다. 정맥류가 발생하려면 문맥압이 적어도 12 mmHg는 되어야 한다고 알려져 있다. 정맥류 벽의 압력이 높아지면서 파열되면 정맥류 출혈에 의해 토혈이나 흑색변, 혈변이 발생하고, 심할 경우 저혈량 쇼크에 빠져 사망할 수도 있다',
   symptom: '대변,출혈,어지러움',
   core_symptom: '어지러움,출혈,대변',
-  part: '항문',
+  part: '배, 항문',
   desc: '혈변,토혈,흑색변',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
   score: 6
@@ -1062,17 +1062,6 @@ module.exports = [{
   score: 14
 },
 {
-  code: 229,
-  name: '폐렴',
-  cause: '세균에 의해 숨을 쉬는 경로 중 호흡세기관지 이하 부위의 폐조직에 염증반응과 경화를 일으키는 질환으로 원인 병원체에 따라서는 세균, 바이러스, 진균, 비정형균, 결핵균, 리케치아, 기생충 등으로 분류할 수 있다. \n병원균을 검출하거나 합당한 병리소견을 증명하는 것이 확실한 진단법이지만 모든  모든 환자에게 이와 같은 검사를 할 수는 없기에 지금도 경험적인 진단과 치료가 중요한 질환이다.',
-  symptom: '발열, 기침, 가래, 오한, 흉보통증, 호흡곤란, 두통, 오심, 구통, 복통, 설사, 대변, 근육통',
-  core_symptom: '발열, 기침, 호흡곤란',
-  part: '폐, 가슴, 흉부',
-  desc: '세균에 의해 숨을 쉬는 경로 중 호흡세기관지 이하 부위의 폐조직에 염증반응과 경화를 일으키는 질환',
-  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
-  score: 16
-},
-{
   code: 230,
   name: '편두통',
   cause: '스트레스는 긴장형두통뿐만 아니라 편두통의 가장 흔한 원인이지만 편두통이 발생하는 기전은 아직 명확하게 밝혀지지 않았다. 많은 연구자들은 뇌의 기능적인 변화, 신경전달물질 농도의 변화 및삼차신경과 그 주변혈관의 염증반응을 중요한 편두통의 발병기전으로 생각하고 있다. \n또한 두통 중에 동반되는 증상들이 많다. 체하면 머리가 아프거나 두통이 시작되면 소화가 안되거나 심할 때는 구토를 동반하기도 한다. ',
@@ -1313,17 +1302,6 @@ module.exports = [{
   desc: '귀에서 농이 배출됨',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
   score: 11
-},
-{
-  code: 282,
-  name: '달리 분류되지 않은 세균성 폐렴',
-  cause: '폐렴 균에 의한 감염',
-  symptom: '기침, 발열, 통증, 호흡곤란, 가래, 청색증',
-  core_symptom: '기침, 발열, 통증, 호흡곤란, 가래',
-  part: '가슴, 목',
-  desc: '가벼운 감기였다가 갑자기 심각해짐',
-  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
-  score: 17
 },
 {
   code: 283,

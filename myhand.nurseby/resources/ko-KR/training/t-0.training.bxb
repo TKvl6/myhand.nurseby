@@ -1,8 +1,3 @@
-train (t-0fhd397klh430y9vp5i3iopu2) {
-  utterance ("[g:SearchDisease] 빅스비에서, (머리)[v:Part]에서 (열)[v:Symptom] 나")
-  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572255096274)
-}
 train (t-0mcf34b2i5f1tjeoql7bxikpe) {
   utterance ("[g:SearchDisease] (목)[v:Part] 아프고 (기침)[v:Symptom]나와")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)

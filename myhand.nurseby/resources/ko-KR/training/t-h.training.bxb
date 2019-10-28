@@ -1,0 +1,5 @@
+train (t-h7gv87go707j3qc69tkpstxzn) {
+  utterance ("[g:myhand.nurseby.SearchDisease] (항문)[v:Part]에서 (피)[v:myhand.nurseby.Symptom]가 나")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572257868387)
+}
