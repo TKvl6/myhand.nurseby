@@ -3,6 +3,11 @@ train (t-ghco5e0pjuxccm9gstig6cw0q) {
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
   last-modified (1572248394141)
 }
+train (t-gljb7e7fq5n99ee1e04wgtpik) {
+  utterance ("[g:SearchDisease] (가슴)[v:Part] (아파)[v:Symptom]")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572255964366)
+}
 train (t-gvj9ylgwdx4l23cpq4ptr0swe) {
   utterance ("[g:SearchDisease] (온몸)[v:Part]이 (뻐근)[v:Symptom]해")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)

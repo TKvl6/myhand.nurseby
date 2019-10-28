@@ -1,3 +1,13 @@
+train (t-vm3tmhgo7u7llqhq7b52gmua5) {
+  utterance ("[g:SearchDisease] (허리)[v:Part]가 (눌리는)[v:Symptom] 느낌이야")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572256223045)
+}
+train (t-vq90yyagb0rn1c573ksbfyoif) {
+  utterance ("[g:SearchDisease] 빅스비에서, (머리)[v:Part]에서 (열)[v:Symptom] 나")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572238238174)
+}
 train (t-vuuc7208a8spqu4f60ij7wj09) {
   utterance ("[g:SearchDisease] (가슴)[v:Part]이 아프고 (기침)[v:Symptom]이 나")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
