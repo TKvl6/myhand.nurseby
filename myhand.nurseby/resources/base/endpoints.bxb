@@ -16,7 +16,7 @@ endpoints {
     }
 
     action-endpoint (ActionTip) {
-      accepted-inputs (Name)
+      accepted-inputs (Disease)
       local-endpoint (actionTip.js)
     }
     

@@ -3,3 +3,8 @@ train (t-6buzl5u7tfm6nj6q7b2gku00w) {
   plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMmi6wquzC0oyc8lWZyFgZGBiYEZSDOAWUxAkoGBBwgZgKKMEBkA)
   last-modified (1571669078945)
 }
+train (t-6yqe6ppkk4kfywgvjimbli6vn) {
+  utterance ("[g:SearchDisease] 너스비에서, 나 (몸)[v:Part]이 (떨)[v:Symptom]려")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572240141302)
+}

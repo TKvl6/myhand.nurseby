@@ -85,6 +85,20 @@ layout-macro-def(result-detail) {
 							}
 						}
 					}
+					input-cell {
+						label {
+							template ("위로의 말")
+						}
+						value {
+							template ("아프지 마세요~!")
+						}
+						on-click {
+							intent {
+								goal : ActionTipResult
+								value : $expr(disease)
+							}
+						}
+					}
 
 					paragraph{
 						style(Legal)

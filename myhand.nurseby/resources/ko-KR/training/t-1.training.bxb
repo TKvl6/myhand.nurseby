@@ -3,3 +3,8 @@ train (t-108g79ko8gnq33hskdt4zoz09) {
   plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMmi6wquzC0oyc9lYGJgBGIGIMnIAAJQPgA=)
   last-modified (1571672385489)
 }
+train (t-131wh51zqsqjumwtcalzgrggk) {
+  utterance ("[g:SearchDisease] (식도)[v:Part]가 (뜨거워)[v:Symptom]")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572238031990)
+}

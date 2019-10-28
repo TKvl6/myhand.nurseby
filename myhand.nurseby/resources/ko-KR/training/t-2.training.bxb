@@ -1,3 +1,8 @@
+train (t-2c397f9anafdf2samst2mpoyz) {
+  utterance ("[g:SearchDisease] 빅스비에서 (목)[v:Part] 아프고 (기침)[v:Symptom]이 나와")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572238191534)
+}
 train (t-2u1i4mff8l8nky9t8k4e9t4tc) {
   utterance ("[g:SearchDisease] (가슴)[v:Part]이 아파")
   plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)

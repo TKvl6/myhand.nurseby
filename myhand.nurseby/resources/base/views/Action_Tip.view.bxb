@@ -1,5 +1,5 @@
 result-view {
-	match: ActionTipResult (result) {
+	match: ActionTipResult (disease) {
 		from-output: ActionTip
 	}
 	
@@ -8,43 +8,11 @@ result-view {
 	}
 	
 	render {
-		layout {
-			section {
-				content {
-					hbox {
-						content {
-							vbox {
-								content {
-									text {
-										value ("From #{value(Name)}")
-									}
-								}
-							}
-							vbox {
-								content {
-									single-line {
-										text {
-											value ("#{value(result)} stars")
-										}
-									}
-								}
-							}
-						}
-					}
-					hbox {
-						content {
-							vbox {
-								content {
-									text {
-										value ("value")
-									}
-								}
-							}
-						}
-					}
-				}
-			}
-		}
+		// layout-macro (action-tip) {
+		// 	param (disease) {
+		// 		expression (disease)
+		// 	}
+		// }
 	}
 	conversation-drivers {
 		conversation-driver {

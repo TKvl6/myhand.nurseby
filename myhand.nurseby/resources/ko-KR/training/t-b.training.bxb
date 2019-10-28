@@ -1,0 +1,5 @@
+train (t-bbu3hjad4aenzjgzie43p3zpn) {
+  utterance ("[g:SearchDisease] 나 (토)[v:Symptom]했어")
+  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMmi6wquzC0oyc9lYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1572238130990)
+}

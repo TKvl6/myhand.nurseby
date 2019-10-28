@@ -1,0 +1,5 @@
+train (t-q64ut3w6hcps22l81j9k1nk7e) {
+  utterance ("[g:SearchDisease] 너스비에서, (입)[v:Part] 속에 뭐가 났어")
+  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)
+  last-modified (1572237866901)
+}

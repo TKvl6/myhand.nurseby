@@ -1,0 +1,5 @@
+train (t-8dobr409to4iprnopd85ktry9) {
+  utterance ("[g:SearchDisease] (가슴)[v:Part]이 답답하고 (숨)[v:Symptom]이 가빠")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572238608375)
+}

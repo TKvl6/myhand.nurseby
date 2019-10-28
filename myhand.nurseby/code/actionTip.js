@@ -1,11 +1,11 @@
-module.exports.function = function actionTip(Name) {
+module.exports.function = function actionTip(disease) {
   const diseaseData = require("./data/disease.js");
   const console = require("console");
   
   console.log("*--- actionTip ---*");
   let results = [];
 
-  console.log("Name : " + Name);
+  console.log("disease : " + disease);
   // if (Name != null) {
   //   Name.forEach(function (item, index, array) {
   //     for (let i = 0; i < diseaseData.length; i++) {
@@ -18,7 +18,7 @@ module.exports.function = function actionTip(Name) {
   //   });
   // }
   results = {
-    Name : Name
+    disease : disease
   }
   console.log(results);
   console.log("*--- actionTip END...---*");

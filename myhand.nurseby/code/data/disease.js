@@ -695,7 +695,7 @@ module.exports = [{
 {
   code: 129,
   name: '유즙 분비증',
-  cause: '여성에서 임신, 출산 후의 정상적인 유즙 분비는 뇌의 기저부에 위치하고 있는 뇌하수체라는 기관에서 생성되는 프로락틴이라는 유즙 분비 호르몬에 의해 조절된다. 유즙 분비증은 다양한 원인에 의해 프로락틴 분비가 많아지거나 여성 호르몬인 에스트로겐이 과다하게 분비되어 발생할 수 있다.\n1) 프로락틴 분비 종양: 뇌하수체에 유즙 분비 호르몬(프로락틴)을 분비하는 세포들이 증식하여 종양을 형성한 경우에 유즙 분비 호르몬 분비가 과다하게 이루어져 유즙 분비증이 나타날 수 있다.\n2) 갑상선 기능 저하증: 갑상선의 기능 저하로 인해 유즙 분비 호르몬이 증가될 수 있다.\n3) 과도한 스트레스: 스트레스 역시 시상하부에 작용하여 유즙 분비 호르몬을 증가시킨다.\n4) 유방 및 흉벽의 물리적 자극\n5) 경구 피임제: 경구피임제 내의 여성호르몬 성분에 의해 유즙 분비 호르몬이 증가된다.\n6) 일부 약제: 시메티딘(십이지장 궤양 치료제, 제산제), 메틸도파(methyldopa, 혈압 강하제), 일부 항정신병 약제, 한약제 중 감초는 유즙 분비를 유도한다.\n7) 기타: 시상하부나 드물게 폐질환, 신장질환, 자궁근종의 경우도 유즙분비 호르몬을 증가시킨다',
+  cause: '여성에서 임신, 출산 후의 정상적인 유즙 분비는 뇌의 기저부에 위치하고 있는 뇌하수체라는 기관에서 생성되는 프로락틴이라는 유즙 분비 호르몬에 의해 조절된다. 유즙 분비증은 다양한 원인에 의해 프로락틴 분비가 많아지거나 여성 호르몬인 에스트로겐이 과다하게 분비되어 발생할 수 있다.\n1) 프로락틴 분비 종양: 뇌하수체에 유즙 분비 호르몬(프로락틴)을 분비하는 세포들이 증식하여 종양을 형성한 경우에 유즙 분비 호르몬 분비가 과다하게 이루어져 유즙 분비증이 나타날 수 있다.\n2) 갑상선 기능 저하증: 갑상선의 기능 저하로 인해 유즙 분비 호르몬이 증가될 수 있다.\n3) 과도한 스트레스: 스트레스 역시 시상하부에 작용하여 유즙 분비 호르몬을 증가시킨다.\n4) 유방 및 흉벽의 물리적 자극\n5) 경구 피임제: 경구피임제 내의 여성호르몬 성분에 의해 유즙 분비 호르몬이 증가된다.\n6) 일부 약제: 시메티딘(십이지장 궤양 치료제, 제산제), 메틸도파(methyldopa, 혈압 강하제), 일부 항정신병 약제, 한약제 중 감초는 유즙 분비를 유도한다.\n7) 기타: 시상하부나 드물게 폐질환, 신장질환, 자궁근종의 경��도 유즙분비 호르몬을 증가시킨다',
   symptom: '유즙분비,월경이상,시야 장애, 통증',
   core_symptom: '유즙분비',
   part: '가슴,머리',
@@ -1031,7 +1031,7 @@ module.exports = [{
 {
   code: 212,
   name: '모세기관지염',
-  cause: '세기관지염은 대부분 바이러스 감염에 의해 발생하며, 호흡기세포융합바이러스 (Respiratory syncytial virus, RSV)가 50-75% 에서 원인이 되고 있다. 그 밖에 세기관지염의 원인으로 파라인플루엔자 바이러스와 독감 바이러스로 잘 알려져 있는 인플루엔자 바이러스, 리노바이러스, 아데노바이러스 등이 있다.',
+  cause: '세기관지염은 대부분 바이러스 감염에 의해 발생하며, 호흡기세포융합바이러스 (Respiratory syncytial virus, RSV)가 50-75% 에서 원인이 되고 있다. 그 밖에 세기관지염의 원인으로 파라인플루엔자 바이러스와 독감 바이러스로 잘 알려져 있는 인플루엔자 바이러스, 리노바이러��, 아데노바이러스 등이 있다.',
   symptom: '기침, 콧물, 코막힘, 미열, 호흡곤란',
   core_symptom: '기침, 호흡곤란',
   part: '코, 폐',
@@ -1147,7 +1147,11 @@ module.exports = [{
   part: '머리, 뇌, 목',
   desc: '신생아 뇌막염 역시 성인 뇌막염과 마찬가지로 세균, 바이러스, 진균, 원충 등이 원인, 초기 증상 및 징후는 다른 감염 질환이나 비감염 질환과 구별하기가 힘들다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/009-anticonvulsants.png',
+<<<<<<< HEAD
   score: 4
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 245,
@@ -1158,7 +1162,11 @@ module.exports = [{
   part: '복부',
   desc: '건강한 성인에게 위장염은 대부분 심각하지 않다. 중환자나 허약자, 영유아, 노인의 경우에는 생명을 위협하는 탈수와 전해질 불균형을 초래할 수 있다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+<<<<<<< HEAD
   score: 24
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 248,
@@ -1169,7 +1177,11 @@ module.exports = [{
   part: '골반',
   desc: '복부 아래 부위, 관골 사이에서 발생하는 불편함. 골반통에 음부(외음) 외부에 나타나는 통증은 해당되지 않는다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+<<<<<<< HEAD
   score: 20
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 249,
@@ -1180,7 +1192,11 @@ module.exports = [{
   part: '질',
   desc: '질염은 질 분비물, 불편, 질 냄새를 야기할 수 있다. 화학물질 또는 기타 물질이 질을 자극하여 분비물과 불편을 야기',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/008-antibiotic_resistant.png',
+<<<<<<< HEAD
   score: 3
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 250,
@@ -1191,7 +1207,11 @@ module.exports = [{
   part: '입, 생식기, 피부',
   desc: '칸디다 효모는 구강, 소화관, 질에 정상적으로 분포하며 일반적으로 유해하지 않다. 그러나 특정 환경에서 칸디다는 점막과 피부의 습한 부위에서 과다 증식',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/076-redness.png',
+<<<<<<< HEAD
   score: 2
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 251,
@@ -1202,7 +1222,11 @@ module.exports = [{
   part: '신장, 등통증',
   desc: '신장 결석은 소변 안에 들어있는 물질들이 결정을 이루고 침착되어 마치 돌과 같은 형태를 이루어 콩팥 안에 생김으로써 여러 가지 증상과 합병증을 일으키는 질환',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+<<<<<<< HEAD
   score: 10
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 252,
@@ -1213,7 +1237,11 @@ module.exports = [{
   part: '코, 입, 목',
   desc: '호흡기 감염을 일으키는 바이러스들은 호흡기의 분비물에 존재하며 기침을 하거나 재채기를 할 때 직접 다른 사람들의 호흡기로 전파',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
+<<<<<<< HEAD
   score: 9
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 259,
@@ -1224,7 +1252,11 @@ module.exports = [{
   part: '배',
   desc: '흔히 맹장염으로 부르기도 한다. ',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+<<<<<<< HEAD
   score: 21
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 263,
@@ -1235,7 +1267,11 @@ module.exports = [{
   part: '뇌, 머리',
   desc: '어떤 원인에 의해 뇌로 가는 혈액의 양이 갑자기 줄어들거나 산소의 양이 부족해지면 의식을 잃고 쓰러지게 되는데, 잠시 지나서 바로 회복하는 경우를 실신이라고 한다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
+<<<<<<< HEAD
   score: 17
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 270,
@@ -1246,7 +1282,11 @@ module.exports = [{
   part: '인대, 발목',
   desc: '부종, 출혈 및 압통이 있는 지 확인하며, 관절 불안정 유무를 확인하기 위해 손상된 인대에 대한 스트레스 부하 검사를 시행',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
+<<<<<<< HEAD
   score: 22
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 273,
@@ -1257,7 +1297,11 @@ module.exports = [{
   part: '귀',
   desc: '대개 청력 저하를 겪는다. 심각한 경우, 감염이 두개골저로 퍼지면서 얼굴과 머리의 신경 마비가 나타날 수 있다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
+<<<<<<< HEAD
   score: 1
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 275,
@@ -1268,7 +1312,11 @@ module.exports = [{
   part: '피부',
   desc: '가려움증이 심하고 외부의 자극 혹은 알레르기 유발 물질에 매우 민감하게 반응한다. 가려움증은 전형적으로 저녁에 심해지고, 피부를 긁음으로써 유발되는 피부의 습진성 변화가 특징',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/051-hives.png',
+<<<<<<< HEAD
   score: 7
+=======
+  score: 0
+>>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 277,
