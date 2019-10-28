@@ -1,3 +1,8 @@
+train (t-76qdhvttay97dctt7seylj38a) {
+  utterance ("[g:SearchDisease] 너스비에서, (혀)[v:Part]에 뭐가 난거 같아")
+  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)
+  last-modified (1572237839428)
+}
 train (t-7g49hye5me4mx6lwjpcfe0yoo) {
   utterance ("[g:SearchDisease] (머리)[v:Part]가 아파")
   plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)

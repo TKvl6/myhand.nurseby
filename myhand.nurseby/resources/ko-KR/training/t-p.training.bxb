@@ -1,3 +1,8 @@
+train (t-pdw4gwjhwdedeyrosexhpo2os) {
+  utterance ("[g:SearchDisease] 너스비에서, 나 (머리)[v:Part]가 너무 아파")
+  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)
+  last-modified (1572238779181)
+}
 train (t-pkal0rf6cqbg55vl62l92tn66) {
   utterance ("[g:SearchDisease] (허리)[v:Part]가 뻐근하고 (어깨)[v:Part]가 아파")
   plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
