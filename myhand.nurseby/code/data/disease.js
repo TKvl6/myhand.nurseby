@@ -517,7 +517,7 @@ module.exports = [{
 {
   code: 94,
   name: '급성췌장염',
-  cause: '가장 빈번한 원인은 담석과 알코올이며, 급성 췌장염 원인의 60~80% 정도를 차지한다. 담석에 의한 췌장염은 급성 췌장염 발병 원인의 30~75%를 차지하며, 담석이 담췌관의 말단 부위인 오디 괄약근(sphincter of Oddi) 부위에 들어가 박히거나, 담석이 담췌관을 통해 배출되는 과정에서 오디 괄약근의 기능 장애를 유발하는 경우 췌장염이 발생할 수 있다. 알코올은 급성 췌장염 발병 원인의 30~60%를 차��하며, 만성 음주자는 반복적인 급성 췌장염, 또는 췌장염의 병력이 없더라도 췌장의 분비 기능에 가벼운 장애가 나타날 수 있기 때문에 급성 췌장염 뿐만 아니라 만성 췌장염도 발생할 수 있다.그 외의 발병 원인으로는 수술이나 내시경적 역행성 담췌관조영술(ERCP)의 시술, 고중성지방혈증(hypertriglyceridemia), 부갑상선기능항진증과 고칼슘혈증, 기생충이나 바이러스에 의한 감염, 외상 및 종양, 약제 등이 있다.\n특발성 췌장염은 특정한 발병 요인이 존재하지만 이를 기존의 지식이나 진단 방법으로 규명할 수 없는 경우를 말한다. 과거에 특발성으로 분류되었던 췌장염의 대부분이 미세 담석, 오디 괄약근 기능 이상, 분할 췌장 등의 원인에 의한 것으로 밝혀졌으며, 최근에는 유전자 이상을 동반하는 유전 췌장염 또는 자가면역성 췌장염도 원인 질환으로 거론되고 있다',
+  cause: '가장 빈번한 원인은 담석과 알코올이며, 급성 췌장염 원인의 60~80% 정도를 차지한다. 담석에 의한 췌장염은 급성 췌장염 발병 원인의 30~75%를 차지하며, 담석이 담췌관의 말단 부위인 오디 괄약근(sphincter of Oddi) 부위에 들어가 박히거나, 담석이 담췌관을 통해 배출되는 과정에서 오디 괄약근의 기능 장애를 유발하는 경우 췌장염이 발생할 수 있다. 알코올은 급성 췌장염 발병 원인의 30~60%를 차��하며, 만성 음주자는 반복적인 급성 췌장염, 또는 췌장염의 병력이 없더라도 췌장의 분비 기능에 가벼운 장애가 나타날 수 있기 때문에 급성 췌장염 뿐만 아니라 만성 췌장염도 발생할 수 있다.그 외의 발병 원인으로는 수술이나 내시경적 역행성 담췌관조영술(ERCP)의 시술, 고중성지방혈증(hypertriglyceridemia), 부갑상선기능항��증과 고칼슘혈증, 기생충이나 바이러스에 의한 감염, 외상 및 종양, 약제 등이 있다.\n특발성 췌장염은 특정한 발병 요인이 존재하지만 이를 기존의 지식이나 진단 방법으로 규명할 수 없는 경우를 말한다. 과거에 특발성으로 분류되었던 췌장염의 대부분이 미세 담석, 오디 괄약근 기능 이상, 분할 췌장 등의 원인에 의한 것으로 밝혀졌으며, 최근에는 유전자 이상을 동반하는 유전 췌장염 또는 자가면역성 췌장염도 원인 질환으로 거론되고 있다',
   symptom: '통증,구역,구토,빈맥,발열,저혈압',
   core_symptom: '통증,구역,구토',
   part: '배,옆구리,등',
@@ -528,7 +528,7 @@ module.exports = [{
 {
   code: 97,
   name: '각막염',
-  cause: '각막염의 원인은 크게 감염성과 비감염성으로 나눌 수 있다. 감염성 각막염은 세균, 바이러스, 진균(곰팡이균) 등의 여러 가지 병원균에 의한 각막의 감염으로 발생한다. 감염을 일으키는 세균에는 포도상구균(Staphylococcus)과 녹농균(Pseudomonas aeruginosa)에 의한 감염이 제일 많고, 바이러스는 단순포진바이러스(herpes simplex virus), 진균은 푸사리움(Fusarium)에 의한 감염이 흔하다. 비감염성 요인으로는 각막이 외부 공기에 지속적으로 노출되어 생기는 노출성 각막염, 약제에 의한 독성 각막염, 각막신경의 손상에 의한 신경영양각막염 등이 있다',
+  cause: '각막염의 원인은 크게 감염성과 비감염성으로 나눌 수 있다. 감염성 각막염은 세균, 바이러스, 진균(곰팡이균) 등의 여러 가지 병원균에 의한 각막의 감염으로 발생한다. 감염을 일으키는 세균에는 포도상구균(Staphylococcus)과 녹농균(Pseudomonas aeruginosa)에 의한 감염이 제일 많고, 바이러스는 단순포진바이러스(herpes simplex virus), 진균은 푸사리움(Fusarium)에 의한 감염이 흔하다. 비감염성 요인으로는 각막이 외부 공기에 지속적으로 노출되어 생기는 노출성 각막염, 약제에 의한 독성 각막염, 각막신���의 손상에 의한 신경영양각막염 등이 있다',
   symptom: '시력 감소,통증, 출혈, 눈물, 눈부심, 이물감',
   core_symptom: '시력 감소,통증, 출혈, 눈물, 눈부심, 이물감',
   part: '눈',
@@ -1147,11 +1147,7 @@ module.exports = [{
   part: '머리, 뇌, 목',
   desc: '신생아 뇌막염 역시 성인 뇌막염과 마찬가지로 세균, 바이러스, 진균, 원충 등이 원인, 초기 증상 및 징후는 다른 감염 질환이나 비감염 질환과 구별하기가 힘들다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/009-anticonvulsants.png',
-<<<<<<< HEAD
   score: 4
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 245,
@@ -1162,11 +1158,7 @@ module.exports = [{
   part: '복부',
   desc: '건강한 성인에게 위장염은 대부분 심각하지 않다. 중환자나 허약자, 영유아, 노인의 경우에는 생명을 위협하는 탈수와 전해질 불균형을 초래할 수 있다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 24
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 248,
@@ -1177,11 +1169,7 @@ module.exports = [{
   part: '골반',
   desc: '복부 아래 부위, 관골 사이에서 발생하는 불편함. 골반통에 음부(외음) 외부에 나타나는 통증은 해당되지 않는다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 20
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 249,
@@ -1192,11 +1180,7 @@ module.exports = [{
   part: '질',
   desc: '질염은 질 분비물, 불편, 질 냄새를 야기할 수 있다. 화학물질 또는 기타 물질이 질을 자극하여 분비물과 불편을 야기',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/008-antibiotic_resistant.png',
-<<<<<<< HEAD
   score: 3
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 250,
@@ -1207,11 +1191,7 @@ module.exports = [{
   part: '입, 생식기, 피부',
   desc: '칸디다 효모는 구강, 소화관, 질에 정상적으로 분포하며 일반적으로 유해하지 않다. 그러나 특정 환경에서 칸디다는 점막과 피부의 습한 부위에서 과다 증식',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/076-redness.png',
-<<<<<<< HEAD
   score: 2
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 251,
@@ -1222,11 +1202,7 @@ module.exports = [{
   part: '신장, 등통증',
   desc: '신장 결석은 소변 안에 들어있는 물질들이 결정을 이루고 침착되어 마치 돌과 같은 형태를 이루어 콩팥 안에 생김으로써 여러 가지 증상과 합병증을 일으키는 질환',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 10
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 252,
@@ -1237,11 +1213,7 @@ module.exports = [{
   part: '코, 입, 목',
   desc: '호흡기 감염을 일으키는 바이러스들은 호흡기의 분비물에 존재하며 기침을 하거나 재채기를 할 때 직접 다른 사람들의 호흡기로 전파',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
-<<<<<<< HEAD
   score: 9
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 259,
@@ -1252,11 +1224,7 @@ module.exports = [{
   part: '배',
   desc: '흔히 맹장염으로 부르기도 한다. ',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 21
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 263,
@@ -1267,11 +1235,7 @@ module.exports = [{
   part: '뇌, 머리',
   desc: '어떤 원인에 의해 뇌로 가는 혈액의 양이 갑자기 줄어들거나 산소의 양이 부족해지면 의식을 잃고 쓰러지게 되는데, 잠시 지나서 바로 회복하는 경우를 실신이라고 한다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
-<<<<<<< HEAD
   score: 17
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 270,
@@ -1282,11 +1246,7 @@ module.exports = [{
   part: '인대, 손목, 발, 발목, 근육',
   desc: '부종, 출혈 및 압통이 있는 지 확인하며, 관절 불안정 유무를 확인하기 위해 손상된 인대에 대한 스트레스 부하 검사를 시행',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
-<<<<<<< HEAD
   score: 22
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 273,
@@ -1297,11 +1257,7 @@ module.exports = [{
   part: '귀',
   desc: '대개 청력 저하를 겪는다. 심각한 경우, 감염이 두개골저로 퍼지면서 얼굴과 머리의 신경 마비가 나타날 수 있다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
-<<<<<<< HEAD
   score: 1
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 275,
@@ -1312,11 +1268,7 @@ module.exports = [{
   part: '피부',
   desc: '가려움증이 심하고 외부의 자극 혹은 알레르기 유발 물질에 매우 민감하게 반응한다. 가려움증은 전형적으로 저녁에 심해지고, 피부를 긁음으로써 유발되는 피부의 습진성 변화가 특징',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/051-hives.png',
-<<<<<<< HEAD
   score: 7
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 277,
