@@ -1,10 +1,15 @@
 train (t-mal16ia8c98xuk0qz0zt8d4t3) {
-  utterance ("[g:myhand.nurseby.SearchDisease] (발목)[v:myhand.nurseby.Part]이랑 (발꿈치)[v:myhand.nurseby.Part]가 아파")
-  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
-  last-modified (1572176827529)
+  utterance ("[g:SearchDisease] (발목)[v:Part]이랑 (발꿈치)[v:Part]가 (아파)[v:Symptom]")
+  plan (Y2BjEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCCIbmlwZW5BSX4uAysDIwMTAzMDC5DFAGYzAUlGIJsHCEGABciDygMA)
+  last-modified (1572250717348)
 }
 train (t-mckrs71t0vxis60nideuess8e) {
-  utterance ("[g:SearchDisease] (눈)[v:Part]이 아프고 (코)[v:Part]가 아파")
-  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
-  last-modified (1571669085780)
+  utterance ("[g:SearchDisease] (눈)[v:Part]이 아프고 (코)[v:Part]가 (아파)[v:Symptom]")
+  plan (Y2BjEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCCIbmlwZW5BSX4uAysDIwMTAzMDC5DFAGYzAUlGIJsHCEGABciDygMA)
+  last-modified (1572250725780)
+}
+train (t-myjiq72siaue2jf02lamjrt7r) {
+  utterance ("[g:myhand.nurseby.SearchDisease] (발가락)[v:myhand.nurseby.Part] (간지러)[v:Symptom]")
+  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572251531461)
 }

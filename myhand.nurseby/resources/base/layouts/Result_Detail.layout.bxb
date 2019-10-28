@@ -96,14 +96,14 @@ layout-macro-def(result-detail) {
 							intent {
 								goal : ActionTipResult
 								value : $expr(disease)
-							}
+							}	
 						}
 					}
 
 					paragraph{
 						style(Legal)
 						value{
-							template ("\n※제공된 의학정보는 일반적인 사항으로 개개인의 특성을 반영하지 못합니다. 구체적인 사항에 대해서는 반드시 가까운 병원에 내원하여 상담을 받으시기 바랍니다.\n\n※정보제공 : 질병관리본부 국가건강정보포털")
+							template ("\n※본 정보는 건강정보에 대한 참고자료일 뿐이며 개별 환자의 증상과 질병에 대한 정확한 판단을 위해서는 의사의 진료가 반드시 필요합니다.\n\n※정보제공 : 질병관리본부 국가건강정보포털")
 						}
 					}
 					// 자카드 알고리즘 적용 후 유사 질병 리스트

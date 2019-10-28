@@ -1,0 +1,5 @@
+train (t-n04gv8ccibdywhq0tjg6s0vvq) {
+  utterance ("[g:SearchDisease] (뒷통수)[v:Part] 아파")
+  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)
+  last-modified (1572254480643)
+}

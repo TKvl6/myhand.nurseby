@@ -1,0 +1,5 @@
+train (t-5f07w8vszvtj84gfz1gpkt8vy) {
+  utterance ("[g:myhand.nurseby.SearchDisease] (턱)[v:myhand.nurseby.Part]도 (이빨)[v:Part]도 (아파)[v:myhand.nurseby.Symptom]")
+  plan (Y2BjEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCCIbmlwZW5BSX4uAysDIwMTAzMDC5DFAGYzAUlGIJsHCEGABciDygMA)
+  last-modified (1572252269884)
+}
