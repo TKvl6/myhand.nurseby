@@ -1,6 +1,6 @@
 capsule {
   id (myhand.nurseby)
-  version (0.1.1)
+  version (0.1.2)
 // 배포할 때마다 버전 업 안시키면 오류 생김!!
 
   format (3)
