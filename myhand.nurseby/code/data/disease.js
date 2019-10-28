@@ -897,7 +897,7 @@ module.exports = [{
   code: 168,
   name: '냉방병',
   cause: '예로부터 \'여름 감기는 개도 안 걸린다\'는 말이 있다. 그렇지만 현대의 여름은 성능이 좋은 에어컨 덕분에 실내가 서늘하고, 때로는 긴 팔 덧옷이 필요할 때도 있어 이 말은 현대에는 어울리지 않는다. 우리가 흔히 냉방병이라고 부르는 것의 원인은 3가지로 구분된다.\n1) 상기도 감염 증상일반적으로  상기도 감염, 즉 감기를 일으키는 바이러스 중 일부는 주로 겨울에 유행하는 경향이 있으나 여름에도 감염을 일으킬 수 있다. 실내 기온을 외부 기온보다 낮게 유지하는 여름에 바이러스가 활성화된 일부 감기 환자는 다른 사람들에 비해 냉방된 실내 환경을 힘들게 느낄 수 있으며, 두통, 목 통증, 콧물, 전신 위약감 등의 증상이 심하게 나타날 수 있다.\n2) 레지오넬라증에어컨의 냉각수나 공기가 세균들로 오염되어서 이 세균들이 냉방기를 통해서 빌딩에 거주하는 사람들을 감염시키는 것을 말한다. 이 세균을 \'레지오넬라\'라고 하며, 일종의 감염성 질환이다. 이 균은 냉방기 내에서 잘 서식하고, 같은 냉방기를 사용하는 건물 전체에 퍼지며 특히 허약자나 면역 기능이 약화된 사람에서 주로 감염된다. 이 병을 예방하기 위해서는 냉방기의 청결유지가 무엇보다도 중요하므로 정기적인 냉방기 점검과 필터 청소가 필수적이다.\n3) 밀폐 건물 증후군\'빌딩증후군\'의 일종으로, 시원한 실내 온도를 유지하게 위해서 환기를 제대로 하지 않을 때 주로 발생하는 질환이다. 현대적인 건물의 실내에서는 창문을 열 수 없는 구조로 되어 있어 환기와 냉난방을 중앙 집중적으로 관리하는 빌딩에서 흔히 잘 발생한다. 주로 두통을 호소하며 눈, 코, 목 등이 건조해져 따갑거나 아프다. 가슴이 답답하고 어지럽거나 피로감이 생길 수도 있다. 밀폐 건물 증후군은 여러 유해물질을 포함하는 담배 연기는 물론이고 사무실 내의 가구나 카펫, 페인트나 접착제, 복사기 등에서 발생하는 화학성분들이 환기가 제대로 안 되어 실내에 계속 쌓일 때 발생한다. 반드시 환기를 통해 화학성분을 외부로 내보내야만 빌딩증후군의 원인이 사라질 수 있다. 규칙적으로 창문을 통해 환기를 해야 하며, 중앙환기 시스템의 경우 환기의 횟수 및 강도를 강화해야 한다',
-  symptom: '호흡기 증상감기,통증,콧물,코막힘, 재채기, 나른함,피로,손발이 부음,위장장애,소화불량',
+  symptom: '호흡기 증상감기,통증,콧물,코막힘, 재��기, 나른함,피로,손발이 부음,위장장애,소화불량',
   core_symptom: '통증,콧물',
   part: '코, 머리',
   desc: '오랜 시간 냉방기기 사용',
@@ -1147,11 +1147,7 @@ module.exports = [{
   part: '머리, 뇌, 목',
   desc: '신생아 뇌막염 역시 성인 뇌막염과 마찬가지로 세균, 바이러스, 진균, 원충 등이 원인, 초기 증상 및 징후는 다른 감염 질환이나 비감염 질환과 구별하기가 힘들다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/009-anticonvulsants.png',
-<<<<<<< HEAD
   score: 4
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 245,
@@ -1162,11 +1158,7 @@ module.exports = [{
   part: '복부',
   desc: '건강한 성인에게 위장염은 대부분 심각하지 않다. 중환자나 허약자, 영유아, 노인의 경우에는 생명을 위협하는 탈수와 전해질 불균형을 초래할 수 있다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 24
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 248,
@@ -1177,11 +1169,7 @@ module.exports = [{
   part: '골반',
   desc: '복부 아래 부위, 관골 사이에서 발생하는 불편함. 골반통에 음부(외음) 외부에 나타나는 통증은 해당되지 않는다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 20
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 249,
@@ -1192,11 +1180,7 @@ module.exports = [{
   part: '질',
   desc: '질염은 질 분비물, 불편, 질 냄새를 야기할 수 있다. 화학물질 또는 기타 물질이 질을 자극하여 분비물과 불편을 야기',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/008-antibiotic_resistant.png',
-<<<<<<< HEAD
   score: 3
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 250,
@@ -1207,11 +1191,7 @@ module.exports = [{
   part: '입, 생식기, 피부',
   desc: '칸디다 효모는 구강, 소화관, 질에 정상적으로 분포하며 일반적으로 유해하지 않다. 그러나 특정 환경에서 칸디다는 점막과 피부의 습한 부위에서 과다 증식',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/076-redness.png',
-<<<<<<< HEAD
   score: 2
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 251,
@@ -1222,11 +1202,7 @@ module.exports = [{
   part: '신장, 등통증',
   desc: '신장 결석은 소변 안에 들어있는 물질들이 결정을 이루고 침착되어 마치 돌과 같은 형태를 이루어 콩팥 안에 생김으로써 여러 가지 증상과 합병증을 일으키는 질환',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 10
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 252,
@@ -1237,11 +1213,7 @@ module.exports = [{
   part: '코, 입, 목',
   desc: '호흡기 감염을 일으키는 바이러스들은 호흡기의 분비물에 존재하며 기침을 하거나 재채기를 할 때 직접 다른 사람들의 호흡기로 전파',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
-<<<<<<< HEAD
   score: 9
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 259,
@@ -1252,11 +1224,7 @@ module.exports = [{
   part: '배',
   desc: '흔히 맹장염으로 부르기도 한다. ',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-<<<<<<< HEAD
   score: 21
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 263,
@@ -1267,11 +1235,7 @@ module.exports = [{
   part: '뇌, 머리',
   desc: '어떤 원인에 의해 뇌로 가는 혈액의 양이 갑자기 줄어들거나 산소의 양이 부족해지면 의식을 잃고 쓰러지게 되는데, 잠시 지나서 바로 회복하는 경우를 실신이라고 한다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
-<<<<<<< HEAD
   score: 17
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 270,
@@ -1282,11 +1246,7 @@ module.exports = [{
   part: '인대, 손목, 발, 발목, 근육',
   desc: '부종, 출혈 및 압통이 있는 지 확인하며, 관절 불안정 유무를 확인하기 위해 손상된 인대에 대한 스트레스 부하 검사를 시행',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
-<<<<<<< HEAD
   score: 22
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 273,
@@ -1297,11 +1257,7 @@ module.exports = [{
   part: '귀',
   desc: '대개 청력 저하를 겪는다. 심각한 경우, 감염이 두개골저로 퍼지면서 얼굴과 머리의 신경 마비가 나타날 수 있다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
-<<<<<<< HEAD
-  score: 1
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
+  score: 8
 },
 {
   code: 275,
@@ -1312,11 +1268,7 @@ module.exports = [{
   part: '피부',
   desc: '가려움증이 심하고 외부의 자극 혹은 알레르기 유발 물질에 매우 민감하게 반응한다. 가려움증은 전형적으로 저녁에 심해지고, 피부를 긁음으로써 유발되는 피부의 습진성 변화가 특징',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/051-hives.png',
-<<<<<<< HEAD
   score: 7
-=======
-  score: 0
->>>>>>> branch 'master' of https://github.com/TKvl6/myhand.nurseby.git
 },
 {
   code: 277,
