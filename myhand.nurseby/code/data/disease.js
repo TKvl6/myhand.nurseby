@@ -7,7 +7,7 @@ module.exports = [{
   part: '코,가슴,목,관절,근육',
   desc: '오랜 감기',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
-  score: 0
+  score: 14
 },
 
 {
@@ -19,7 +19,7 @@ module.exports = [{
   part: '배',
   desc: '검은 소변,탈색된 대변',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 5
 },
 
 {
@@ -31,7 +31,7 @@ module.exports = [{
   part: '배,피부,목,팔,다리,손,발',
   desc: '',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/051-hives.png',
-  score: 0
+  score: 12
 },
 
 {
@@ -44,7 +44,7 @@ module.exports = [{
   desc: '성 접촉',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 1
 },
 {
   code: 5,
@@ -66,7 +66,7 @@ module.exports = [{
   part: '목,머리',
   desc: '객혈(피가래)',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/023-cough.png',
-  score: 0
+  score: 8
 },
 {
   code: 9,
@@ -77,7 +77,7 @@ module.exports = [{
   part: '피부',
   desc: ' ',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/082-skin_prick_test.png',
-  score: 0
+  score: 6
 },
 {
   code: 11,
@@ -89,7 +89,7 @@ module.exports = [{
   desc: '소변이 자주 마렵거나 아픔',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 3
 },
 {
   code: 12,
@@ -100,7 +100,7 @@ module.exports = [{
   part: '배,옆구리,방광',
   desc: '최근 소변이 자주 마려움',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 5
 },
 {
   code: 13,
@@ -111,7 +111,7 @@ module.exports = [{
   part: '눈',
   desc: '붓기,눈뜨기 힘듬',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
-  score: 0
+  score: 10
 },
 {
   code: 14,
@@ -122,7 +122,7 @@ module.exports = [{
   part: '림프절,임파선,눈,배',
   desc: '야외 활동 ',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 6
 },
 {
   code: 15,
@@ -133,7 +133,7 @@ module.exports = [{
   part: '근육,배',
   desc: '최근 타인과의 깊은 접촉',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/043-fatigue.png',
-  score: 0
+  score: 9
 },
 {
   code: 16,
@@ -144,7 +144,7 @@ module.exports = [{
   part: '복부,가슴',
   desc: '속쓰림, 과음, 과식, 스트레스,피 토함',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 11
 },
 {
   code: 17,
@@ -155,7 +155,7 @@ module.exports = [{
   part: '피부',
   desc: '자극적인 물품과의 접촉(비누, 세제, 화학물질 등)',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
-  score: 0
+  score: 6
 },
 {
   code: 18,
@@ -166,7 +166,7 @@ module.exports = [{
   part: '배',
   desc: '최근 스트레스나 과음, 과식, 평소 앓고 있던 위 질환 존재',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 6
 },
 {
   code: 19,
@@ -177,7 +177,7 @@ module.exports = [{
   part: '코,눈,머리',
   desc: '최근 환경 변화나 호흡기 유전 질환 여부',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/077-runny_nose.png',
-  score: 0
+  score: 9
 },
 {
   code: 20,
@@ -188,7 +188,7 @@ module.exports = [{
   part: '피부',
   desc: '털을 뽑는 습관,여드름 환자',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/075-rash.png',
-  score: 0
+  score: 3
 },
 {
   code: 21,
@@ -199,7 +199,7 @@ module.exports = [{
   part: '귀,림프절,턱',
   desc: '씹거나 삼킬 때 통증',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/042-face_swelling.png',
-  score: 0
+  score: 4
 },
 {
   code: 22,
@@ -210,7 +210,7 @@ module.exports = [{
   part: '방광',
   desc: '거품이 심함',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png103-bubble_urine.png',
-  score: 0
+  score: 4
 },
 {
   code: 23,
@@ -221,7 +221,7 @@ module.exports = [{
   part: '가슴,목,배',
   desc: '숨이 차고 신물 느껴짐',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 11
 },
 {
   code: 26,
@@ -232,7 +232,7 @@ module.exports = [{
   part: '근육,전신',
   desc: '소변의 색이 진해짐',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 4
 },
 {
   code: 27,
@@ -243,7 +243,7 @@ module.exports = [{
   part: '눈,피부,코',
   desc: '피부 아래에 피가 맺힘',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/075-rash.png',
-  score: 0
+  score: 6
 },
 {
   code: 29,
@@ -254,7 +254,7 @@ module.exports = [{
   part: '생식기',
   desc: '여성 질환',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 2
 },
 {
   code: 32,
@@ -266,7 +266,7 @@ module.exports = [{
   desc: '특별히 다친 곳이 없음',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 17
 },
 {
   code: 34,
@@ -277,7 +277,7 @@ module.exports = [{
   part: '코,머리,근육',
   desc: '갑자기 코가 자주 막힘',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/077-runny_nose.png',
-  score: 0
+  score: 14
 },
 {
   code: 37,
@@ -288,7 +288,7 @@ module.exports = [{
   part: '혀,입',
   desc: '혀가 붓고 매끈매끈한 느낌',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
-  score: 0
+  score: 2
 },
 {
   code: 39,
@@ -299,7 +299,7 @@ module.exports = [{
   part: '머리,목,림프절,관절,근육,피부',
   desc: '최근 성 접촉이나 수혈, 비위생적 상처',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/075-rash.png',
-  score: 0
+  score: 4
 },
 {
   code: 41,
@@ -311,7 +311,7 @@ module.exports = [{
   desc: '안구함몰, 최근 눈가를 강하게 부딪힌 적',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 18
 },
 {
   code: 42,
@@ -323,7 +323,7 @@ module.exports = [{
   desc: '소변 보기가 어려움 ',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 4
 },
 {
   code: 51,
@@ -334,7 +334,7 @@ module.exports = [{
   part: '목, 머리,어깨,근육',
   desc: '평소 컴퓨터나 스마트폰을 많이 사용',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/099-neck.png',
-  score: 0
+  score: 17
 },
 {
   code: 54,
@@ -345,7 +345,7 @@ module.exports = [{
   part: '간',
   desc: '평소 과도한 음주',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/101-liver.png',
-  score: 0
+  score: 19
 },
 {
   code: 62,
@@ -356,7 +356,7 @@ module.exports = [{
   part: '척추',
   desc: ' ',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 5
 },
 
 {
@@ -368,7 +368,7 @@ module.exports = [{
   part: '배',
   desc: '최근 상하기 쉬운 음식을 먹음, 복통을 동반하지 않은 갑작스러운 과다한 물설사, 대변',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 20
 },
 {
   code: 75,
@@ -379,7 +379,7 @@ module.exports = [{
   part: '발,피부',
   desc: '습한 환경이나 피부에 상처',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/100-fungus.png',
-  score: 0
+  score: 17
 },
 {
   code: 76,
@@ -390,7 +390,7 @@ module.exports = [{
   part: '눈',
   desc: '가루나 미세한 섬유, 털 등과 접촉',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
-  score: 0
+  score: 4
 },
 {
   code: 78,
@@ -401,7 +401,7 @@ module.exports = [{
   part: '배',
   desc: '',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 5
 },
 {
   code: 79,
@@ -412,7 +412,7 @@ module.exports = [{
   part: '간',
   desc: '당뇨병 환자 혹은 질병 소유자',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 6
 },
 {
   code: 80,
@@ -423,7 +423,7 @@ module.exports = [{
   part: '배,가슴',
   desc: '최근 과식, 과음, 매운 음식 섭취',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 7
 },
 {
   code: 82,
@@ -434,7 +434,7 @@ module.exports = [{
   part: '손',
   desc: '물이나 세제와 자주 접촉',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/027-cyanosis.png',
-  score: 0
+  score: 8
 },
 {
   code: 84,
@@ -445,7 +445,7 @@ module.exports = [{
   part: '폐,가슴',
   desc: '흡연자',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
-  score: 0
+  score: 15
 },
 {
   code: 85,
@@ -457,7 +457,7 @@ module.exports = [{
   desc: '남성질환, 고환에 이상',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 3
 },
 {
   code: 86,
@@ -468,7 +468,7 @@ module.exports = [{
   part: '항문',
   desc: '최근 대변이 힘듦',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 21
 },
 {
   code: 88,
@@ -479,7 +479,7 @@ module.exports = [{
   part: '목,배,가슴',
   desc: '신 트림이나 속 쓰림',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 12
 },
 {
   code: 89,
@@ -490,7 +490,7 @@ module.exports = [{
   part: '머리,귀',
   desc: '머리에 직간접적 충격',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/033-dizziness.png',
-  score: 0
+  score: 11
 },
 {
   code: 90,
@@ -501,7 +501,7 @@ module.exports = [{
   part: '가슴',
   desc: '갑자기 숨을 못 쉼',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
-  score: 0
+  score: 5
 },
 {
   code: 92,
@@ -512,7 +512,7 @@ module.exports = [{
   part: '머리,배',
   desc: '최근 모기에 물림',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 3
 },
 {
   code: 94,
@@ -523,7 +523,7 @@ module.exports = [{
   part: '배,옆구리,등',
   desc: '담석 증상이나 음주',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 15
 },
 {
   code: 97,
@@ -534,7 +534,7 @@ module.exports = [{
   part: '눈',
   desc: '건조한 환경',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
-  score: 0
+  score: 6
 },
 {
   code: 101,
@@ -545,7 +545,7 @@ module.exports = [{
   part: '머리,눈',
   desc: '심한 두통과 열',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
-  score: 0
+  score: 4
 },
 {
   code: 102,
@@ -556,7 +556,7 @@ module.exports = [{
   part: '옆구리,방광',
   desc: '요실금,소변량 변화, 소변보기 힘듦',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 2
 },
 {
   code: 103,
@@ -567,7 +567,7 @@ module.exports = [{
   part: '눈',
   desc: '고연령, 고혈압',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/092-eyelids.png',
-  score: 0
+  score: -1
 },
 {
   code: 104,
@@ -579,7 +579,7 @@ module.exports = [{
   desc: '원인 불명',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 1
 },
 {
   code: 109,
@@ -591,7 +591,7 @@ module.exports = [{
   desc: '잘못된 자세로 근무',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 22
 },
 {
   code: 112,
@@ -602,7 +602,7 @@ module.exports = [{
   part: '배',
   desc: '혈변, 설사, 대변',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 4
 },
 {
   code: 113,
@@ -613,7 +613,7 @@ module.exports = [{
   part: '손',
   desc: '과거 골절, 혹은 당뇨병',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
-  score: 0
+  score: 3
 },
 {
   code: 114,
@@ -624,7 +624,7 @@ module.exports = [{
   part: '가슴',
   desc: '흡연, 고혈압, 맥박 이상,객혈(피가래)',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
-  score: 0
+  score: 4
 },
 {
   code: 116,
@@ -635,7 +635,7 @@ module.exports = [{
   part: '가슴,목',
   desc: '객혈(피가래) 누워 있을 때 심해짐',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
-  score: 0
+  score: 3
 },
 {
   code: 117,
@@ -646,7 +646,7 @@ module.exports = [{
   part: '가슴,배,머리,근육',
   desc: '중동지역 여행 혹은 해당 지역 여행자와의 접촉',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
-  score: 0
+  score: 10
 },
 {
   code: 119,
@@ -657,7 +657,7 @@ module.exports = [{
   part: '피부',
   desc: '손발톱 변형, 여름에 완화',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
-  score: 0
+  score: 6
 },
 {
   code: 120,
@@ -668,7 +668,7 @@ module.exports = [{
   part: '머리',
   desc: '고혈압, 당뇨병, 고지혈증 등 성인병 보유자',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/033-dizziness.png',
-  score: 0
+  score: 8
 },
 {
   code: 124,
@@ -679,7 +679,7 @@ module.exports = [{
   part: '배,근육',
   desc: '최근 잘못된 음식 섭취',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 12
 },
 {
   code: 126,
@@ -690,7 +690,7 @@ module.exports = [{
   part: '목,머리,배',
   desc: '목에 통증, 고열, 전신에 빨간 발진',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 8
 },
 {
   code: 129,
@@ -702,7 +702,7 @@ module.exports = [{
   desc: '갑상선 질환을 앓거나 스트레스를 많이 받고 있는 여성',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 2
 },
 {
   code: 133,
@@ -713,7 +713,7 @@ module.exports = [{
   part: '항문',
   desc: '혈변,토혈,흑색변',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 6
 },
 {
   code: 135,
@@ -722,9 +722,9 @@ module.exports = [{
   symptom: '소변,부종,무기력,메스꺼움, 구토, 빈혈',
   core_symptom: '피로, 무기력, 혈압, 소변,구토',
   part: '방광, 배,피부,',
-  desc: '혈뇨,거품많은 오줌',
-  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png', // ????
-  score: 0
+  desc: '혈뇨, 거품많은 오줌',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
+  score: 11
 },
 {
   code: 137,
@@ -735,7 +735,7 @@ module.exports = [{
   part: '목,가슴',
   desc: '짧은 시간 내 고열, 침 삼키기 힘듦',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/013-bad_breath.png',
-  score: 0
+  score: 2
 },
 {
   code: 138,
@@ -746,7 +746,7 @@ module.exports = [{
   part: '배',
   desc: '설사, 대변, 혈변',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 5
 },
 {
   code: 140,
@@ -757,7 +757,7 @@ module.exports = [{
   part: '관절',
   desc: '골반 쪽 심한 통증',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 14
 },
 {
   code: 141,
@@ -768,7 +768,7 @@ module.exports = [{
   part: '배',
   desc: '민물고기/민물 생물 섭취',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
-  score: 0
+  score: 5
 },
 {
   code: 143,
@@ -779,7 +779,7 @@ module.exports = [{
   part: '배',
   desc: '유아, 발열 및 구토, 설사, 대변 지속',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 2
 },
 {
   code: 144,
@@ -790,7 +790,7 @@ module.exports = [{
   part: '피부,배',
   desc: '오른쪽 상복부 통증 혹은 약물 복용',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/097-vomiting.png',
-  score: 0
+  score: 4
 },
 {
   code: 145,
@@ -801,7 +801,7 @@ module.exports = [{
   part: '배,전신',
   desc: '오염 심한 지역에서 장시간 생활',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
-  score: 0
+  score: 6
 },
 {
   code: 146,
@@ -812,7 +812,7 @@ module.exports = [{
   part: '목,팔,다리,척추',
   desc: '목 주변 위화감, 압박감, 손발 마비',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 6
 },
 {
   code: 147,
@@ -824,7 +824,7 @@ module.exports = [{
   desc: '희미한 통증, 반복적인 움직임',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 8
 },
 {
   code: 148,
@@ -836,7 +836,7 @@ module.exports = [{
   desc: '혈뇨',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 12
 },
 {
   code: 150,
@@ -847,7 +847,7 @@ module.exports = [{
   part: '배,가슴,생식기,다리,목, 눈, 배, 척추, 방광,머리',
   desc: '최근 날 음식 섭취',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/036-acari.png',
-  score: 0
+  score: 2
 },
 {
   code: 151,
@@ -858,7 +858,7 @@ module.exports = [{
   part: '사타구니,다리,골반',
   desc: '미성년 비만 혹은 선천적 기형 골격 질환자',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 9
 },
 {
   code: 153,
@@ -869,7 +869,7 @@ module.exports = [{
   part: '머리, 근육',
   desc: '급격하게 체온 상승',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
-  score: 0
+  score: 5
 },
 {
   code: 156,
@@ -880,7 +880,7 @@ module.exports = [{
   part: '머리,근육,눈,피부',
   desc: '최근 쥐 등 야생동물과 접촉 혹은 야생동물 많은 곳 생활 객혈(피가래), 각혈',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/071-pet_allergy.png',
-  score: 0
+  score: -2
 },
 {
   code: 158,
@@ -891,7 +891,7 @@ module.exports = [{
   part: '관절',
   desc: '질병 겪은 후 통증',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 4
 },
 {
   code: 168,
@@ -902,7 +902,7 @@ module.exports = [{
   part: '코, 머리',
   desc: '오랜 시간 냉방기기 사용',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 15
 },
 {
   code: 169,
@@ -914,7 +914,7 @@ module.exports = [{
   desc: '여성 질환,50-60대',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: -1
 },
 {
   code: 170,
@@ -925,7 +925,7 @@ module.exports = [{
   part: '무릎, 관절',
   desc: '날씨에 따라 통증이 달라짐',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 6
 },
 {
   code: 172,
@@ -936,7 +936,7 @@ module.exports = [{
   part: '코',
   desc: '자주 생기는 증상',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/003-rhinitis.png',
-  score: 0
+  score: 18
 },
 {
   code: 180,
@@ -947,7 +947,7 @@ module.exports = [{
   part: '머리,전신',
   desc: '더운 장소에서 지나치게 오래 있음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
-  score: 0
+  score: 13
 },
 {
   code: 181,
@@ -958,7 +958,7 @@ module.exports = [{
   part: '머리,전신,가슴',
   desc: '현재 높은 고도에 있거나, 공기가 희박한 곳에 있음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
-  score: 0
+  score: 8
 },
 {
   code: 183,
@@ -970,7 +970,7 @@ module.exports = [{
   desc: '여성질환',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 2
 },
 {
   code: 195,
@@ -981,7 +981,7 @@ module.exports = [{
   part: '입,피부,치아',
   desc: '야채나 과일 섭취 부족',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
-  score: 0
+  score: 9
 },
 {
   code: 203,
@@ -992,7 +992,7 @@ module.exports = [{
   part: '배,머리',
   desc: '잘못된 식품 섭취 혹은 대변과 접촉',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 1
 },
 {
   code: 205,
@@ -1004,7 +1004,7 @@ module.exports = [{
   desc: '쥐가 서식하는 곳에서 생활',
   /* 이미지 수정 필요 */
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: -2
 },
 {
   code: 206,
@@ -1015,7 +1015,7 @@ module.exports = [{
   part: '머리, 뒤통수',
   desc: '다양한 원인이 있으며 스트레스, 불안, 우울증에 영향을 받기도 함',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/047-frontal_headaches.png',
-  score: 0
+  score: 18
 },
 {
   code: 209,
@@ -1026,7 +1026,7 @@ module.exports = [{
   part: '후두, 목',
   desc: '위산이 역류하면서 생기는 역류성 후두염, 바이러스 감염에 의한 경우에는 감염성 후두염',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/056-sore_throat.png',
-  score: 0
+  score: 14
 },
 {
   code: 212,
@@ -1037,7 +1037,7 @@ module.exports = [{
   part: '코, 폐',
   desc: '세기관지염은 대부분 바이러스 감염에 의해 발생',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/056-sore_throat.png',
-  score: 0
+  score: 12
 },
 {
   code: 213,
@@ -1048,7 +1048,7 @@ module.exports = [{
   part: '발목, 발, 인대, 관절',
   desc: '관절의 운동이 허용된 범위를 벗어나는 경우',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 16
 },
 {
   code: 227,
@@ -1059,7 +1059,7 @@ module.exports = [{
   part: '구강, 입, 치아, 이빨',
   desc: '구강내 바이러스 감염이나 신체의 피로, 스트레스, 감기 혹은 구강내 위생의 불량, 충치, 외상 등',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
-  score: 0
+  score: 14
 },
 {
   code: 229,
@@ -1070,7 +1070,7 @@ module.exports = [{
   part: '폐, 가슴, 흉부',
   desc: '세균에 의해 숨을 쉬는 경로 중 호흡세기관지 이하 부위의 폐조직에 염증반응과 경화를 일으키는 질환',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
-  score: 0
+  score: 16
 },
 {
   code: 230,
@@ -1081,7 +1081,7 @@ module.exports = [{
   part: '머리, 뒤통수',
   desc: '과도한 신경집중 및 스트레스',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/047-frontal_headaches.png',
-  score: 0
+  score: 19
 },
 {
   code: 235,
@@ -1092,7 +1092,7 @@ module.exports = [{
   part: '뼈, 근육, 전신',
   desc: '낙상, 자동차 사고, 추락 등',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 18
 },
 {
   code: 236,
@@ -1103,7 +1103,7 @@ module.exports = [{
   part: '피부, 손',
   desc: '피부에 자극을 줄 수 있는 화학물질이나 물리적 자극물질에 일정한 농도 이상과 일정한 시간 이상의 노출을 주면 모든 사람에게 일어날 수 있는 피부염',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
-  score: 0
+  score: 7
 },
 {
   code: 237,
@@ -1114,7 +1114,7 @@ module.exports = [{
   part: '항문, 배',
   desc: '항문 부위의 수술, 외상 후나 당뇨병, 염증성 장질환',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 16
 },
 {
   code: 239,
@@ -1125,7 +1125,7 @@ module.exports = [{
   part: '목, 기관지, 폐',
   desc: '만성폐쇄폐질환은 점차적으로 기도가 좁아져 공기의 유출이 제한(비가역적 기도폐쇄)되는 질병',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
-  score: 0
+  score: 6
 },
 {
   code: 240,
@@ -1136,139 +1136,139 @@ module.exports = [{
   part: '심장, 폐, 신장',
   desc: '미생물, 균, 박테리아를 통한 감염',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/007-anaphylaxis.png',
-  score: 0
+  score: 10
 },
 {
-    code: 242,
-    name: '뇌수막염(소아)',
-    cause: '바이러스, 세균, 진균, 기생충 같은 미생물에 의해 발생한다. 이들 미생물은 우리 몸의 혈액 속으로 들어가 뇌척수액에 침입한다. 비감염성 뇌막염에는 암, 전신홍반루푸스, 특정 약물에 대한 염증 반응이 원인들이 될 수 있다.',
-    symptom: '발열, 구토, 경련, 눈부심, 두통, 경부강직, 발진',
-    core_symptom: '두통, 경부강직, 발열',
-    part: '머리, 뇌, 목',
-    desc: '신생아 뇌막염 역시 성인 뇌막염과 마찬가지로 세균, 바이러스, 진균, 원충 등이 원인, 초기 증상 및 징후는 다른 감염 질환이나 비감염 질환과 구별하기가 힘들다.',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/009-anticonvulsants.png',
-    score: 0
+  code: 242,
+  name: '뇌수막염(소아)',
+  cause: '바이러스, 세균, 진균, 기생충 같은 미생물에 의해 발생한다. 이들 미생물은 우리 몸의 혈액 속으로 들어가 뇌척수액에 침입한다. 비감염성 뇌막염에는 암, 전신홍반루푸스, 특정 약물에 대한 염증 반응이 원인들이 될 수 있다.',
+  symptom: '발열, 구토, 경련, 눈부심, 두통, 경부강직, 발진',
+  core_symptom: '두통, 경부강직, 발열',
+  part: '머리, 뇌, 목',
+  desc: '신생아 뇌막염 역시 성인 뇌막염과 마찬가지로 세균, 바이러스, 진균, 원충 등이 원인, 초기 증상 및 징후는 다른 감염 질환이나 비감염 질환과 구별하기가 힘들다.',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/009-anticonvulsants.png',
+  score: 4
 },
 {
-    code: 245,
-    name: '위장염 및 결장염',
-    cause: '위장염은 대부분 감염으로 발생하지만 독소나 약물을 섭취해도 나타날 수 있다. 위장염을 초래하는 감염은 특히 설사가 나타나는 사람이 배변을 본 후 손을 깨끗이 씻지 않을 경우 사람들 간에 전염될 수 있다. \n뿐만 아니라 사람들이 감염된 대변으로 오염된 물체(예: 기저귀나 완구)를 만진 후 입을 만질 때도 감염이 나타날 수 있다.',
-    symptom: '설사, 메스꺼움, 구토, 복통',
-    core_symptom: '복통, 설사',
-    part: '복부',
-    desc: '건강한 성인에게 위장염은 대부분 심각하지 않다. 중환자나 허약자, 영유아, 노인의 경우에는 생명을 위협하는 탈수와 전해질 불균형을 초래할 수 있다.',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-    score: 0
+  code: 245,
+  name: '위장염 및 결장염',
+  cause: '위장염은 대부분 감염으로 발생하지만 독소나 약물을 섭취해도 나타날 수 있다. 위장염을 초래하는 감염은 특히 설사가 나타나는 사람이 배변을 본 후 손을 깨끗이 씻지 않을 경우 사람들 간에 전염될 수 있다. \n뿐만 아니라 사람들이 감염된 대변으로 오염된 물체(예: 기저귀나 완구)를 만진 후 입을 만질 때도 감염이 나타날 수 있다.',
+  symptom: '설사, 메스꺼움, 구토, 복통',
+  core_symptom: '복통, 설사',
+  part: '복부',
+  desc: '건강한 성인에게 위장염은 대부분 심각하지 않다. 중환자나 허약자, 영유아, 노인의 경우에는 생명을 위협하는 탈수와 전해질 불균형을 초래할 수 있다.',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+  score: 24
 },
 {
-    code: 248,
-    name: '골반통',
-    cause: '소화관 장애(위장염, 변비, 고름, 종양), 소변 장애(감염, 요로 결석 및 감염 없는 방광 염증), 근골격 장애(분만 후 치골 탈골, 섬유근통 및 긴장된 복근)',
-    symptom: '통증, 메스꺼움, 구토, 출혈',
-    core_symptom: '통증',
-    part: '골반',
-    desc: '복부 아래 부위, 관골 사이에서 발생하는 불편함. 골반통에 음부(외음) 외부에 나타나는 통증은 해당되지 않는다.',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-    score: 0
+  code: 248,
+  name: '골반통',
+  cause: '소화관 장애(위장염, 변비, 고름, 종양), 소변 장애(감염, 요로 결석 및 감염 없는 방광 염증), 근골격 장애(분만 후 치골 탈골, 섬유근통 및 긴장된 복근)',
+  symptom: '통증, 메스꺼움, 구토, 출혈',
+  core_symptom: '통증',
+  part: '골반',
+  desc: '복부 아래 부위, 관골 사이에서 발생하는 불편함. 골반통에 음부(외음) 외부에 나타나는 통증은 해당되지 않는다.',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+  score: 20
 },
 {
-    code: 249,
-    name: '질염',
-    cause: '질염은 박테리아, 효모, 그리고 기타 미생물에 의해 발생할 수도 있다. 질의 산도가 감소할 때, 질 안에 정상적으로 서식하는 보호 박테리아 수가 줄고 감염을 야기할 수 있는 박테리아 수가 증가한다. \n 또한 꽉 끼는 비흡수성 내의는 수분의 방출을 막아 박테리아와 효모의 성장을 장려한다.',
-    symptom: '분비물, 가려움증, 통증, 잦은 배뇨, 작열감',
-    core_symptom: '분비물, 통증',
-    part: '질',
-    desc: '질염은 질 분비물, 불편, 질 냄새를 야기할 수 있다. 화학물질 또는 기타 물질이 질을 자극하여 분비물과 불편을 야기',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/008-antibiotic_resistant.png',
-    score: 0
+  code: 249,
+  name: '질염',
+  cause: '질염은 박테리아, 효모, 그리고 기타 미생물에 의해 발생할 수도 있다. 질의 산도가 감소할 때, 질 안에 정상적으로 서식하는 보호 박테리아 수가 줄고 감염을 야기할 수 있는 박테리아 수가 증가한다. \n 또한 꽉 끼는 비흡수성 내의는 수분의 방출을 막아 박테리아와 효모의 성장을 장려한다.',
+  symptom: '분비물, 가려움증, 통증, 잦은 배뇨, 작열감',
+  core_symptom: '분비물, 통증',
+  part: '질',
+  desc: '질염은 질 분비물, 불편, 질 냄새를 야기할 수 있다. 화학물질 또는 기타 물질이 질을 자극하여 분비물과 불편을 야기',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/008-antibiotic_resistant.png',
+  score: 3
 },
 {
-    code: 250,
-    name: '칸디다증',
-    cause: '덥고 습한 날씨, 꽉 조이는 합성 소재의 속옷, 위생 불량 등 습한 피부 부위에서 발생하기 쉽다.',
-    symptom: '통증, 발진, 붉어짐',
-    core_symptom: '붉어짐, 발진',
-    part: '입, 생식기, 피부',
-    desc: '칸디다 효모는 구강, 소화관, 질에 정상적으로 분포하며 일반적으로 유해하지 않다. 그러나 특정 환경에서 칸디다는 점막과 피부의 습한 부위에서 과다 증식',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/076-redness.png',
-    score: 0
+  code: 250,
+  name: '칸디다증',
+  cause: '덥고 습한 날씨, 꽉 조이는 합성 소재의 속옷, 위생 불량 등 습한 피부 부위에서 발생하기 쉽다.',
+  symptom: '통증, 발진, 붉어짐',
+  core_symptom: '붉어짐, 발진',
+  part: '입, 생식기, 피부',
+  desc: '칸디다 효모는 구강, 소화관, 질에 정상적으로 분포하며 일반적으로 유해하지 않다. 그러나 특정 환경에서 칸디다는 점막과 피부의 습한 부위에서 과다 증식',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/076-redness.png',
+  score: 2
 },
 {
-    code: 251,
-    name: '신장 및 요관의 결석',
-    cause: '신장 결석은 소변 중의 이러한 여러 가지 성분의 균형이 무너질 때 생긴다. 또한 소변량이 모자라고 소변 중에 여러 물질을 결정으로 만들 수 있는 성분이 존재하는 경우에도 신장 결석이 생길 수 있다.\n 신장 결석은 소변이 지나치게 산성을 띠거나 알칼리성을 띠는 경우에도 발생할 수 있으며, 우리 몸이 소변 중의 특별한 성분을 적절하게 다시 흡수하지 못한 때에도 발생한다.',
-    symptom: '통증, 구토, 오한, 배뇨통, 빈뇨, 혈뇨',
-    core_symptom: '통증, 배뇨통',
-    part: '신장, 등통증',
-    desc: '신장 결석은 소변 안에 들어있는 물질들이 결정을 이루고 침착되어 마치 돌과 같은 형태를 이루어 콩팥 안에 생김으로써 여러 가지 증상과 합병증을 일으키는 질환',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-    score: 0
+  code: 251,
+  name: '신장 및 요관의 결석',
+  cause: '신장 결석은 소변 중의 이러한 여러 가지 성분의 균형이 무너질 때 생긴다. 또한 소변량이 모자라고 소변 중에 여러 물질을 결정으로 만들 수 있는 성분이 존재하는 경우에도 신장 결석이 생길 수 있다.\n 신장 결석은 소변이 지나치게 산성을 띠거나 알칼리성을 띠는 경우에도 발생할 수 있으며, 우리 몸이 소변 중의 특별한 성분을 적절하게 다시 흡수하지 못한 때에도 발생한다.',
+  symptom: '통증, 구토, 오한, 배뇨통, 빈뇨, 혈뇨',
+  core_symptom: '통증, 배뇨통',
+  part: '신장, 등통증',
+  desc: '신장 결석은 소변 안에 들어있는 물질들이 결정을 이루고 침착되어 마치 돌과 같은 형태를 이루어 콩팥 안에 생김으로써 여러 가지 증상과 합병증을 일으키는 질환',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+  score: 10
 },
 {
-    code: 252,
-    name: '기관지염',
-    cause: '대부분 바이러스 감염에 의해 발생하며, 호흡기세포융합바이러스 (Respiratory syncytial virus, RSV)가 50-75% 에서 원인이 되고 있다.',
-    symptom: '콧물, 코막힘, 미열, 기침, 천명',
-    core_symptom: '기침, 콧물',
-    part: '코, 입, 목',
-    desc: '호흡기 감염을 일으키는 바이러스들은 호흡기의 분비물에 존재하며 기침을 하거나 재채기를 할 때 직접 다른 사람들의 호흡기로 전파',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
-    score: 0
+  code: 252,
+  name: '기관지염',
+  cause: '대부분 바이러스 감염에 의해 발생하며, 호흡기세포융합바이러스 (Respiratory syncytial virus, RSV)가 50-75% 에서 원인이 되고 있다.',
+  symptom: '콧물, 코막힘, 미열, 기침, 천명',
+  core_symptom: '기침, 콧물',
+  part: '코, 입, 목',
+  desc: '호흡기 감염을 일으키는 바이러스들은 호흡기의 분비물에 존재하며 기침을 하거나 재채기를 할 때 직접 다른 사람들의 호흡기로 전파',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
+  score: 9
 },
 {
-    code: 259,
-    name: '급성 충수염',
-    cause: '급성충수염은 어떤 원인에서든지 충수 내부가 막히면서 시작된다. 충수가 막히게 되면 충수로부터 대장으로 향하는 정상적인 장의 연동운동이 제한, \n 고인 물이 썩듯이 저류가 일어난 상태에서 장내 세균이 증식하고 독성 물질을 분비하게 된다. 그러면 이 물질들에 의해서 충수 내부 점막이 손상 받고 궤양을 형성하게 된다. 이후 충수 내부의 압력이 증가되면 충수로 가는 동맥혈의 흐름이 저하되고 충수 벽이 괴사되어 천공으로 진행된다.',
-    symptom: '복통, 미열',
-    core_symptom: '복통',
-    part: '배',
-    desc: '흔히 맹장염으로 부르기도 한다. ',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
-    score: 0
+  code: 259,
+  name: '급성 충수염',
+  cause: '급성충수염은 어떤 원인에서든지 충수 내부가 막히면서 시작된다. 충수가 막히게 되면 충수로부터 대장으로 향하는 정상적인 장의 연동운동이 제한, \n 고인 물이 썩듯이 저류가 일어난 상태에서 장내 세균이 증식하고 독성 물질을 분비하게 된다. 그러면 이 물질들에 의해서 충수 내부 점막이 손상 받고 궤양을 형성하게 된다. 이후 충수 내부의 압력이 증가되면 충수로 가는 동맥혈의 흐름이 저하되고 충수 벽이 괴사되어 천공으로 진행된다.',
+  symptom: '복통, 미열',
+  core_symptom: '복통',
+  part: '배',
+  desc: '흔히 맹장염으로 부르기도 한다. ',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/001-cramps.png',
+  score: 21
 },
 {
-    code: 263,
-    name: '실신',
-    cause: '가장 흔한 실신의 원인은 미주신경성 실신이다. 오래 서 있는 것 자체가 실신의 원인이 될 수 있지만 피로하거나 직사광선을 쪼여서 탈수가 생기면 더 잘 일어난다. \n 평소 운동량이 부족하거나 하체의 근육이 적거나 다이어트를 과도하게 했거나, 수분 섭취가 부족한 경우 심장에서 뇌로 가는 피의 양을 일정하게 유지하지 못해 실신이 발생할 수 있다.',
-    symptom: '어지럼증',
-    core_symptom: '어지럼증',
-    part: '뇌, 머리',
-    desc: '어떤 원인에 의해 뇌로 가는 혈액의 양이 갑자기 줄어들거나 산소의 양이 부족해지면 의식을 잃고 쓰러지게 되는데, 잠시 지나서 바로 회복하는 경우를 실신이라고 한다.',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
-    score: 0
+  code: 263,
+  name: '실신',
+  cause: '가장 흔한 실신의 원인은 미주신경성 실신이다. 오래 서 있는 것 자체가 실신의 원인이 될 수 있지만 피로하거나 직사광선을 쪼여서 탈수가 생기면 더 잘 일어난다. \n 평소 운동량이 부족하거나 하체의 근육이 적거나 다이어트를 과도하게 했거나, 수분 섭취가 부족한 경우 심장에서 뇌로 가는 피의 양을 일정하게 유지하지 못해 실신이 발생할 수 있다.',
+  symptom: '어지럼증',
+  core_symptom: '어지럼증',
+  part: '뇌, 머리',
+  desc: '어떤 원인에 의해 뇌로 가는 혈액의 양이 갑자기 줄어들거나 산소의 양이 부족해지면 의식을 잃고 쓰러지게 되는데, 잠시 지나서 바로 회복하는 경우를 실신이라고 한다.',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
+  score: 17
 },
 {
-    code: 270,
-    name: '염좌',
-    cause: '염좌는 인대가 다친 것을 의미하는 것으로 가벼운 손상(인대의 부분 파열, 신연)에서부터 완전 파열까지의 다양한 정도의 인대 손상을 모두 포함한다. 그 손상 정도에 따라 1도에서 3도까지 구분할 수 있다.',
-    symptom: '통증',
-    core_symptom: '통증',
-    part: '인대, 발목',
-    desc: '부종, 출혈 및 압통이 있는 지 확인하며, 관절 불안정 유무를 확인하기 위해 손상된 인대에 대한 스트레스 부하 검사를 시행',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
-    score: 0
+  code: 270,
+  name: '염좌',
+  cause: '염좌는 인대가 다친 것을 의미하는 것으로 가벼운 손상(인대의 부분 파열, 신연)에서부터 완전 파열까지의 다양한 정도의 인대 손상을 모두 포함한다. 그 손상 정도에 따라 1도에서 3도까지 구분할 수 있다.',
+  symptom: '통증',
+  core_symptom: '통증',
+  part: '인대, 발목',
+  desc: '부종, 출혈 및 압통이 있는 지 확인하며, 관절 불안정 유무를 확인하기 위해 손상된 인대에 대한 스트레스 부하 검사를 시행',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
+  score: 22
 },
 {
-    code: 273,
-    name: '외이염',
-    cause: '약화된 면역체계를 가진 사람과 당뇨를 가진 고령의 사람에게서 주로 나타난다.',
-    symptom: '통증, 분비물',
-    core_symptom: '통증, 분비물',
-    part: '귀',
-    desc: '대개 청력 저하를 겪는다. 심각한 경우, 감염이 두개골저로 퍼지면서 얼굴과 머리의 신경 마비가 나타날 수 있다.',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
-    score: 0
+  code: 273,
+  name: '외이염',
+  cause: '약화된 면역체계를 가진 사람과 당뇨를 가진 고령의 사람에게서 주로 나타난다.',
+  symptom: '통증, 분비물',
+  core_symptom: '통증, 분비물',
+  part: '귀',
+  desc: '대개 청력 저하를 겪는다. 심각한 경우, 감염이 두개골저로 퍼지면서 얼굴과 머리의 신경 마비가 나타날 수 있다.',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
+  score: 1
 },
 {
-    code: 275,
-    name: '아토피성 피부염',
-    cause: '아토피 피부염은 환자의 유전적인 소인과 환경적인 요인, 환자의 면역학적 이상과 피부 보호막 역할을 하는 피부장벽기능의 이상 등 여러 원인이 복합적으로 작용하는 것으로 알려져 있다. \n 온도와 습도, 정신적 스트레스, 식품 알레르기 등에 주의해야 한다.',
-    symptom: '가려움증',
-    core_symptom: '가려움증',
-    part: '피부',
-    desc: '가려움증이 심하고 외부의 자극 혹은 알레르기 유발 물질에 매우 민감하게 반응한다. 가려움증은 전형적으로 저녁에 심해지고, 피부를 긁음으로써 유발되는 피부의 습진성 변화가 특징',
-    img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/051-hives.png',
-    score: 0
+  code: 275,
+  name: '아토피성 피부염',
+  cause: '아토피 피부염은 환자의 유전적인 소인과 환경적인 요인, 환자의 면역학적 이상과 피부 보호막 역할을 하는 피부장벽기능의 이상 등 여러 원인이 복합적으로 작용하는 것으로 알려져 있다. \n 온도와 습도, 정신적 스트레스, 식품 알레르기 등에 주의해야 한다.',
+  symptom: '가려움증',
+  core_symptom: '가려움증',
+  part: '피부',
+  desc: '가려움증이 심하고 외부의 자극 혹은 알레르기 유발 물질에 매우 민감하게 반응한다. 가려움증은 전형적으로 저녁에 심해지고, 피부를 긁음으로써 유발되는 피부의 습진성 변화가 특징',
+  img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/051-hives.png',
+  score: 7
 },
 {
   code: 277,
@@ -1279,7 +1279,7 @@ module.exports = [{
   part: '생식기, 성기',
   desc: '여성질환, 출산 경험이 적거나 없음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/073-pollen.png',
-  score: 0
+  score: 10
 },
 {
   code: 278,
@@ -1290,7 +1290,7 @@ module.exports = [{
   part: '다리, 무릎',
   desc: '환부에 심한 충격을 받음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/057-joint.png',
-  score: 0
+  score: 16
 },
 {
   code: 279,
@@ -1301,7 +1301,7 @@ module.exports = [{
   part: '피부,입,귀,코,손,발,생식기,얼굴',
   desc: '피부에 딱딱한 군살이 자라남',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/055-allergy.png',
-  score: 0
+  score: 14
 },
 {
   code: 281,
@@ -1312,7 +1312,7 @@ module.exports = [{
   part: '귀',
   desc: '귀에서 농이 배출됨',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
-  score: 0
+  score: 11
 },
 {
   code: 282,
@@ -1323,7 +1323,7 @@ module.exports = [{
   part: '가슴, 목',
   desc: '가벼운 감기였다가 갑자기 심각해짐',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
-  score: 0
+  score: 17
 },
 {
   code: 283,
@@ -1334,7 +1334,7 @@ module.exports = [{
   part: '전신,근육,머리,목',
   desc: '갑작스러운 고열 발생',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/044-fever.png',
-  score: 0
+  score: 17
 },
 {
   code: 284,
@@ -1345,7 +1345,7 @@ module.exports = [{
   part: '피부',
   desc: '상처가 났거나 이물질이 침입한 부위',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
-  score: 0
+  score: 10
 },
 {
   code: 286,
@@ -1356,7 +1356,7 @@ module.exports = [{
   part: '귀',
   desc: '귓 속 염증, 악취와 고름 발생',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/037-ear.png',
-  score: 0
+  score: 7
 },
 {
   code: 288,
@@ -1367,7 +1367,7 @@ module.exports = [{
   part: '코,머리',
   desc: '코가 막히고 숨쉬기 힘듦',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/077-runny_nose.png',
-  score: 0
+  score: 10
 },
 {
   code: 289,
@@ -1378,7 +1378,7 @@ module.exports = [{
   part: '생식기',
   desc: '여성질환, 월경과다, 생리 불순',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/073-pollen.png',
-  score: 0
+  score: 1
 },
 {
   code: 290,
@@ -1400,7 +1400,7 @@ module.exports = [{
   part: '배',
   desc: '배에 Gas가 계속 참',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/029-diarrhea.png',
-  score: 0
+  score: 12
 },
 {
   code: 295,
@@ -1411,7 +1411,7 @@ module.exports = [{
   part: '생식기',
   desc: '생리 양이 지나치게 적거나 생리가 없음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/073-pollen.png',
-  score: 0
+  score: 6
 },
 {
   code: 301,
@@ -1422,7 +1422,7 @@ module.exports = [{
   part: '근육,뼈',
   desc: '유사한 동작의 반복 수행',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/102-carpal_tunnel.png',
-  score: 0
+  score: 2
 },
 {
   code: 304,
@@ -1433,7 +1433,7 @@ module.exports = [{
   part: '어깨',
   desc: '어깨가 결리고 툭 하는 소리가 들림',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/004-allergologist.png',
-  score: 0
+  score: 8
 },
 {
   code: 310,
@@ -1444,7 +1444,7 @@ module.exports = [{
   part: '코,뺨,눈',
   desc: '코가 막히고 숨쉬기 힘듦, 최근 감기 앓음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/084-sneeze.png',
-  score: 0
+  score: 15
 },
 {
   code: 314,
@@ -1455,7 +1455,7 @@ module.exports = [{
   part: '치아, 입',
   desc: '치아를 칫솔로 잘 안 닦음,',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/093-toothache.png',
-  score: 0
+  score: 18
 },
 {
   code: 318,
@@ -1466,7 +1466,7 @@ module.exports = [{
   part: '목, 코, 인두, 후두, 편도, 식도, 성대',
   desc: '인두와 편도가 빨갛게 부어오르고 열이 나며 통증',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/084-sneeze.png',
-  score: 0
+  score: 16
 },
 {
   code: 319,
@@ -1477,7 +1477,7 @@ module.exports = [{
   part: '목, 코, 가슴',
   desc: '폐 속에 있는 기관지가 때떄로 좁아져서 호흡곤란, 기침, 천명 등 호흡기 증상이 반복적으로 그리고 갑작스롭게 발작적으로 나타난다.',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/031-asthma.png',
-  score: 0
+  score: 10
 },
 {
   code: 320,
@@ -1488,7 +1488,7 @@ module.exports = [{
   part: '다리, 피부',
   desc: '피부 점막 부위를 통해 세균이 침범',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
-  score: 0
+  score: 14
 },
 {
   code: 321,
@@ -1499,7 +1499,7 @@ module.exports = [{
   part: '혀, 잇몸, 구강점막',
   desc: '타인의 체액에 노출, 피로, 기초 위생 불량',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
-  score: 0
+  score: -3
 },
 {
   code: 323,
@@ -1510,7 +1510,7 @@ module.exports = [{
   part: '잇몸, 입',
   desc: '음식물이 많이 끼며 치아가 시리고 흔들리는 증상, 씹을 때 힘이 없는 느낌',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/095-tingling.png',
-  score: 0
+  score: 9
 },
 {
   code: 324,
@@ -1521,7 +1521,7 @@ module.exports = [{
   part: '입, 목, 편도선, 코, 목젖,',
   desc: '목이 아픔, 음식 삼킬 때 통증, 구취',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/094-throat.png',
-  score: 0
+  score: 19
 },
 {
   code: 326,
@@ -1532,7 +1532,7 @@ module.exports = [{
   part: '신장',
   desc: '사구체 질환이 있는 경우 동반될 수 있음',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/081-skin_allergy.png',
-  score: 0
+  score: 18
 },
 {
   code: 336,
@@ -1543,7 +1543,7 @@ module.exports = [{
   part: '혈압',
   desc: '소금을 필요 이상으로 섭취, 고혈압 가족력, 음주, 흡연, 고령, 운동부족, 비만, 스트레스',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/059-loss_of_consciousness.png',
-  score: 0
+  score: 14
 },
 {
   code: 338,
@@ -1554,6 +1554,6 @@ module.exports = [{
   part: '목, 입, 임파선, 림프절, 턱',
   desc: '체중감소가 있고 만져지는 종물이 매우 딱딱함. 턱 밑이 붓고 아픔',
   img: 'https://raw.githubusercontent.com/TKvl6/myhand.nurseby/master/myhand.nurseby/assets/icon_png/094-throat.png',
-  score: 0
+  score: 10
 },
 ]
