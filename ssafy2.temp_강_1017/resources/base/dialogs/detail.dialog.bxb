@@ -1,4 +1,0 @@
-dialog (Result) {
-  match: Disease(this)
-  template("아프지 마세요.")
-}

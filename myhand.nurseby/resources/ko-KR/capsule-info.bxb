@@ -1,28 +1,25 @@
 capsule-info {
-  display-name (너스비)
+  display-name (닥터 비)
   developer-name (SSAFY MH)
   icon-asset (./icon.png)
   description ("부위 및 증상에 따라서 유사한 병명을 리스트로 알려주는 캡슐입니다.")
   website-url (https://github.com/TKvl6/myhand.nurseby/tree/master/myhand.nurseby)
   terms-url (https://github.com/TKvl6/myhand.nurseby/tree/master/myhand.nurseby)
-  // privacy-policy-url(https://github.com/TKvl6/myhand.nurseby/blob/master/Privacy_Policy_Nurseby.txt)
+  privacy-policy-url(https://github.com/TKvl6/myhand.nurseby/blob/master/Privacy_Policy_Doctorby.txt)
   search-keywords {
     keyword (질병)
     keyword (건강)
-    keyword (너스비)
+    keyword (닥터비)
+    keyword (닥터 비)
     keyword (간호)
     keyword (병)
     keyword (아파)
     keyword (아플때)
   }
-  dispatch-name (너스비)
-  dispatch-aliases {
-    alias (너스빌)
-    alias (너쓰비)
-    alias (너쓰리)
-    alias (널스비)
-    alias (널스빌)
-  }
+  dispatch-name (닥터 비)
+  // dispatch-aliases {
+
+  // }
   action-bg-color (#FFC50A)
   action-fg-color (#FFFFFF)
 }

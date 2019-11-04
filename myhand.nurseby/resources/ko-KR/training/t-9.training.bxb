@@ -1,7 +1,7 @@
 train (t-9ap8qdclwete7iolunopqmrm0) {
-  utterance ("[g:myhand.nurseby.SearchDisease] (사타구니)[v:myhand.nurseby.Part]가 이상해")
-  plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)
-  last-modified (1572251929148)
+  utterance ("[g:SearchDisease] (사타구니)[v:Part]가 이상해")
+  plan (Y2BmEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlTAwMTACMQOQZGQAASgfAA==)
+  last-modified (1572847620943)
 }
 train (t-9sa56f2783dnpx0jmmbxnihqb) {
   utterance ("[g:SearchDisease] (무릎)[v:Part]이 (아파)[v:Symptom]")

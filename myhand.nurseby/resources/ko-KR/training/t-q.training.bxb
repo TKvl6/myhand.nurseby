@@ -1,7 +1,7 @@
 train (t-q64ut3w6hcps22l81j9k1nk7e) {
-  utterance ("[g:SearchDisease] 너스비에서, (입)[v:Part] 속에 뭐가 났어")
+  utterance ("[g:SearchDisease] 닥터 비에서, (입)[v:Part] 속에 뭐가 났어")
   plan (Y2BmEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVMDAxMAIxA5BkZAABKB8A)
-  last-modified (1572237866901)
+  last-modified (1572848295616)
 }
 train (t-q7s2m2wv972x3pm1thctjby3d) {
   utterance ("[g:SearchDisease] 나 계속 (토)[v:Symptom]할거 같아")

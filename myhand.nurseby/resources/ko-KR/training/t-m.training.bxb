@@ -9,7 +9,7 @@ train (t-mckrs71t0vxis60nideuess8e) {
   last-modified (1572250725780)
 }
 train (t-myjiq72siaue2jf02lamjrt7r) {
-  utterance ("[g:myhand.nurseby.SearchDisease] (발가락)[v:myhand.nurseby.Part] (간지러)[v:Symptom]")
-  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572251531461)
+  utterance ("[g:SearchDisease] (발가락)[v:Part] (간지러)[v:Symptom]")
+  plan (Y2BhEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlWCaFlyZW1CSn8vAzMDIwAQkGYA0CEIAXBQA)
+  last-modified (1572847645848)
 }

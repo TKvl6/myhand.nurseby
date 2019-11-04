@@ -1,5 +1,0 @@
-train (t-hgmnec00jawqbcwo1qa31lz5s) {
-  utterance ("[g:Results] (기침)[v:InputSymptom]이 나와")
-  plan (Y2BmEC4uTkyrNNIrSc0t0AtKLS7NKSlmkEQWDE5NLErOcMksTk0sTmWQQJbyzCsoLQmuzC0oyc9lYGJgBGIGIMnIAAJMEAwA)
-  last-modified (1570292420428)
-}

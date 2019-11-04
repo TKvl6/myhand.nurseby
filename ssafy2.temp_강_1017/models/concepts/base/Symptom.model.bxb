@@ -1,6 +1,0 @@
-name (Symptom) {
-  description (inputSymptom)
-  features{
-    transient
-  }
-}

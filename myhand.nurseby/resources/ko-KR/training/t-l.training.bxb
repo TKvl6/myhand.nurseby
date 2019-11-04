@@ -1,12 +1,12 @@
 train (t-l45dek17lgfhtydb93dj0bhpo) {
-  utterance ("[g:myhand.nurseby.SearchDisease] (가슴팍)[v:Part]이 아프고 (가래)[v:myhand.nurseby.Symptom] 나와")
-  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572248634525)
+  utterance ("[g:SearchDisease] (가슴팍)[v:Part]이 아프고 (가래)[v:Symptom] 나와")
+  plan (Y2BhEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlWCaFlyZW1CSn8vAzMDIwAQkGYA0CEIAXBQA)
+  last-modified (1572847695081)
 }
 train (t-l5c7emog4oo4tx92izhia1ih3) {
-  utterance ("[g:myhand.nurseby.SearchDisease] (어깨)[v:Part] (근육)[v:myhand.nurseby.Part]이 뭉쳤어")
-  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCDIwsDIwMTADKQZwCwmIMnAwAOEDEBRRogMAA==)
-  last-modified (1572248987205)
+  utterance ("[g:SearchDisease] (어깨)[v:Part] (근육)[v:Part]이 뭉쳤어")
+  plan (Y2BlEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlZAkysLAyMDEwAykGcAsJiDJwMADhAxAUUaIDAA=)
+  last-modified (1572847715521)
 }
 train (t-lc8yucmf8xh0jbe8khjcift2g) {
   utterance ("[g:SearchDisease] (가래)[v:Symptom]가 나와")

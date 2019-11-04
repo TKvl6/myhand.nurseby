@@ -1,7 +1,0 @@
-structure (Topart) {
-  description (intput part)
-  property (Part) {
-    type (Part)
-    min (Required) max (Many)
-  }
-}

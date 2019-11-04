@@ -1,5 +1,5 @@
 train (t-jfd10u1cd5n6pkj0oka76cpa4) {
-  utterance ("[g:myhand.nurseby.SearchDisease] 새끼 (발가락)[v:myhand.nurseby.Part]이랑 (발바닥)[v:myhand.nurseby.Part]도 (아파)[v:myhand.nurseby.Symptom]")
-  plan (Y2BjEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCCIbmlwZW5BSX4uAysDIwMTAzMDC5DFAGYzAUlGIJsHCEGABciDygMA)
-  last-modified (1572251692701)
+  utterance ("[g:SearchDisease] 새끼 (발가락)[v:Part]이랑 (발바닥)[v:Part]도 (아파)[v:Symptom]")
+  plan (Y2BjEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlZAkimFzcGVuQUl+LgMrAyMDEwMzAwuQxQBmMwFJRiCbBwhBgAXIg8oDAA==)
+  last-modified (1572847687031)
 }

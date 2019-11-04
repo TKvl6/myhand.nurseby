@@ -1,7 +1,7 @@
 train (t-ghco5e0pjuxccm9gstig6cw0q) {
-  utterance ("[g:SearchDisease] 너스비에서 (목)[v:Part] 아프고 (기침)[v:Symptom]이 나와")
+  utterance ("[g:SearchDisease] (목)[v:Part] 아프고 (기침)[v:Symptom]이 나와")
   plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572248394141)
+  last-modified (1572848264285)
 }
 train (t-gljb7e7fq5n99ee1e04wgtpik) {
   utterance ("[g:SearchDisease] (가슴)[v:Part] (아파)[v:Symptom]")

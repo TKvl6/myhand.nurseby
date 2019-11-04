@@ -1,5 +1,0 @@
-train (t-6buzl5u7tfm6nj6q7b2gku00w) {
-  utterance ("[g:SearchDisease] (기침)[v:Symptom]이랑 (가래)[v:Symptom] 나와")
-  plan (Y2BlEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMmi6wquzC0oyc8lWZyFgZGBiYEZSDOAWUxAkoGBBwgZgKKMEBkA)
-  last-modified (1571669078945)
-}

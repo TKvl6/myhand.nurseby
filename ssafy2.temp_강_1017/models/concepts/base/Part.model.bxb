@@ -1,6 +1,0 @@
-name (Part) {
-  description (inputPart)
-  features{
-    transient
-  }
-}

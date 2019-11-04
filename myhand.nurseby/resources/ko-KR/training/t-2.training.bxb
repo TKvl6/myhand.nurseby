@@ -1,7 +1,7 @@
 train (t-25wzl2j7yjuaqnezfm01nmhsr) {
-  utterance ("[g:myhand.nurseby.SearchDisease] (인대)[v:Part]가 너무 (아파)[v:myhand.nurseby.Symptom]")
-  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572258287207)
+  utterance ("[g:SearchDisease] (인대)[v:Part]가 너무 (아파)[v:Symptom]")
+  plan (Y2BhEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlWCaFlyZW1CSn8vAzMDIwAQkGYA0CEIAXBQA)
+  last-modified (1572848221486)
 }
 train (t-2co31s0yktdjojka6y7hhog05) {
   utterance ("[g:SearchDisease] (골반)[v:Part]이 (뻐근)[v:Symptom]하네")
@@ -14,14 +14,14 @@ train (t-2u1i4mff8l8nky9t8k4e9t4tc) {
   last-modified (1572250659085)
 }
 train (t-2ux1tlk73pp9dq5k562zud3rh) {
-  utterance ("[g:myhand.nurseby.SearchDisease] (발가락)[v:myhand.nurseby.Part]이 (가려워)[v:Symptom]")
-  plan (Y2BhEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVYBgVXJlbUJKfy8DMwMjABCQZgDQIQgBcFAA=)
-  last-modified (1572251480901)
+  utterance ("[g:SearchDisease] (발가락)[v:Part]이 (가려워)[v:Symptom]")
+  plan (Y2BhEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlWCaFlyZW1CSn8vAzMDIwAQkGYA0CEIAXBQA)
+  last-modified (1572847566777)
 }
 train (t-2vg6cua0c1v4gnxld6heolzsj) {
-  utterance ("[g:myhand.nurseby.SearchDisease] 엄지 (발가락)[v:myhand.nurseby.Part]이랑 (발바닥)[v:Part] (아파)[v:myhand.nurseby.Symptom]")
-  plan (Y2BjEMutzEjMS9HLKy0qTk2q1HPJLE5NLE5lkEETD05NLErOgMkKo8kGJBaVkCCIbmlwZW5BSX4uAysDIwMTAzMDC5DFAGYzAUlGIJsHCEGABciDygMA)
-  last-modified (1572251654933)
+  utterance ("[g:SearchDisease] 엄지 (발가락)[v:Part]이랑 (발바닥)[v:Part] (아파)[v:Symptom]")
+  plan (Y2BjEM+tzEjMS9FLyU8uyS9KqtRzySxOTSxOZZBFlwhOTSxKzoBJi6BLByQWlZAkimFzcGVuQUl+LgMrAyMDEwMzAwuQxQBmMwFJRiCbBwhBgAXIg8oDAA==)
+  last-modified (1572847582842)
 }
 train (t-2zczb5yqxi0y4u19u3d3rf2lc) {
   utterance ("[g:SearchDisease] 완전 (피곤)[v:Symptom]해")
